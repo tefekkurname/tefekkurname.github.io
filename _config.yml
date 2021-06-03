@@ -24,9 +24,6 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 webmaster_verifications:
 
