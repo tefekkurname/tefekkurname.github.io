@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: [books, english]
-tags: [books, english]
+categories: [english, A]
+tags: [english, A]
 excerpt: Read or Download
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
