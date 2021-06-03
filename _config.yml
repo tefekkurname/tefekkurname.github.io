@@ -10,8 +10,6 @@ image: /assets/logo/image.png
 encoding: UTF-8
 languages: ['en', 'tr']
 language_default: 'tr'
-locale:
-      lang: tr_TR
       
 # Jekyll configuration
 
