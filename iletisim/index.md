@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MegaTeek Bilgisayar
+title:  Bilgisayar
 tags: [iletisim]
 lang: tr
 encoding: utf-8
