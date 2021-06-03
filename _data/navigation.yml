@@ -4,11 +4,11 @@
   img: 64a10217142239.562b6507a043d.png
   subnav:
 
-    - title: TURKISH
-      url: /turkish/
+    - title: TÜRKÇE
+      url: /turkce/kitaplar
   
     - title: ENGLISH
-      url: /english/
+      url: /english/books
       subnav:
   
   
