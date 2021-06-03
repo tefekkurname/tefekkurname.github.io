@@ -1,11 +1,17 @@
 # Site wide configuration
 
 title: Tefekkürname
-url:              
+url:
+description: Harun Yahya | Read or Download
+author: Harun Yahya
+logo: /assets/logo/logo.png
+image: /assets/logo/image.png
 encoding: UTF-8
 languages: ['en', 'tr']
 language_default: 'tr'
-
+locale:
+      lang: tr_TR
+      
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -22,7 +28,9 @@ gems:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
+webmaster_verifications:
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
