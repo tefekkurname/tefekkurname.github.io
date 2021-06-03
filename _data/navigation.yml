@@ -1,6 +1,6 @@
 # Site navigation links and tiles on main page
 - title: BOOKS
-  url: /
+  url: /books/
   img: 64a10217142239.562b6507a043d.png
   subnav:
 
@@ -9,10 +9,6 @@
   
     - title: ENGLISH
       url: /english/books
-      subnav:
-        
-        - title: A
-          url: /A/
   
 - title: ÜRÜNLER
   url: /guvenlik/
