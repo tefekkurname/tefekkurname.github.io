@@ -3,13 +3,13 @@
   url: /
   img: 64a10217142239.562b6507a043d.png
   subnav:
+
+    - title: TURKISH
+      url: /turkish/
   
     - title: ENGLISH
       url: /english/
       subnav:
-
-    - title: TURKISH
-      url: /turkish/
   
   
 - title: ÜRÜNLER
