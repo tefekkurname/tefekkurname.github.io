@@ -2,7 +2,7 @@
 layout: post
 categories: [books]
 tags: [books]
-excerpt: 
+excerpt: Read or Download
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8

@@ -5,10 +5,10 @@
   subnav:
 
     - title: TÜRKÇE
-      url: /turkce/kitaplar
+      url: /books/turkish
   
     - title: ENGLISH
-      url: /english/books
+      url: /books/english
   
 - title: ÜRÜNLER
   url: /guvenlik/
