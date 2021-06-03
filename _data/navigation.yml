@@ -10,6 +10,17 @@
   img: HY.jpg
   subnav:
   
+  - title: ENGLISH
+      url: /english/
+      subnav:
+          - title: A
+            url: /a/
+      
+      
+
+    - title: TURKISH
+      url: /turkish/
+  
   
 - title: ÜRÜNLER
   url: /guvenlik/
