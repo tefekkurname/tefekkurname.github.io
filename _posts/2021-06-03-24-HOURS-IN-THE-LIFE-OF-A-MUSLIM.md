@@ -7,7 +7,7 @@ title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8
 image:
-  feature: 
+  feature: HY.jpg
 ---
 
 40 KONUDA  
