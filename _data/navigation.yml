@@ -1,28 +1,5 @@
 # Site navigation links and tiles on main page
 
-- title: ENGLISH
-  url: /english/
-  img: mqdefault.jpg
-  subnav:
-
-    - title: A
-      url: /english/A
-  
-    - title: C
-      url: /english/C  
-      
-      
-- title: BOOKS   
-  url: /books/
-  img: mqdefault.jpg
-  subnav:
-
-    - title: TÜRKÇE
-      url: /books/turkish
-  
-    - title: ENGLISH
-      url: /books/english
-      
 - title: ÜRÜNLER
   url: /guvenlik/
   img: 51BjwysPqwL.jpg
