@@ -21,12 +21,6 @@
 				    	</li>
 				    {% endif %}
 				{% endfor %}
-				    {% if link.subnav %}
-				    	 <span class="dropArrow">&#9660;</span></a>
-				    	<ul class="subnav">
-				    	{% for item in link.subnav %}
-				    		<li><a href='{{item.url}}'>{{item.title}}</a></li>
-				    	{% endfor %}
 				<li><a href="{{site.url}}/search/" class="icon-search"></a></li>
 		    </ul>
 		</nav>
