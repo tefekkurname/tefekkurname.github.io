@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [guvenlik, alarm, satis]
+categories: [books]
 tags: [books, guvenlik, alarm, satis]
 excerpt: 
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
