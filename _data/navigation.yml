@@ -10,10 +10,10 @@
   img: HY.jpg
   subnav:
   
-    - title: ENGLISH
+    - title:     ENGLISH
       url: /english/
 
-    - title: TURKISH
+    - title:     TURKISH
       url: /turkish/
   
   
