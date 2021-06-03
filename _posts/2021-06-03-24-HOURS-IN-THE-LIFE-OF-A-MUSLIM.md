@@ -7,6 +7,6 @@ title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8
 image:
-  feature: corpus/24-HOURS-IN-THE-LIFE-OF-A-MUSLIM.jpg
+  feature: 24-HOURS-IN-THE-LIFE-OF-A-MUSLIM.jpg
 ---
 
