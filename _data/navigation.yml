@@ -10,9 +10,9 @@
   img: HY.jpg
   subnav:
   
-  - title: ENGLISH
-      url: /english/
-      subnav:
+    - title: ENGLISH
+       url: /english/
+       subnav:
           - title: A
             url: /a/
       
