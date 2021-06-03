@@ -6,8 +6,8 @@ excerpt: Read or Download
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8
-image: 1.jpg
-feature: 1.jpg
+image: A-CALL-FOR-A-TURKISH-ISLAMIC-UNION.jpg
+feature: A-CALL-FOR-A-TURKISH-ISLAMIC-UNION.jpg
 ---
 
 40 KONUDA HÜCRE
