@@ -1,0 +1,47 @@
+# Site navigation links and tiles on main page
+- title: EV
+  url: /
+  img: 64a10217142239.562b6507a043d.png
+  subnav:
+  
+- title: ÜRÜNLER
+  url: /guvenlik/
+  img: 51BjwysPqwL.jpg
+  subnav:
+
+    - title: GÜVENLİK KAMERASI
+      url: /guvenlik/kamera/
+
+    - title: DVR KAYIT CİHAZI
+      url: /guvenlik/kayit/
+
+    - title: ALARM SİSTEMİ
+      url: /guvenlik/alarm/
+
+
+- title: VİDEO
+  url: /videos/
+  img: film-real-and-clapboard-abstract.jpg
+  subnav:
+
+- title: SATIŞ
+  url: /satis/
+  img: computer.png
+  subnav:
+
+- title: İLETİŞİM
+  url: /iletisim/
+  img: i-phone-1274886_960_720.png
+  subnav:
+
+- title: HAKKINDA
+  url: /hakkinda/
+  img: aircraft-1314333_960_720.png
+  subnav:
+
+- title: FİYAT AL
+  url: /fiyatal/index.html
+  img: Global_Logo.png
+  subnav:
+
+

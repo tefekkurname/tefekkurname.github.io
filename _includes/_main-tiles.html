@@ -1,0 +1,19 @@
+    <h3>MegaTeek Bilgisayar</h3>
+    <meta charset="UTF-8">
+    <ul class="image-grid">
+    {% for link in site.data.navigation %}
+      {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+                {% else %}
+                {% assign domain = site.url %}
+      {% endif %}
+      <a href="{{ domain }}{{ link.url }}" title="{{ link.title }}"> {% if link.url contains 'http' %} target="_blank"{% endif %} 
+        <li style="background:url('{{ site.url }}/images/{{ link.img }}'); background-size: cover;">
+            <h2 class="link-post">
+              {{ link.title }}
+            </h2>
+        </li>
+      </a>
+    
+    {% endfor %}
+    </ul>

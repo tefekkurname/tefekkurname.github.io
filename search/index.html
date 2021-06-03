@@ -1,0 +1,38 @@
+---
+layout: page
+title: Search
+search_omit: true
+share: false
+---
+  
+  <!-- Search form -->
+  <form method="get" action="/search" data-search-form>
+    <input type="search" name="q" id="q" placeholder="Enter search term" data-search-input />
+    <input type="submit" value="Search" id="submit"/>
+  </form>
+
+  <!-- Search results placeholder -->
+  <p data-search-found>
+    <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
+  </p>
+  <div data-search-results></div>
+
+
+
+  <!-- Search result template -->
+  <script type="text/x-template" id="search-result">
+    <div class='search-result'>
+      <a href="##Url##"><img src="/images/##Image##"></a>
+      <div>
+        <h1><a href="##Url##">##Title##</a></h1>
+        <h2><a href="##Url##">##Date##</a></h2>
+        <a href="##Url##">##Content##</a>
+      </div>
+    </div>
+  </script>
+
+  <!-- jQuery - required but can be moved to the <head> -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+  <!-- Search script - Must appear after template -->
+  <script src="/scripts/search.js"></script>

@@ -1,0 +1,10 @@
+    <h3>Bizi Takip Edin...</h3>
+    <ul class="social-grid">
+    {% for link in site.data.social %}
+      <a href="{{ link.url }}" title="{{ link.title }}" target="_blank" style="background:url('{{ site.url }}/images/{{ link.img }}'); background-size: cover;"> 
+        <li >
+        <i class="icon-{{ link.title | downcase}}" style="color: #{{link.color}}"></i>
+        </li>
+      </a>
+    {% endfor %}
+    </ul>

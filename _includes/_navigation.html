@@ -1,0 +1,36 @@
+<meta charset="UTF-8">
+<div class="navigation-wrapper">
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        {% for link in site.data.navigation %}
+				    {% if link.url contains 'http' %}
+				        {% assign domain = '' %}
+				        {% else %}
+				        {% assign domain = site.url %}
+				    {% endif %}
+				    <li><a href="{{ domain }}{{ link.url }}" >{{ link.title }}{% if link.url contains 'http' %}target="_blank"{% endif %}
+				    {% if link.subnav %}
+				    	 <span class="dropArrow">&#9660;</span></a>
+				    	<ul class="subnav">
+				    	{% for item in link.subnav %}
+				    		<li><a href='{{item.url}}'>{{item.title}}</a></li>
+				    	{% endfor %}
+				    	</ul>
+				    {% else %}
+				    	</li>
+				    {% endif %}
+				{% endfor %}
+				<li><a href="{{site.url}}/search/" class="icon-search"></a></li>
+		    </ul>
+		</nav>
+		<ul class="sideNav">
+			{%  for link in site.data.social %}
+			<li><a href="{{ link.url }}" class="icon-{{ link.title | downcase}}"></a></li>
+			{%  endfor %}
+		</ul>
+	</div><!-- /.top-navigation -->
+	<div class="site-name">
+		<a href="{{ site.url }}/">{{ site.title }}</a>
+	</div><!-- /.site-name -->
+</div><!-- /.navigation-wrapper -->
