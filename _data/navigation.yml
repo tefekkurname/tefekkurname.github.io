@@ -25,10 +25,7 @@
 
     - title: GÜVENLİK KAMERASI
       url: /guvenlik/kamera/
-      subnav:
-            - title: DVR KAYIT CİHAZI
-      	      url: /guvenlik/kayit/
-
+      
     - title: DVR KAYIT CİHAZI
       url: /guvenlik/kayit/
 
