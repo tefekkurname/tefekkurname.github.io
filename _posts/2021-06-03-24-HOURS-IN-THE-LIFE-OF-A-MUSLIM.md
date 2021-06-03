@@ -1,13 +1,13 @@
 ---
 layout: post
-categories: [english]
-tags: [english]
+categories: [books, english]
+tags: [books, english]
 excerpt: Read or Download
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8
 image:
-feature: HY.jpg
+feature: 1.jpg
 ---
 
 40 KONUDA HÜCRE
