@@ -1,13 +1,13 @@
 ---
 layout: post
-categories: [english, A]
-tags: [english, A]
+categories: [guvenlik, satis, kayit]
+tags: [guvenlik, satis, kayit]
 excerpt: Read or Download
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8
-image: A-CALL-FOR-A-TURKISH-ISLAMIC-UNION.jpg
-feature: A-CALL-FOR-A-TURKISH-ISLAMIC-UNION.jpg
+image: 24-HOURS-IN-THE-LIFE-OF-A-MUSLIM.jpg
+feature: 24-HOURS-IN-THE-LIFE-OF-A-MUSLIM.jpg
 ---
 
 40 KONUDA HÜCRE
