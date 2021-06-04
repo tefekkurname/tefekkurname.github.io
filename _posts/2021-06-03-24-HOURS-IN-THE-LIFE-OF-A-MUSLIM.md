@@ -6,8 +6,9 @@ excerpt: Read or Download
 title: "24 HOURS IN THE LIFE OF A MUSLIM"
 lang: en
 encoding: utf-8
-image: 24-HOURS-IN-THE-LIFE-OF-A-MUSLIM.jpg
-feature: 24-HOURS-IN-THE-LIFE-OF-A-MUSLIM.jpg
+feature_video: HY.jpg
+image:
+  feature: HY.jpg
 ---
 
 40 KONUDA HÜCRE
