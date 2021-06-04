@@ -12,9 +12,7 @@ image:
 ---
 
 
-**40 KONUDA **
-
-**HÜCRE**
+**40 KONUDA HÜCRE**
 
 **HARUN YAHYA**
 
