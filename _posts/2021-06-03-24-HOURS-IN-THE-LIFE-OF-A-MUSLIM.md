@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [guvenlik]
-tags: [guvenlik,
+tags: [guvenlik]
 excerpt: Read or Download
 title: "40 KONUDA HÜCRE"
 lang: tr
