@@ -6,7 +6,7 @@ excerpt: Read or Download
 title: "40 KONUDA HÜCRE"
 lang: tr
 encoding: utf-8
-feature_video: HY.jpg
+feature_video: 
 image:
   feature: HY.jpg
 ---
