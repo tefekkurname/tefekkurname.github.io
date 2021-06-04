@@ -1,10 +1,10 @@
 ---
 layout: post
-categories: [guvenlik, satis, kayit]
-tags: [guvenlik, satis, kayit]
+categories: [guvenlik]
+tags: [guvenlik,
 excerpt: Read or Download
-title: "24 HOURS IN THE LIFE OF A MUSLIM"
-lang: en
+title: "40 KONUDA HÜCRE"
+lang: tr
 encoding: utf-8
 feature_video: HY.jpg
 image:
