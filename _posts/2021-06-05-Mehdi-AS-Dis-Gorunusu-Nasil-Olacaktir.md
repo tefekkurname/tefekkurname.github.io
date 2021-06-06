@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anna Manja Larcher sevgisizlik ahir zaman alameti 4"
+title: "Mehdi (a.s)'ın Dış Görünüşü Nasıl Olacaktır"
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
 categories: [videolar]
@@ -13,7 +13,7 @@ image:
   feature: 22.jpg
 ---
 
-<iframe src="//vidmoly.to/embed-4oxyapr9vvbp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//e.pcloud.link/publink/show?code=XZ2VSVZC8UHko9mSQzHWJrQYinaVuOgsefy" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
 
