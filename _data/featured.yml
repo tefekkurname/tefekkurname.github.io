@@ -1,19 +1,13 @@
-- title: "Kamera - Güvenlik Sistemleri"
-  url: /videos/kamera-cihazlari/
+- title: "Kitaplar"
+  url: /makaleler/
   image:
-    feature: What-Makes-a-Good-Security-Camera-Picture.jpg
+    feature: HY.jpg
 
 
-- title: "DVR Kayıt Cihazı"
-  url:  /videos/kayit/kayit-cihazlari/
+- title: "Melekler"
+  url:  /videolar/sohbetler/
   image:
-    feature: PACK4500.jpg
-
-
-- title: "Alarm - Güvenlik Sistemi"
-  url: /guvenlik/alarm/satis/guvenlik-alarm-sistemi/
-  image:
-    feature: Honeywell_home_alarm.JPG
+    feature: HY/facebook.jpg
 
 
 
