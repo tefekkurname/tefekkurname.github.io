@@ -15,6 +15,11 @@ image:
 
 <iframe src="//vidmoly.to/embed-4oxyapr9vvbp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+
+<iframe src="https://e.pcloud.link/publink/show?code=XZmkSVZcftfX6dv2nLi9Fr0Fqtn7JXBVBDX" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 
