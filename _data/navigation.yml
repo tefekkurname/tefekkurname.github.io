@@ -10,6 +10,12 @@
   url: /makale/
   img: HY/facebook.jpg
   subnav:
+  
+- title: BELGESELLER
+  url: /belgesel/
+  img: belgesel.jpg
+  subnav:
+
 
 
 - title: HAKKINDA
