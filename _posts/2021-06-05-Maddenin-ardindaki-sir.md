@@ -10,7 +10,7 @@ encoding: utf-8
 date:   2021-06-05 15:00:00
 feature_video: 
 image:
-  feature: belgesel.jpg
+  feature: 23.jpg
 ---
 
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
