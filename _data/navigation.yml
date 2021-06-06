@@ -20,6 +20,11 @@
   img: film-real-and-clapboard-abstract.jpg
   subnav:
 
+- title: MAKALE
+  url: /makale/
+  img: HY/facebook.jpg
+  subnav:
+
 - title: SATIŞ
   url: /satis/
   img: computer.png

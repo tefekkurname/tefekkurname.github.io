@@ -1,8 +1,8 @@
 ---
 layout: post
-categories: [guvenlik]
-tags: [guvenlik]
-excerpt: Read or Download
+categories: [makale]
+tags: [makale]
+excerpt: Oku veya İndir
 title: "40 KONUDA HÜCRE"
 lang: tr
 encoding: utf-8
@@ -26,27 +26,11 @@ Bu kitapta kullanılan ayetler, Ali Bulaç'ın hazırladığı
 
 **İkinci Baskı: Eylül 2008**
 
-**ARAŞTIRMA**
+**ARAŞTIRMA YAYINCILIK**
 
-**YAYINCILIK**
 
-Talatpaşa Mah. Emirgazi Caddesi
 
-İbrahim Elmas İş Merkezi Blok Kat 4
-
-Okmeydanı - İstanbul
-
-> Tel: (0 212) 222 00 88
-
-Baskı: Seçil Ofset100. Yıl Mahallesi
-
-MAS-SİT Matbaacılar Sitesi
-
-4\. Cadde No: 77 Bağcılar-İstanbul
-
-Tel: (0 212) 629 06 15
-
-**www.harunyahya.org - www.harunyahya.net**
+**www.harun-yahya.net - www.harunyahya.info**
 
 **İÇİNDEKİLER**
 
