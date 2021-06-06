@@ -10,7 +10,7 @@ encoding: utf-8
 date:   2021-06-05 15:00:00
 feature_video: 
 image:
-  feature: belgesel.jpg
+  feature: 22.jpg
 ---
 
 <iframe src="//vidmoly.to/embed-4oxyapr9vvbp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
