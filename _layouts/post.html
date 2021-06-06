@@ -49,7 +49,7 @@
         {% else %}
         
         <p class="byline">
-        <strong>{{ page.title }}</strong> <time datetime="{{ page.date}}">{{ page.date | date: "%B %d, %Y" }} sitede yayınlandı</time>{% if page.modified %} <time datetime="{{ page.modified | date: '%Y-%m-%d' }}">{{ page.modified | date: "%B %d, %Y" }} ve değiştirildi</time>{% endif %}.</p>
+        <strong>{{ page.title }}</strong> <time datetime="{{ page.date}}">{{ page.date | date: ""%d.%m.%Y" }} sitede yayınlandı</time>{% if page.modified %} <time datetime="{{ page.modified | date: '%Y-%m-%d' }}">{{ page.modified | date: "%B %m, %Y" }} ve değiştirildi</time>{% endif %}.</p>
         
     {% endif %}
       </footer>
