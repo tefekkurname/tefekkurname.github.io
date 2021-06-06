@@ -1,15 +1,19 @@
-- title: "Kitaplar"
-  url: /makaleler/
+- title: "Makaleler"
+  url: /makale/
   image:
     feature: HY.jpg
 
 
-- title: "Melekler"
-  url:  /videolar/sohbetler/
+- title: "Videolar"
+  url:  /video/sohbet/
   image:
     feature: HY/facebook.jpg
 
 
+- title: "Belgeseller"
+  url:  /belgesel/
+  image:
+    feature: belgesel.jpg
 
   
 
