@@ -4,6 +4,9 @@ categories: [makaleler]
 tags: [makaleler]
 excerpt: Oku veya İndir
 title: "40 KONUDA HÜCRE"
+description: Bu kitapta ve diğer çalışmalarımızda evrim teorisinin çöküşüne özel bir
+yer ayrılmasının nedeni, bu teorinin her türlü din aleyhtarı felsefenin
+temelini oluşturmasıdır.
 lang: tr
 encoding: utf-8
 feature_video: 
