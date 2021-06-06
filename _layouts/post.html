@@ -3,7 +3,7 @@
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if gt IE 8]><! <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="UTF-8">
 {% include _head.html %}
@@ -43,9 +43,15 @@
     <div class="article-wrap">
       {{ content }}
       <footer role="contentinfo">
-        
+        {% if page.lang==en %}
         <p class="byline">
         <strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date}}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: '%Y-%m-%d' }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        {% else %}
+        
+        <p class="byline">
+        <strong>{{ page.title }}</strong> <time datetime="{{ page.date}}">{{ page.date | date: "%B %d, %Y" }} yayınlandı</time>{% if page.modified %} <time datetime="{{ page.modified | date: '%Y-%m-%d' }}">{{ page.modified | date: "%B %d, %Y" }} ve değiştirildi</time>{% endif %}.</p>
+        
+    {% endif %}
       </footer>
     </div><!-- /.article-wrap -->
   </article>
@@ -70,6 +76,13 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}	        
+
+
+<noscript>
+    <img src="https://counter2000.herokuapp.com/ingress/baee7e82-ac81-432a-a911-d0361856be43/pixel.gif" alt="counter" title="counter">
+</noscript>
+<script defer src="https://counter2000.herokuapp.com/ingress/baee7e82-ac81-432a-a911-d0361856be43/script.js"></script>
+
 
 </body>
 </html>
