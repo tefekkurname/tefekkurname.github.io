@@ -5,22 +5,19 @@ tags: [videolar]
 excerpt: 
 lang: tr
 encoding: utf-8
-title: "Melekler"
-description: Hz. Mehdi (as) tüm canlı varlıkların imamı; hem cinlerin hem insanların.
+title: "Resulullah'ın zorluk ve imtihanları"
+description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 date:   2021-06-05 15:00:00
 feature_video: 
 image:
-  feature: HY/facebook.jpg
+  feature: belgesel.jpg
 ---
 
-Hz. Mehdi (as) tüm canlı varlıkların imamı; hem cinlerin hem insanların. Melekler de Mehdi (as)’ı çok seviyorlar, destekliyorlar. Allah’ın emriyle, aynı görevi İsa Mesih’le de deruhte ediyorlar melekler Mehdi (as)’la da.
+Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
-Cebrail ve Mikail sürekli Mehdi (as)’ın yanındalar ama Mehdi (as) görmez onları. Peygamberimiz (sav), “Üç bin melekle yardım görüyor” diyor. Ayrıca nereye giderse yanındalar. Cebrail, Mikail hiç yanından ayrılmıyorlar. Ama Mehdi (as) bunları göremez. O zaman aklın ihtiyarı kalkar. İmtihan kalkar.
+<iframe src="http://harunyahya.tv/embed/4173?iframe=1" frameborder="0" width="680" height="500" ></iframe>
 
-<iframe src="//vidmoly.to/embed-6ole5slykob3.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-Kutsal Sandık, Hz. Musa (as)’ın sandığını ilk bulan Mehdi’dir. Onun dışında hiç kimse bulamaz. Allah diyor ki; “Melekler koruyor onu. Melekler taşıyor.” Hiçbir şekilde bulamıyorlar. Melekler koruduğu için bulamıyorlar.
+CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
 
-Hz. Süleyman (as)’ın mescidinin olmaması çok acı bir olay. Aynısıyla, orijinaliyle yapacağız Allah’ın izniyle. Arazi çok müsait ama illaki Mehdi.
-
-Hz. Mehdi Kutsal Sandığı alıp Süleyman Mescidi’nin önüne getirdi mi Musevi ve Hıristiyan alemi ayağa kalkıyor artık. Çok az bir kısmı hariç, hepsi iman ediyorlar.
+“ELHAMDÜLİLLAH”, “MAŞAALLAH”, “İNŞAALLAH”. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
