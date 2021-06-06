@@ -13,9 +13,9 @@ image:
   feature: belgesel.jpg
 ---
 
-Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
-
 <iframe src="//vidmoly.to/embed-4oxyapr9vvbp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 
 CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
