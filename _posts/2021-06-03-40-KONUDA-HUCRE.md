@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: [makale]
-tags: [makale]
+categories: [makaleler]
+tags: [makaleler]
 excerpt: Oku veya İndir
 title: "40 KONUDA HÜCRE"
 lang: tr
