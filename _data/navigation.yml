@@ -1,6 +1,11 @@
 # Site navigation links and tiles on main page
 
 
+- title: ANA SAYFA
+  url: /ana-sayfa/
+  img: home-1.png
+  subnav:
+  
 - title: VİDEOLAR
   url: /video/
   img: film-real-and-clapboard-abstract.jpg
