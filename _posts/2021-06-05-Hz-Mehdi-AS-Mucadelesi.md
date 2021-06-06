@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [belgeseller]
+categories: [belgeseller posts]
 tags: [belgeseller posts]
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
 lang: tr
