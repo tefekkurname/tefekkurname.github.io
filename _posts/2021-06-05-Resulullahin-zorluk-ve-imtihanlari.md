@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: [videolar]
-tags: [videolar]
+categories: [belgeseller]
+tags: [belgeseller]
 excerpt: 
 lang: tr
 encoding: utf-8
