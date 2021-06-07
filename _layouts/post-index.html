@@ -35,7 +35,11 @@
         {% else %}
           <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url('/images/{{ post.image.feature }}'); background-size: cover">&nbsp;</span>
           <h2>{{ post.title | truncate: 30}}<hr><span>{{post.date | date: '%m.%d.%Y'}}</span></h2>
+           {% if post.categories contains 'videolar' or post.categories contains 'belgeseller' %}
+          <h4>İZLE...</h4>
+          {% else %}
           <h4>OKU...</h4>
+          {% endif %} )
           </a>
           <!--<p>{{ post.excerpt | strip_html | truncate: 160 }}</p> -->
         {% endif %}
