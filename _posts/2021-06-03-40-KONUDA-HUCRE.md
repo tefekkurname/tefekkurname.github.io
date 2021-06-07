@@ -313,7 +313,7 @@ durumdadır.
 
 **AKILLI TASARIM YANİ YARATILIŞ**
 
-**Allah'ın yaratmak için tasarım yapmaya **
+**Allah'ın yaratmak için tasarım yapmaya**
 
 **ihtiyacı yoktur**
 
@@ -339,7 +339,7 @@ olmasına karar verirse, ona yalnızca "OL" der, o da hemen oluverir.
 
 **1. KONU**
 
-**KANDAKİ SIVI ORANINI KONTROL **
+**KANDAKİ SIVI ORANINI KONTROL**
 
 **EDEN DENETÇİLER**
 
@@ -953,7 +953,7 @@ olanların tümü O'nu tesbih etmektedir. O, Aziz, Hakimdir. (Haşr Suresi,
 
 **8. KONU**
 
-**KAN BASINCINI KONTROL EDEN **
+**KAN BASINCINI KONTROL EDEN**
 
 **KUSURSUZ SİSTEM**
 
@@ -1322,7 +1322,7 @@ Allah, her şeye güç yetirendir. (Fatır Suresi, 1)
 
 **11. KONU**
 
-**VÜCUT SICAKLIĞI AYARLAYAN MUCİZE **
+**VÜCUT SICAKLIĞI AYARLAYAN MUCİZE**
 
 **MOLEKÜL**
 
@@ -1409,7 +1409,7 @@ Yüce Allah olduğu çok açık bir gerçektir. Allah'ın ilmi her yeri sarıp
 kuşatmıştır:
 
 **...Rabbim, ilim bakımından her şeyi kuşatmıştır. Yine de öğüt
-alıp-düşünmeyecek misiniz?" (Enam Suresi, 80). **
+alıp-düşünmeyecek misiniz?" (Enam Suresi, 80).**
 
 **12. KONU**
 
@@ -1505,7 +1505,7 @@ sadece bir tanesini göstermektedir.
 mi? Elbette (öyledir); O, yaratandır, bilendir. Bir şeyi dilediği zaman,
 O'nun emri yalnızca: "Ol" demesidir; o da hemen oluverir. Her şeyin
 melekutu (hükümranlık ve mülkü) elinde bulunan (Allah) ne Yücedir. Siz
-O'na döndürüleceksiniz. (Yasin Suresi, 81-83) **
+O'na döndürüleceksiniz. (Yasin Suresi, 81-83)**
 
 **14. KONU**
 
@@ -1610,7 +1610,7 @@ oluşturmaları için yönetmektedir.
 
 **16. KONU**
 
-**TESTOSTERON HORMONUNUN DİĞER **
+**TESTOSTERON HORMONUNUN DİĞER**
 
 **ÖZELLİKLERİ**
 
@@ -1664,7 +1664,7 @@ harikasıdır.
 
 **17. KONU**
 
-**OKSİJEN TAŞIYAN MUCİZE MOLEKÜL: **
+**OKSİJEN TAŞIYAN MUCİZE MOLEKÜL:**
 
 **HEMOGLOBİN**
 
@@ -1792,7 +1792,7 @@ Allah'ın ilminin sonsuz olduğunu gösteren delillerdendir.
 
 **19. KONU**
 
-**MESAJCI HORMONUN HÜCRE İÇİNDEKİ **
+**MESAJCI HORMONUN HÜCRE İÇİNDEKİ**
 
 **YOLCULUĞU**
 
@@ -1869,7 +1869,7 @@ uyumlu olarak yaratıldığının başka bir göstergesidir.
 bölgenin tamiri için devreye giren haberleşme mekanizmasını inceleyelim.
 Bu durumda, **PDGF** denilen haberci molekül, hasar gören damardaki düz
 kas hücresinin alıcısıyla birleşir. Kenetlenme sonucunda alıcısının
-hücre içindeki kolu, **Grb2** isimli proteini kendine çeker. **Grb2**
+hücre içindeki kolu, **Grb2** isimli proteini kendine çeker.**Grb2**
 proteini **SH2** ve **SH3** parçacıklarının birleşiminden meydana gelen
 bir habercidir; proteinler arasında iletişim kurmak için adaptör
 görevini üstlenmektedir. Bunun ardından **Grb2**, sitoplazmada
@@ -2141,7 +2141,7 @@ delillerinden sadece bir tanesidir.
 
 **24. KONU**
 
-**ENDOTEL HÜCRESİ = NO (NİTRİK OKSİT) **
+**ENDOTEL HÜCRESİ = NO (NİTRİK OKSİT)**
 
 **ÜRETİM MERKEZİ**
 
@@ -2244,7 +2244,7 @@ ile bize gücünün sınırsızlığını göstermektedir.
 
 **26. KONU**
 
-**KARACİĞERE YERLEŞTİRİLMİŞ “BAKTERİ **
+**KARACİĞERE YERLEŞTİRİLMİŞ “BAKTERİ**
 
 **İMHA MAKİNELERİ”**
 
@@ -3125,7 +3125,7 @@ sonsuz gücünün, sınırsız ilmininin delillerini görebilecektir.
 
 **38. KONU**
 
-**BEDENİ KORUMAKLA GÖREVLİ **
+**BEDENİ KORUMAKLA GÖREVLİ**
 
 **KOMPLEMAN PROTEİNLERİ**
 
@@ -4321,7 +4321,7 @@ bezine durmaksızın elektrik akımı göndermektedirler.
 
 **Kan basıncı düştüğünde kalpteki alıcılar hipofiz bezine sinyal
 göndermeyi keserler. Bu da hipofizin alarm durumuna geçmesine ve
-vazopressin salgılamasına neden olur. **
+vazopressin salgılamasına neden olur.**
 
 **Dur**
 
@@ -4764,7 +4764,7 @@ Büyüme hormonu
 67
 
 **Beynin hipotalamus bölgesine yerleştirilmiş olan görünmez saat
-sayesinde hipotalamus bir insanın ergenlik çağına geldiğini anlar. **
+sayesinde hipotalamus bir insanın ergenlik çağına geldiğini anlar.**
 
 68
 
@@ -5245,7 +5245,7 @@ Kuppfer hücresi
 **Özel olarak karaciğere yerleştirilmiş olan Kuppfer hücreleri,
 bağırsaklardan karaciğere gelen bakterileri çok kısa bir sürede
 etkisiz hale getirirler. Tüm bu sistem Allah'ın kusursuz yaratışının
-eseridir. **
+eseridir.**
 
 125
 
@@ -5310,7 +5310,7 @@ RİBOZOM
 
 **DNA kendi kendini onarabilme, eksiklerini tamamlayabilme yeteneğine
 sahiptir. Bu, Allah'ın üstün yaratma gücünün ve sonsuz ilminin bir
-tecellisidir. **
+tecellisidir.**
 
 133
 
@@ -5328,7 +5328,7 @@ MESAJ TAŞIYICI PROTEİN
 
 **DNA'nın kolları birbirinden ayrılırken, kolların tekrar birbirine
 dolanmasına bir enzim engel olur. Bu enzim resimde yeşil renkteki
-şekillerle ifade edilmiştir. **
+şekillerle ifade edilmiştir.**
 
 135
 
@@ -5338,7 +5338,7 @@ RNA
 
 **1,2,3,4,5,6,7 no'ları ile işaretlenmiş bölgeler, okunması istenmeyen
 bilgileri içerirler. Enzimler bu bölgeleri belirleyerek, şekildeki gibi
-dışa doğru bükerler. **
+dışa doğru bükerler.**
 
 136
 
@@ -5449,7 +5449,7 @@ TROMBOSİT
 
 Fagositler düşmanla göğüs göğüse bir savaş verirler. Onların
 yetişemediği durumlarda devreye makrofajlar girer, ve enerji sağlamak
-için vücut ısısını 39 C**<sup>0</sup> dereceye çıkartır. **
+için vücut ısısını 39 C**<sup>0</sup> dereceye çıkartır.**
 
 153
 
@@ -5597,7 +5597,7 @@ PANKREAS HÜCRESİ
 
 169
 
-**Şekil 136 **
+**Şekil 136**
 
 Her taşıyıcı protein, farklı bir molekülü taşımaktan sorumludur.
 Örneğin, molekül biçiminde en ufak bir geometrik farklılık olsa dahi,
@@ -5687,7 +5687,7 @@ Ancak vücuttaki mükemmel yaratılış sayesinde yumurtaya zarar veremezler.
 
 **Gözle görülemeyecek kadar küçük moleküller, birçok özelliğe, yeteneğe
 ve sorumluluğa sahiptir. Onları bu özelliklerle yaratan, yoktan var eden
-Yüce Rabbimiz olan Allah'tır. **
+Yüce Rabbimiz olan Allah'tır.**
 
 181
 
@@ -5769,7 +5769,7 @@ zannettiğinizden daha fazla yarar sağladığını ve sağlamakta olduğunu
 gösterebilirim. Düşünün ki, birkaç yüzyıl önce Avrupa Türkler
 tarafından istila edildiğinde, Avrupa milletleri ne kadar büyük bir
 tehlikeyle karşı karşıya gelmişlerdi, şimdi ise bu çok saçma bir
-düşüncedir. **Avrupalı ırklar olarak bilinen medeni ırklar, yaşam
+düşüncedir.**Avrupalı ırklar olarak bilinen medeni ırklar, yaşam
 mücadelesinde TÜRK BARBARLIĞINA karşı galip gelmişlerdir**. Dünyanın
 çok da uzak olmayan bir geleceğine baktığımda, **BU TÜR AŞAĞI
 IRKLARIN** çoğunun medenileşmiş yüksek ırklar tarafından **elimine
@@ -5838,7 +5838,7 @@ Böylece Lamarck'ın zürafa masalı da tarihe karışmıştır.
 
 **Rastgele mutasyonlar insanlara ve diğer tüm canlılara her zaman zarar
 verirler. Resimde mutasyona uğradığı için iki başlı olarak doğmuş bir
-buzağı görülüyor. **
+buzağı görülüyor.**
 
 192
 
