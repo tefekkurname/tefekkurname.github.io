@@ -17,6 +17,10 @@ Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bi
 
 İslam ahlakı dünyaya hakim olduğunda, İslam birliği oluştuğunda, Müslümanların önderi olan ve Hz. İsa ile birlikte namaz kılan kişiyi gördüğümüzde, “Allahualem bu kişi Mehdi” diyeceğiz. 
 
+Hadislere göre Deccalin saçları kıvırcık ve karışıktır. Tek gözü kör, iri yapılı, cildi kırmızıya yakındır. Başının görünüşü kertenkeleyi andırır. Hadislere göce Deccalin sihir ve ispiritizma, hipnoz ile kitleleri etkileme gücü de olacaktır. Muhtemelen masonluk içinden çıkacaktır.
+
+Peygamberimiz Mehdi’ye ilk karşı çıkacak olanların bazı bağnaz alimler olacağını söylemiştir. Mehdinin dini değiştirdiğini iddia edeceklerdir.
+
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 
