@@ -9,7 +9,7 @@ lang: tr
 encoding: utf-8
 feature_video: 
 image:
-  feature: Musluman-Zulum-4.png
+  feature: derimiz.jpg
 ---
 
 
@@ -35,9 +35,9 @@ Bu kitapta kullanılan ayetler, Ali Bulaç'ın hazırladığı
 
 Giriş
 
- - Kandaki Sıvı Oranını Kontrol Eden Denetçiler
+Kandaki Sıvı Oranını Kontrol Eden Denetçiler
  
- - Vücuttaki Kusursuz Güvenlik Sistemi
+Vücuttaki Kusursuz Güvenlik Sistemi
 
 Anne Sütü ve Oksitosin Hormonu
 
