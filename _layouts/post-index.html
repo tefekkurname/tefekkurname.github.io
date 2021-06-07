@@ -12,7 +12,7 @@
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}')"
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('/images/{{ page.image.feature }}')"
     {% if page.image.feature contains 'http' %}
       '{{ page.image.feature }}'
     {% else %}
@@ -33,7 +33,7 @@
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
-          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url(/images/{{ post.image.feature }}); background-size: cover">&nbsp;</span>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url('/images/{{ post.image.feature }}'); background-size: cover">&nbsp;</span>
           <h2>{{ post.title | truncate: 30}}<hr><span>{{post.date | date: '%m.%d.%Y'}}</span></h2>
           <h4>OKU...</h4>
           </a>
