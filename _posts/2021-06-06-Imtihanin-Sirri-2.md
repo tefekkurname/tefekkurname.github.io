@@ -10,7 +10,7 @@ description: İman eden insanların dünya hayatları boyunca türlü denemelerd
 date:   2021-06-06 15:00:00
 feature_video: 
 image:
-  feature: belgesel.jpg
+  feature: Kurana-uyan-1.png
 ---
 
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
