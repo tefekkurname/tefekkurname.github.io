@@ -16,7 +16,6 @@ image:
 
 Kuran’da Maide Suresi’nin 12. ayetinde, oniki güvenilir-gözetleyiciden bahsedilmektedir.
 
-***
 
 Andolsun, Allah İsrailoğullarından kesin söz (misak) almıştı. Onlardan oniki güvenilir- gözetleyici göndermiştik. Ve Allah onlara: "Gerçekten ben sizinle birlikteyim. Eğer namazı kılar, zekatı verir, elçilerime inanır, onları savunup-desteklerseniz ve Allah'a güzel bir borç verirseniz, şüphesiz sizin kötülüklerinizi örter ve sizi gerçekten, altından ırmaklar akan cennetlere sokarım. Bundan sonra sizden kim inkar ederse, cidden dümdüz bir yoldan sapmıştır." (Maide Suresi, 12. ayet)
  
@@ -25,7 +24,6 @@ Andolsun, Allah İsrailoğullarından kesin söz (misak) almıştı. Onlardan on
 
 Maide Suresi’nin 13. ayetinde sözlerini tutmayan, ihanet eden kişiler anlatılmaktadır. Hz. İsa’ya ihanet ettiğine inanılan kişi de 13. Havaridir.
 
-***
 
 Sözleşmelerini bozmaları nedeniyle, onları lanetledik ve kalplerini kaskatı kıldık. Onlar, kelimeleri konuldukları yerlerden saptırırlar. (Sık sık) Kendilerine hatırlatılan şeyden (yararlanıp) pay almayı unuttular. İçlerinden birazı dışında, onlardan sürekli ihanet görür durursun. Yine de onları affet, aldırış etme. Şüphesiz Allah, iyilik yapanları sever. (Maide Suresi, 13. ayet)
 
@@ -34,7 +32,6 @@ Sözleşmelerini bozmaları nedeniyle, onları lanetledik ve kalplerini kaskatı
 
 Hakka Suresi’nin 7. ayetinde 7 geceden bahsedilmektedir. Bu da Kuran’ın mucizevi özelliklerinden biridir.
 
-***
 
 (Allah) Onu, yedi gece ve sekiz gün, aralık vermeksizin üzerlerine musallat etti. Öyle ki, o kavmin, orada sanki içi kof hurma kütükleriymiş gibi çarpılıp yere yıkıldığını görürsün. (Hakka Suresi, 7. Ayet)
 2008-12-15 06:03:26
