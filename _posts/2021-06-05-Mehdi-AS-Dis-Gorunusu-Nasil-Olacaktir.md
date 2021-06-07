@@ -10,7 +10,7 @@ encoding: utf-8
 date:   2021-06-05 15:00:00
 feature_video: 
 image:
-  feature: 22.jpg
+  feature: KIYAMETsaati2.jpg
 ---
 Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bir surette gösterecektir” buyurmuştur.
 <iframe src="//e.pcloud.link/publink/show?code=XZ2VSVZC8UHko9mSQzHWJrQYinaVuOgsefy" scrolling="no" frameborder="0" width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
