@@ -2,12 +2,12 @@
 layout: post
 categories: [belgeseller]
 tags: [belgeseller]
-excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
+excerpt: İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıylakarşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir.
 lang: tr
 encoding: utf-8
-title: "İmtihan Sırrı -2-"
-description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
-date:   2021-06-05 15:00:00
+title: "İmtihanın Sırrı -2-"
+description: İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıyla karşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir. Yani salih müminler, hayatlarının her döneminde birtakım zorluklarla karşılaşabilirler. İşte önemli olan da insanların bu zorluk anlarında Kuran ahlakını yaşamaları, her an Allah'ı zikretmeleri ve içinde bulundukları duruma şükredip, hepsinde bir hayır ve güzellik olduğunu fark edebilmeleridir. 
+date:   2021-06-06 15:00:00
 feature_video: 
 image:
   feature: belgesel.jpg
