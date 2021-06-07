@@ -13,7 +13,7 @@ image:
   feature: 22.jpg
 ---
 Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bir surette gösterecektir” buyurmuştur.
-<iframe src="//e.pcloud.link/publink/show?code=XZ2VSVZC8UHko9mSQzHWJrQYinaVuOgsefy" scrolling="no" frameborder="0" width="700" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//e.pcloud.link/publink/show?code=XZ2VSVZC8UHko9mSQzHWJrQYinaVuOgsefy" scrolling="no" frameborder="0" width="700" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 İslam ahlakı dünyaya hakim olduğunda, İslam birliği oluştuğunda, Müslümanların önderi olan ve Hz. İsa ile birlikte namaz kılan kişiyi gördüğümüzde, “Allahualem bu kişi Mehdi” diyeceğiz. 
 
