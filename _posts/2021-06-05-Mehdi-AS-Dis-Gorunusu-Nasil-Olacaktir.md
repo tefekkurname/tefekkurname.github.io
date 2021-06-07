@@ -12,8 +12,9 @@ feature_video:
 image:
   feature: KIYAMETsaati2.jpg
 ---
-Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bir surette gösterecektir” buyurmuştur.
 <iframe src="//e.pcloud.link/publink/show?code=XZ2VSVZC8UHko9mSQzHWJrQYinaVuOgsefy" scrolling="no" frameborder="0" width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bir surette gösterecektir” buyurmuştur.
 
 İslam ahlakı dünyaya hakim olduğunda, İslam birliği oluştuğunda, Müslümanların önderi olan ve Hz. İsa ile birlikte namaz kılan kişiyi gördüğümüzde, “Allahualem bu kişi Mehdi” diyeceğiz. 
 
