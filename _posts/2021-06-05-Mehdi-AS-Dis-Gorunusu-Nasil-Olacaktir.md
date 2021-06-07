@@ -32,7 +32,10 @@ Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığ
     Keskin bakışlıdır. (Ahmed b. Hanbel, I, 374; Ebû Ya’lâ V, 108)
     Yüzü hafif çilli
     Altın rengine bakan kestane rengi saçlı, sakalı da aynı renk
-    Saçları “saçını taramış, ve sanki saçından su damlıyor gibi” (Taberânî, Kebîr XI, 73.) ıslak görünümlü. Bakımlı, hafif dalgalı (ne dümdüz ne de aşırı kıvırcık). Ensesinden iki kürek kemiği arasına değer vaziyette kürek kemiğine kadar uzun şekildedir. Saçlarının kulaklarına kadar olan bölümü düz, aşağı kısmı dalgalıdır.
+    Saçları “saçını taramış, ve sanki saçından su damlıyor gibi” (Taberânî, Kebîr XI, 73.) ıslak görünümlü. 
+    Bakımlı, hafif dalgalı (ne dümdüz ne de aşırı kıvırcık). 
+    Ensesinden iki kürek kemiği arasına değer vaziyette kürek kemiğine kadar uzun şekildedir. 
+    Saçlarının kulaklarına kadar olan bölümü düz, aşağı kısmı dalgalıdır.
     Uzuna yakın orta boylu. (Müslim)
     Geniş omuzlu, ince bellidir.
     Yüzü dupduru ve pırıl pırıldır. (Nevevî II, 232; İbn Hacer VI, 484)
