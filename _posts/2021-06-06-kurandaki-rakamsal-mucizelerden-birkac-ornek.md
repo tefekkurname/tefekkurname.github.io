@@ -9,7 +9,7 @@ lang: tr
 encoding: utf-8
 feature_video: 
 image:
-  feature: lizozom.jpg
+  feature: vesileolduklari13.jpg
 ---
 
 **12 RAKAMIYLA İLGİLİ MUCİZE**
