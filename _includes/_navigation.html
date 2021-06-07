@@ -17,7 +17,7 @@
 				    	{% endfor %}
 				    	</ul>
 				    {% else %}
-				    	<li><a href="{{ domain }}{{ link.url }}" >{{ link.title }}{% if link.url contains 'http' %}target="_blank"{% endif %}</li>
+				    	<li><a href="{{ domain }}{{ link.url }}" >{{ link.title }}{% if link.url contains 'http' %}target="_blank"{% endif %}</a></li>
 				    {% endif %}
 				{% endfor %}
 				<li><a href="{{site.url}}/search/" class="icon-search"></a></li>
