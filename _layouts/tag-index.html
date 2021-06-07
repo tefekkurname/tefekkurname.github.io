@@ -12,7 +12,7 @@
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('/images/{{ page.image.feature }}')"
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url(
     {% if page.image.feature contains 'http' %}
       '{{ page.image.feature }}'
     {% else %}
