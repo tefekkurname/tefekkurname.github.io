@@ -12,7 +12,7 @@ feature_video:
 image:
   feature: 22.jpg
 ---
-
+3. Uluslararası Yaşamın ve Evrenin Kökeni Konferansı – 28 Nisan 2018
 <iframe src="//vidmoly.to/embed-4oxyapr9vvbp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
