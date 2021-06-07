@@ -12,7 +12,7 @@
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url(
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url()"
     {% if page.image.feature contains 'http' %}
       '{{ page.image.feature }}'
     {% else %}
@@ -28,7 +28,7 @@
   <div id="index">
     <h1>{{ page.title }}</h1>
     {% for post in site.posts %}  
-      {% if post.categories contains 'guvenlik' or post.categories contains 'videos' %}
+      {% if post.categories contains 'videolar' or post.categories contains 'belgeseller' %}
         {% if post.tags contains page.category %}
         <article>
           {% if post.link %}
