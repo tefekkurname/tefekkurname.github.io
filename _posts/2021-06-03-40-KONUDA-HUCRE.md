@@ -9,15 +9,13 @@ lang: tr
 encoding: utf-8
 feature_video: 
 image:
-  feature: HY.jpg
+  feature: Musluman-Zulum-4.png
 ---
 
 
 **40 KONUDA HÜCRE**
 
 **HARUN YAHYA**
-
-**(ADNAN OKTAR)**
 
 Bu kitapta kullanılan ayetler, Ali Bulaç'ın hazırladığı
 
@@ -37,9 +35,9 @@ Bu kitapta kullanılan ayetler, Ali Bulaç'ın hazırladığı
 
 Giriş
 
-Kandaki Sıvı Oranını Kontrol Eden Denetçiler
-
-Vücuttaki Kusursuz Güvenlik Sistemi
+ - Kandaki Sıvı Oranını Kontrol Eden Denetçiler
+ 
+ - Vücuttaki Kusursuz Güvenlik Sistemi
 
 Anne Sütü ve Oksitosin Hormonu
 
