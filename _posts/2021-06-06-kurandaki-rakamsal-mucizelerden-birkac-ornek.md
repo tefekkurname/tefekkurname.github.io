@@ -14,10 +14,10 @@ image:
 
 **12 RAKAMIYLA İLGİLİ MUCİZE**
 
-Kuran’da Maide Suresi’nin 12. ayetinde, oniki güvenilir-gözetleyiciden bahsedilmektedir.
+Kuran’da Maide Suresi’nin ``12. ayetinde, oniki`` güvenilir-gözetleyiciden bahsedilmektedir.
 
 
-Andolsun, Allah İsrailoğullarından kesin söz (misak) almıştı. Onlardan oniki güvenilir- gözetleyici göndermiştik. Ve Allah onlara: "Gerçekten ben sizinle birlikteyim. Eğer namazı kılar, zekatı verir, elçilerime inanır, onları savunup-desteklerseniz ve Allah'a güzel bir borç verirseniz, şüphesiz sizin kötülüklerinizi örter ve sizi gerçekten, altından ırmaklar akan cennetlere sokarım. Bundan sonra sizden kim inkar ederse, cidden dümdüz bir yoldan sapmıştır." (Maide Suresi, 12. ayet)
+Andolsun, Allah İsrailoğullarından kesin söz (misak) almıştı. Onlardan ``oniki`` güvenilir- gözetleyici göndermiştik. Ve Allah onlara: "Gerçekten ben sizinle birlikteyim. Eğer namazı kılar, zekatı verir, elçilerime inanır, onları savunup-desteklerseniz ve Allah'a güzel bir borç verirseniz, şüphesiz sizin kötülüklerinizi örter ve sizi gerçekten, altından ırmaklar akan cennetlere sokarım. Bundan sonra sizden kim inkar ederse, cidden dümdüz bir yoldan sapmıştır." (Maide Suresi, ``12. ayet``)
  
 
 **13 RAKAMIYLA İLGİLİ MUCİZE**
