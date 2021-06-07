@@ -15,7 +15,7 @@ image:
 
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
-<iframe src="//e.pcloud.link/publink/show?code=XZlsSVZAtMSFvPwbaF36SwemWCceX9AvIry" scrolling="no" frameborder="0" width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//e.pcloud.link/publink/show?code=XZlsSVZAtMSFvPwbaF36SwemWCceX9AvIry" scrolling="no" frameborder="0" width="800" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıyla karşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir. Yani salih müminler, hayatlarının her döneminde birtakım zorluklarla karşılaşabilirler. İşte önemli olan da insanların bu zorluk anlarında Kuran ahlakını yaşamaları, her an Allah'ı zikretmeleri ve içinde bulundukları duruma şükredip, hepsinde bir hayır ve güzellik olduğunu fark edebilmeleridir. 
 
@@ -39,7 +39,7 @@ Neredeyse seni (bu) yerden (yurdundan) çıkarmak için tedirgin edeceklerdi; bu
 İşte bu, dünyada yaşanan imtihanın sırlarından biridir. Allah Kuran'da Müslümanlara karşılaşabilecekleri pek çok olayı önceden haber vermiştir. Ayrıca Müslümanlara cennete girebilmeleri için mutlaka geçmiştekilerin başlarına gelenlerle deneneceklerini de bildirmiştir:
 Yoksa sizden önce gelip-geçenlerin hali başınıza gelmeden cennete gireceğinizi mi sandınız? Onlara öyle bir yoksulluk, öyle dayanılmaz bir zorluk çattı ve öylesine sarsıldılar ki, sonunda elçi, beraberindeki müminlerle; "Allah'ın yardımı ne zaman?" diyordu. Dikkat edin. Şüphesiz Allah'ın yardımı pek yakındır. (Bakara Suresi, 214)
 
-Kadere Teslimiyet
+**Kadere Teslimiyet**
 
 Yeryüzünde yaşanan imtihan ortamının çok önemli bir sırrı daha vardır. Bu sırra vakıf olan müminler, karşılaştıkları zorluklara büyük bir şevk ve neşeyle sabır gösterirler. İşte bu sırrın özünde "kader" gerçeği vardır. Müslüman, Allah'ın herşeyi bir kader üzere yarattığını ve başına gelenlerin sadece Allah'ın dilemesiyle gerçekleştiğini bilir. İnsanların hayatlarını tüm ayrıntılarıyla yaratan Allah'tır. En'am Suresi'nde yeryüzünde meydana gelen küçük büyük tüm olayların Allah'ın dilemesiyle gerçekleştiği şu şekilde ifade edilir:
 
