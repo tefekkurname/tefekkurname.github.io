@@ -9,7 +9,7 @@ lang: tr
 encoding: utf-8
 feature_video: 
 image:
-  feature: derimiz.jpg
+  feature: lizozom.jpg
 ---
 
 
