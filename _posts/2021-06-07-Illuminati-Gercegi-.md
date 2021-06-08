@@ -10,7 +10,7 @@ encoding: utf-8
 date: 2021-06-06 15:00:00
 feature_video: 
 image:
-  feature: Kurana-uyan-1.png
+  feature: 98a0e86cfeb3.jpg
 ---
 
 İlluminati gizli, derin dünya devleti. Ama her gizli topluluğu Allah yönetir. İlluminati’de, Hızır’ın olmadığı bir toplantı yapmak mümkün değildir.
