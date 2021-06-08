@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**İlluminati** Gerçeği - Tapınak Şövalyeleri Ve Masonlar"
+title: "**İlluminati** Gerçeği - Tapınak Şövalyeleri Ve **mason**lar"
 excerpt: **İlluminati**’den üç karar çıktı. Bir; Mehdi (as)’ı belirlediler, Mehdi şudur dediler. İki; İsa Mesih (as) şu dediler. Üç; dünyaya İslam’ın hakim olmasına karar verdi **İlluminati**.
 description: Benim gördüğüm **İlluminati**, deccali dünyaya sunmuş. Deccali organize etmiş. Deccalin de bir topluluğa ihtiyacı var, bir talebe topluluğuna. Onlar da mesela 300 kişi falan, Mehdi’de olduğu gibi. Onlar da 313 kişiyle ortaya çıkıyorlar. 
 categories: [belgeseller]
@@ -37,7 +37,7 @@ Tek din ne? İslam olacak ve bütün dünya tek ümmet olacak. **İlluminati**�
 
 Suriye yıkılıp paramparça olması gerekiyorsa derin dünya devleti karar verir ona. Ve Amerikan derin devletine havale edilir. İhale alır orası. İhaleyi alır ve uygulamaya geçer.
 
-Bütün dünyada Moşiyah Mehdi bekleniyor. O mason düğümünü çözecek kişi olarak bekliyorlar.
+Bütün dünyada Moşiyah Mehdi bekleniyor. O **mason** düğümünü çözecek kişi olarak bekliyorlar.
 
 ABD, Avrupa ve **İlluminati** de İttihad-ı İslam’ı istiyor. İttihad-ı İslam mutlaka olacak inşaAllah.
 
