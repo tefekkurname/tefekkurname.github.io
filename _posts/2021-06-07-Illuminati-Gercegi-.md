@@ -25,5 +25,5 @@ Benim gördüğüm İlluminati, deccali dünyaya sunmuş. Deccali organize etmi�
 
 İsa Mesih kendi orijinal kıyafetiyle Allah tarafından indirilecek. Çünkü o ayakkabısıyla, o kıyafetiyle alınmıştı. O haliyle, uyur halde yine bırakılacaktır. Uykudan uyanarak kalkacaktır.
 
-
+Tek din ne? İslam olacak ve bütün dünya tek ümmet olacak. İlluminati’nin hedefini Mehdi yapacak ama onlar negatiften gidiyor, Mehdi pozitiften gidecek.
 
