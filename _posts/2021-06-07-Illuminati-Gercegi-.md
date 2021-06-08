@@ -37,7 +37,7 @@ Tek din ne? İslam olacak ve bütün dünya tek ümmet olacak. İlluminati’nin
 
 Suriye yıkılıp paramparça olması gerekiyorsa derin dünya devleti karar verir ona. Ve Amerikan derin devletine havale edilir. İhale alır orası. İhaleyi alır ve uygulamaya geçer.
 
-kBütün dünyada Moşiyah Mehdi bekleniyor. O mason düğümünü çözecek kişi olarak bekliyorlar.
+Bütün dünyada Moşiyah Mehdi bekleniyor. O mason düğümünü çözecek kişi olarak bekliyorlar.
 
-
+ABD, Avrupa ve İlluminati de İttihad-ı İslam’ı istiyor. İttihad-ı İslam mutlaka olacak inşaAllah.
 
