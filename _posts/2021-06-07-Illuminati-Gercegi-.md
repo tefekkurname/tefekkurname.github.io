@@ -49,6 +49,6 @@ image:
 - Masonluğu Allah Müslümanlığın emrine veriyor. Tapınak Şövalyelerini Allah Müslümanların emrine veriyor. İlluminati’yi Allah dünyaya hakimiyet anlamında Müslümanların emrine veriyor.
 
 
-“Filistin’in haklı mücadelesi” denilen şey, İsrail’le Filistin’in barışıp, kardeşlik içinde yaşamasıdır. Yoksa bölgeden İsrail’in yok edilmesi, haritadan silinmesi değil.
+- “Filistin’in haklı mücadelesi” denilen şey, İsrail’le Filistin’in barışıp, kardeşlik içinde yaşamasıdır. Yoksa bölgeden İsrail’in yok edilmesi, haritadan silinmesi değil.
 
-Münafıklar Kuran okunduğunda kaçacak delik arıyorlar. “Nefretle geri dönerler” diyor Allah ayette. Ama boş bir laf duyduklarında gelirler, münafığın özelliğidir.
+- Münafıklar Kuran okunduğunda kaçacak delik arıyorlar. “Nefretle geri dönerler” diyor Allah ayette. Ama boş bir laf duyduklarında gelirler, münafığın özelliğidir.
