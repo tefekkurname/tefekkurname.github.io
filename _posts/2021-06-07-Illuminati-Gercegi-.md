@@ -30,3 +30,14 @@ Benim gördüğüm İlluminati, deccali dünyaya sunmuş. Deccali organize etmi�
 
 Tek din ne? İslam olacak ve bütün dünya tek ümmet olacak. İlluminati’nin hedefini Mehdi yapacak ama onlar negatiften gidiyor, Mehdi pozitiften gidecek.
 
+İLLUMİNATİ’NİN TAMAMI MEHDİ’YE TABİ. ŞU ANDA DA MEHDİ’YE TABİLER. DECCALİYETTEN VAZGEÇTİLER. Yapamazlar. İçlerinde Hz. Hızır var. Ve Mehdi’ye tabi oldular. Bundan sonra Mehdiyet için hizmet edecekler.
+
+İlluminati’nin de üstünde bir güç vardır. Onlar dünyanın nasıl şekil alması gerektiğini pergelle, iletkiyle çizerler.
+
+
+Suriye yıkılıp paramparça olması gerekiyorsa derin dünya devleti karar verir ona. Ve Amerikan derin devletine havale edilir. İhale alır orası. İhaleyi alır ve uygulamaya geçer.
+
+kBütün dünyada Moşiyah Mehdi bekleniyor. O mason düğümünü çözecek kişi olarak bekliyorlar.
+
+
+
