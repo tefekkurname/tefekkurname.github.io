@@ -19,6 +19,9 @@ image:
 
 Çok makbuldür hastalıklar gelmesi, dertler gelmesi, sıkıntılar gelmesi. Ona rağmen mümin olarak devam ediyorsa o ihya oldu inşaAllah. Mesela bir koluyla namaz kılıyor, biz bir sevap alıyorsak, o beş yüz sevap alır inşaAllah.
 
+
+<iframe src="//e.pcloud.link/publink/show?code=XZ1CjVZyVmPmUeKQoyjMFXtzdrNOfqLDKvy" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 Benim gördüğüm İlluminati, deccali dünyaya sunmuş. Deccali organize etmiş. Deccalin de bir topluluğa ihtiyacı var, bir talebe topluluğuna. Onlar da mesela 300 kişi falan, Mehdi’de olduğu gibi. Onlar da 313 kişiyle ortaya çıkıyorlar.
 
 İnsan daha yaratılmadan, imtihanının gereği olarak alay edilme, baskı, hapis hepsi önceden hazır edilir. Vakti geldikçe Allah onu gösterir.
