@@ -12,26 +12,30 @@ feature_video:
 image:
   feature: KIYAMETsaati2.jpg
 ---
+
+- Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bir surette gösterecektir” buyurmuştur.
+
+<div class="responsive-wrap">
 <iframe src="//e.pcloud.link/publink/show?code=XZ2VSVZC8UHko9mSQzHWJrQYinaVuOgsefy" scrolling="no" frameborder="0" width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-Peygamberimiz (sav) “Allah Mehdinin çıkışını kullarına kaçınılmaz bir surette gösterecektir” buyurmuştur.
-
-İslam ahlakı dünyaya hakim olduğunda, İslam birliği oluştuğunda, Müslümanların önderi olan ve Hz. İsa ile birlikte namaz kılan kişiyi gördüğümüzde, “Allahualem bu kişi Mehdi” diyeceğiz. 
-
-Hadislere göre Deccalin saçları kıvırcık ve karışıktır. Tek gözü kör, iri yapılı, cildi kırmızıya yakındır. Başının görünüşü kertenkeleyi andırır. Hadislere göce Deccalin sihir ve ispiritizma, hipnoz ile kitleleri etkileme gücü de olacaktır. Muhtemelen masonluk içinden çıkacaktır.
-
-Peygamberimiz Mehdi’ye ilk karşı çıkacak olanların bazı bağnaz alimler olacağını söylemiştir. Mehdinin dini değiştirdiğini iddia edeceklerdir.
-
-Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
+</div>
 
 
-CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
+- İslam ahlakı dünyaya hakim olduğunda, İslam birliği oluştuğunda, Müslümanların önderi olan ve Hz. İsa ile birlikte namaz kılan kişiyi gördüğümüzde, “Allahualem bu kişi Mehdi” diyeceğiz. 
 
-“ELHAMDÜLİLLAH”, “MAŞAALLAH”, “İNŞAALLAH”. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
+- Hadislere göre Deccalin saçları kıvırcık ve karışıktır. Tek gözü kör, iri yapılı, cildi kırmızıya yakındır. Başının görünüşü kertenkeleyi andırır. Hadislere göce Deccalin sihir ve ispiritizma, hipnoz ile kitleleri etkileme gücü de olacaktır. Muhtemelen masonluk içinden çıkacaktır.
 
-Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığını canla başla savunuyorlardı. Haysiyetsizlik yapıp Resulullah’ın yanından ayrıldıktan sonra O’nu akılsızca suçlamaya başladılar. 10-15 yıl boyunca destek verdiğini suçlayan münafığın asıl suçladığı kendisidir ve aslına kendisi de aslında suçlanacak hiçbir konu olmadığını çok iyi bilir. (A9TV; 20 Aralık 2017)
+- Peygamberimiz Mehdi’ye ilk karşı çıkacak olanların bazı bağnaz alimler olacağını söylemiştir. Mehdinin dini değiştirdiğini iddia edeceklerdir.
 
- İsa (as)’ın Fiziksel Özellikleri :
+- Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
+
+
+- CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
+
+- “ELHAMDÜLİLLAH”, “MAŞAALLAH”, “İNŞAALLAH”. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
+
+- Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığını canla başla savunuyorlardı. Haysiyetsizlik yapıp Resulullah’ın yanından ayrıldıktan sonra O’nu akılsızca suçlamaya başladılar. 10-15 yıl boyunca destek verdiğini suçlayan münafığın asıl suçladığı kendisidir ve aslına kendisi de aslında suçlanacak hiçbir konu olmadığını çok iyi bilir. (A9TV; 20 Aralık 2017)
+
+- İsa (as)’ın Fiziksel Özellikleri :
 
     Yeşile bakan gri gözlüdür.
     Keskin bakışlıdır. (Ahmed b. Hanbel, I, 374; Ebû Ya’lâ V, 108)
