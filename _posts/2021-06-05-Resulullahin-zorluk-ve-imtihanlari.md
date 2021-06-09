@@ -15,7 +15,7 @@ image:
 
 - Resulullah, Resulullah oluyor ama çektiği çilenin haddi hesabı yok. 
 
-Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama bu üstünlüğünden dolayı seviyor.
+	Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama bu üstünlüğünden dolayı seviyor.
 
 <div class="responsive-wrap">
 <iframe src="//vidmoly.to/embed-2h578iq813u1.html" scrolling="no" frameborder="0"  width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -27,7 +27,7 @@ Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama b
 
 - Resulullah hiç kimseyi, hiçbir olayı Mehdi kadar detaylı tarif etmemiştir.
 
-Bu, Resulullah’ın Mehdi’ye yardımıdır. Peygamberimiz zer aleminde Allah’a söz verdi Mehdi’ye yardım etmek için. Bu yardımını da Mehdi’yi tüm detaylarıyla anlatarak gerçekleştirdi. Mehdi’yi ve Mehdiyet dönemi olaylarını öyle detaylı bir tarif etmiş ki fotoğraf gibi maşaAllah.
+	Bu, Resulullah’ın Mehdi’ye yardımıdır. Peygamberimiz zer aleminde Allah’a söz verdi Mehdi’ye yardım etmek için. Bu yardımını da Mehdi’yi tüm detaylarıyla anlatarak gerçekleştirdi. Mehdi’yi ve Mehdiyet dönemi olaylarını öyle detaylı bir tarif etmiş ki fotoğraf gibi maşaAllah.
 
 - Peygamberimiz (sav)’in Fiziksel Görünümü:
 
