@@ -31,9 +31,15 @@ image:
 
 - Ahir zamanda gelecek Hz. Mehdi (as) hiç kimsenin o devirde yapmadığı ledün ilmini uygulayacaktır. O yüzden birçok kişi Hz. Mehdi (as)a muhalif olacaktır. Birçok kişi,“Tavırları İslam’a zıt” diyecek, aynı Hızır (as)a Hz. Musa (as)ın karşı gelmesi gibi bilmeden karşı geleceklerdir.
 
+- Hz. Mehdi (a.s.) deccaliyetin tahribatıyla mücadele eder. Bu yönde mücadele eden her Müslüman bir Mehdi talebesidir
+
 - İran’daki Kürt kardeşlerimizi de, Irak’takileri de, Suriye’dekileri de, Türkiye’dekileri de İttihad-ı İslam’ın sıcak bağrında en mutlu şekilde yaşatacağız inşaAllah.
 
 - Allah’a samimi iman eden bir mümin cehenneme gitmez. Cehennemi seyreder, görür, duyar, haberlerini alır ama cehenneme gitmez. Arazisine gider, görür ama acı çekmez.
+
+- Süfyan önce çıkar, Hz. Mehdi (a.s.) onun tahribatını tamir eder. Süfyan istemeden Hz. Mehdi (a.s.)a zemin hazırlar. Süfyan olmasa, Hz. Mehdi (a.s.)ın mücadele zemini olmazdı. Süfyan negatif gücüyle, Hz. Mehdi (a.s.) pozitif gücüyle hizmet eder.
+
+- Allahı seven, Hz. Mehdi (a.s.) taraftarı olacaktır. Bu birliktelikler Mehdiyetin bereketiyle oluyor. Hz. Mehdi (a.s.) olmadan, Türk İslam aleminin birliği mümkün değildir.
 
 - Allah hiç kimseye zulmetmez. Müminler hiçbir şekilde cehenneme gitmez. Ama mümin cehennemden korkacak, cehennem azabından çekinecek. Ama tekrar söylüyorum; bir mümin asla ve kesinlikle cehenneme gitmez.
 
