@@ -17,7 +17,7 @@ image:
     Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama bu üstünlüğünden dolayı seviyor.
 
 <div class="responsive-wrap">
-<iframe src="//vidmoly.to/embed-2h578iq813u1.html" scrolling="no" frameborder="0"  width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//vidmoly.to/embed-2h578iq813u1.html" scrolling="no" frameborder="0"  width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 - **Allah 300 münafığı Peygamberimiz’in emrine vermişti.** 
