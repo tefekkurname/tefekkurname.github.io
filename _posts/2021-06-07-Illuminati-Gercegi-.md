@@ -12,8 +12,9 @@ feature_video:
 image:
   feature: 98a0e86cfeb3.jpg
 ---
- {% include open-embed.html %}
-
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
 - Çok makbuldür hastalıklar gelmesi, dertler gelmesi, sıkıntılar gelmesi. Ona rağmen mümin olarak devam ediyorsa o ihya oldu inşaAllah. Mesela bir koluyla namaz kılıyor, biz bir sevap alıyorsak, o beş yüz sevap alır inşaAllah.
 
 <iframe src="//e.pcloud.link/publink/show?code=XZNPjVZzSH4KokpB35zMw74oVGpPfFcMR8X" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -24,8 +25,8 @@ image:
 
 - **İlluminati**’de, Hızır’ın olmadığı bir toplantı yapmak mümkün değildir.
 
-<div class="container"> 
-<iframe  class="responsive-iframe" src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="720" height="640" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<div class="responsive-wrap">
+<iframe src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="720" height="640" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 
