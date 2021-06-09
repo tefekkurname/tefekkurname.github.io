@@ -7,7 +7,7 @@ lang: tr
 encoding: utf-8
 title: "Hz. Mehdi (a.s.)'ın mücadelesi 2"
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
-date:   2021-06-05 15:00:00
+date:   2021-06-05 11:00:00
 feature_video: 
 image:
   feature: Musluman-Zulum-4.png
