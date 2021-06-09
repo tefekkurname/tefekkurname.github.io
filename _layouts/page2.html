@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr"  prefix="og: https://ogp.me/ns# website: https://ogp.me/ns/website#">
+<head>
+{% include _head.html %}
+
+</head>
+<body class="page">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature contains 'http' %}
+    
+    {% elsif page.image.credit %}
+    
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span></div>
+  
+    {% else %}
+    
+    <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> </div>
+   {% endif %}
+    
+    {% else %}
+    
+  {% elsif page.image.credit %}
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"><span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span> </div>
+  
+    {% else %}
+    
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"></div>
+      
+    
+  {% endif %}
+    {% endif %}
+    
+    
+ 
+  <!-- /.image-wrap -->
+
+
+<div id="main" role="main">
+  <article class="page">
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+
+<noscript>
+    <img src="https://counter2000.herokuapp.com/ingress/baee7e82-ac81-432a-a911-d0361856be43/pixel.gif" alt="counter" title="counter">
+</noscript>
+<script defer src="https://counter2000.herokuapp.com/ingress/baee7e82-ac81-432a-a911-d0361856be43/script.js"></script>
+
+
+</body>
+</html>

@@ -1,43 +1,28 @@
-<!DOCTYPE html>
-<html lang="tr"  prefix="og: https://ogp.me/ns# website: https://ogp.me/ns/website#">
+<!doctype html>
+<html lang="tr">
 <head>
+<meta charset="UTF-8">
 {% include _head.html %}
-
 </head>
+
 <body class="page">
 
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
-{% if page.image.feature contains 'http' %}
-    
-    {% elsif page.image.credit %}
-    
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span></div>
-  
+{% if page.image.feature %}
+  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url(
+    {% if page.image.feature contains 'http' %}
+      '{{ page.image.feature }}'
     {% else %}
-    
-    <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> </div>
-   {% endif %}
-    
-    {% else %}
-    
-  {% elsif page.image.credit %}
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"><span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span> </div>
-  
-    {% else %}
-    
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"></div>
-      
-    
+      '{{ site.url }}/images/{{ page.image.feature }}'
+    {% endif %} ); background-size: cover; background-position: center;">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
-    {% endif %}
-    
-    
- 
-  <!-- /.image-wrap -->
-
+  </div><!-- /.image-wrap -->
+{% endif %}
 
 <div id="main" role="main">
   <article class="page">

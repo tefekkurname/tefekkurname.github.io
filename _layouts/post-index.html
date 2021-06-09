@@ -11,32 +11,17 @@
 
 {% include _navigation.html %}
 
+{% if page.image.feature %}
 {% if page.image.feature contains 'http' %}
-    
-    {% if page.image.credit %}
-    
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span></div>
-  
-    {% else %}
-    
-    <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> </div>
-   {% endif %}
-    
-    {% else %}
-    
+<div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center;">
+ {% else %}
+<div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center;">
+{% endif %}
   {% if page.image.credit %}
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"><span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span> </div>
-  
-    {% else %}
-    
-  <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"></div>
-      
-    
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
-    {% endif %}
-    
- <!-- /.image-wrap -->
-
+  </div><!-- /.image-wrap -->
+{% endif %}
 
 <div id="main" role="main">
   <div id="index">
