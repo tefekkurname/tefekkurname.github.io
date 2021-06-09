@@ -3,7 +3,7 @@ layout: post
 title: "Anna Manja Larcher sevgisizlik ahir zaman alameti 4"
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
-categories: [videolar]
+categories: [video]
 tags: [videolar]
 lang: tr
 encoding: utf-8
