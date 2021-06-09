@@ -6,7 +6,6 @@ description: Peygamberimiz (sav) zamanında Budizm de vardı, her türlü fitne 
 categories: [belgesel]
 tags: [belgeseller]
 lang: tr
-encoding: utf-8
 date: 2021-06-07 15:00:00
 feature_video: 
 image:
