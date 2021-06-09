@@ -23,7 +23,7 @@ image:
 
 - **İlluminati**’de, Hızır’ın olmadığı bir toplantı yapmak mümkün değildir.
 
-<iframe src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe  class="responsive-iframe" src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
  
 
@@ -52,3 +52,25 @@ image:
 - “Filistin’in haklı mücadelesi” denilen şey, İsrail’le Filistin’in barışıp, kardeşlik içinde yaşamasıdır. Yoksa bölgeden İsrail’in yok edilmesi, haritadan silinmesi değil.
 
 - Münafıklar Kuran okunduğunda kaçacak delik arıyorlar. “Nefretle geri dönerler” diyor Allah ayette. Ama boş bir laf duyduklarında gelirler, münafığın özelliğidir.
+
+
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+
