@@ -10,7 +10,7 @@
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
-
+{% if page.image.feature %}
 {% if page.image.feature and page.feature_video == null %}
   <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center;">
     
@@ -20,6 +20,7 @@
       
     {% endif %}
     
+    {% endif %}
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
