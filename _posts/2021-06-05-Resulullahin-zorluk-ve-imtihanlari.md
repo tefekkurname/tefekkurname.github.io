@@ -20,7 +20,7 @@ Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama b
 <iframe src="//vidmoly.to/embed-2h578iq813u1.html" scrolling="no" frameborder="0"  width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
-- **Allah 300 münafığı Peygamberimiz’in emrine vermişti.**
+> **Allah 300 münafığı Peygamberimiz’in emrine vermişti.**
 Gece gündüz nöbet tuttular, bir tabak yemekle kapıda hizmet ettiler, gazvelere katıldılar. Resulullah’ın ve Müslümanların müthiş zengin olmasına vesile oldular. Peygamberimiz’in ününü her yere yaydılar. 20 yıl boyunca Hz. Süleyman’ın şeytanları gibi Peygamberimiz’e hizmet ettiler. 20 yıl sonra, menfaatleri kesilince, bir anda “pardon yanlış yapmışız” dediler. 20 yıl boyunca yanlış yaptığını anlamayan katlamalı ahmaktır. Peygamberimiz dönemi münafıkların da ahir zaman münafıkları da ahmaklıklarına, enayiliklerine, kerizliklerine doymasınlar.
 
 - **Cennette müminler birbirini sever.**
