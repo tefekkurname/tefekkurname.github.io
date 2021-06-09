@@ -25,7 +25,13 @@ image:
 
 - Ledün ilmi olmadan ahir zamanda mücadele yapılması, deccalin mağlup edilmesi mümkün değildir. İllaki bu ilm-i garibin, bu ledün ilminin uygulanması gerekir.
 
+- İlm-i garibi bilmeyen cahil ve cühela ve cühelat kendilerince Hz. Mehdi (as)a tavır alacaklardır. Bir zaman geçtikten sonra o perde kalkınca, Hz. Mehdi (as) ilmin hikmetlerini açıkladığında ehli cühelanın ağzı açık kalacaktır. Bu ilm-i garibe yani ledün ilmine deccalin dayanması mümkün değildir.
+
+- Deccal ordularını mağlup edecek gücü Cenab-ı Allah Türk askerine, polisimize nasip edecektir. Çünkü ahir zamandayız, Mehdiyet devrindeyiz. Onlar Allah taraftarı ve Hz. Mehdi (as)ın ordusu. Allah taraftarları yenilmez.
+
 - Ahir zamanda gelecek Hz. Mehdi (as) hiç kimsenin o devirde yapmadığı ledün ilmini uygulayacaktır. O yüzden birçok kişi Hz. Mehdi (as)a muhalif olacaktır. Birçok kişi,“Tavırları İslam’a zıt” diyecek, aynı Hızır (as)a Hz. Musa (as)ın karşı gelmesi gibi bilmeden karşı geleceklerdir.
+
+- İran’daki Kürt kardeşlerimizi de, Irak’takileri de, Suriye’dekileri de, Türkiye’dekileri de İttihad-ı İslam’ın sıcak bağrında en mutlu şekilde yaşatacağız inşaAllah.
 
 - Allah’a samimi iman eden bir mümin cehenneme gitmez. Cehennemi seyreder, görür, duyar, haberlerini alır ama cehenneme gitmez. Arazisine gider, görür ama acı çekmez.
 
