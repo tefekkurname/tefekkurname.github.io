@@ -14,9 +14,19 @@ image:
 ---
 
 
-3. Uluslararası Yaşamın ve Evrenin Kökeni Konferansı – 28 Nisan 2018
-
 
 <div class="responsive-wrap">
 <iframe src="//vidmoly.to/embed-4oxyapr9vvbp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
+
+**3. Uluslararası Yaşamın ve Evrenin Kökeni Konferansı – 28 Nisan 2018**
+
+- Anna Manja Larcher
+- David Snoke
+- Dr. Bijan Nemati
+- Dr. David Snoke
+- Dr. Fazale Rana
+- Dr. Hans Köchler
+- Dr. Kenneth Keathley
+- Fabrizio Fratus
+- Richard N. Williams
