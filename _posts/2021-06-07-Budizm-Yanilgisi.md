@@ -10,7 +10,7 @@ encoding: utf-8
 date: 2021-06-07 15:00:00
 feature_video: 
 image:
-  feature: Charles Darwin.jpg
+  feature: Darwin.jpg
 ---
 
 > **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
