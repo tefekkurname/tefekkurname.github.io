@@ -5,7 +5,7 @@ tags: [belgeseller]
 excerpt: İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıylakarşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir.
 lang: tr
 encoding: utf-8
-title: "İmtihanın Sırrı -2-"
+title: "İmtihanın Sırrı -2- Harun Yahya Belgesel"
 description: İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıyla karşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir. Yani salih müminler, hayatlarının her döneminde birtakım zorluklarla karşılaşabilirler. İşte önemli olan da insanların bu zorluk anlarında Kuran ahlakını yaşamaları, her an Allah'ı zikretmeleri ve içinde bulundukları duruma şükredip, hepsinde bir hayır ve güzellik olduğunu fark edebilmeleridir. 
 date:   2021-06-06 15:00:00
 feature_video: 
