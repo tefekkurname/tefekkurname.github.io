@@ -13,7 +13,6 @@ image:
   feature: Kurana-uyan-1.png
 ---
 
-
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 <div class="responsive-wrap">
