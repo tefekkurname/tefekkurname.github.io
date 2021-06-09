@@ -22,3 +22,6 @@ image:
 - Maddenin hakikati konusunda bilim samimi olmalı. Maddenin ruhun bir inancı olduğunu samimi olarak açıklamalı. Araba 50 metre uzakta diyor. Peki neye göre? Beynin içindeki yoruma göre. Dışarıda gölge varlıklar var iddia edildiği tarzda madde yok. Maddeye dair bilgimizin tamamı ruhun yorumuna dayalıdır.
 
 - Ahireti ve dünyanın amacını doğru anlamaları için insanların önce temeldeki bakış açılarını bilimsel, doğru zemine oturtmaları gerekiyor. İnsanlar madde var, maddeden ruh meydana gelir inancındalar. Beynimiz olmasa his, duygu, şuur olmaz sanıyorlar. Tam tersine ruhtan madde meydana geliyor. Elde somut olan delil ruh. Maddeye ait somut delil yok. Ama ruha ait somut delil var. Madde inanç olarak var. Olması gerekir diyoruz. Neye göre? Beynimizin içinde ruhun gördüğüne göre. Beynimin içinde gördüğüme göre dışarıda da olması gerekir diyor insanlar. Dolayısıyla madde inanç olarak var, ruh ise kesin somut olarak var. Ruhun meydana getirdiği imaja madde diyoruz. Bu bilimsel bir gerçek. Bunu anlayan ahireti, dünyanın gerçeğini de çok net anlar. 
+
+- Avrupalılar güzel insanlar onları Deccalin eline terk etmeyelim. Hepsine sahip çıkalım. Deccaliyet uyuşturucu müptelası, alkolik, homoseksüel, yaşama heyecanını kaybetmiş, her şeyden sıkılan bir kitle oluşturmaya çalışıyor. Deccaliyetin bu oyununa karşı Avrupa ve Amerika’ya sahip çıkacağız.
+
