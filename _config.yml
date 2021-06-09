@@ -1,5 +1,6 @@
 # Site wide configuration
 
+title: Tefekkürname
 baseurl           : 
 url               : https://tefekkurname.github.io
 tagline:  Read or Download
