@@ -13,6 +13,21 @@ image:
   feature: 98a0e86cfeb3.jpg
 ---
 
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
 - Çok makbuldür hastalıklar gelmesi, dertler gelmesi, sıkıntılar gelmesi. Ona rağmen mümin olarak devam ediyorsa o ihya oldu inşaAllah. Mesela bir koluyla namaz kılıyor, biz bir sevap alıyorsak, o beş yüz sevap alır inşaAllah.
 
 <iframe src="//e.pcloud.link/publink/show?code=XZNPjVZzSH4KokpB35zMw74oVGpPfFcMR8X" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -23,8 +38,9 @@ image:
 
 - **İlluminati**’de, Hızır’ın olmadığı bir toplantı yapmak mümkün değildir.
 
+<div class="container"> 
 <iframe  class="responsive-iframe" src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="720" height="6400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
+</div>
  
 
 - Benim gördüğüm **İlluminati**, deccali dünyaya sunmuş. Deccali organize etmiş. Deccalin de bir topluluğa ihtiyacı var, bir talebe topluluğuna. Onlar da mesela 300 kişi falan, Mehdi’de olduğu gibi. Onlar da 313 kişiyle ortaya çıkıyorlar.
@@ -54,23 +70,4 @@ image:
 - Münafıklar Kuran okunduğunda kaçacak delik arıyorlar. “Nefretle geri dönerler” diyor Allah ayette. Ama boş bir laf duyduklarında gelirler, münafığın özelliğidir.
 
 
-<style>
-.container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
-}
-
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-</style>
 
