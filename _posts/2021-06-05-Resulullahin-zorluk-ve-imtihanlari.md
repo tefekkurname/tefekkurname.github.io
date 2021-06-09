@@ -22,6 +22,9 @@ image:
 
 - Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
+- Resulullah hiç kimseyi, hiçbir olayı Mehdi kadar detaylı tarif etmemiştir.
+
+Bu, Resulullah’ın Mehdi’ye yardımıdır. Peygamberimiz zer aleminde Allah’a söz verdi Mehdi’ye yardım etmek için. Bu yardımını da Mehdi’yi tüm detaylarıyla anlatarak gerçekleştirdi. Mehdi’yi ve Mehdiyet dönemi olaylarını öyle detaylı bir tarif etmiş ki fotoğraf gibi maşaAllah.
 
 - Peygamberimiz (sav)’in Fiziksel Görünümü:
 
