@@ -13,10 +13,14 @@ image:
   feature: Kurana-uyan-1.png
 ---
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
-<iframe src="//e.pcloud.link/publink/show?code=XZlsSVZAtMSFvPwbaF36SwemWCceX9AvIry" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
+<div class="responsive-wrap">
+<iframe src="//e.pcloud.link/publink/show?code=XZlsSVZAtMSFvPwbaF36SwemWCceX9AvIry" scrolling="no" frameborder="0" width="720" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</div>
 İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıyla karşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir. Yani salih müminler, hayatlarının her döneminde birtakım zorluklarla karşılaşabilirler. İşte önemli olan da insanların bu zorluk anlarında Kuran ahlakını yaşamaları, her an Allah'ı zikretmeleri ve içinde bulundukları duruma şükredip, hepsinde bir hayır ve güzellik olduğunu fark edebilmeleridir. 
 
 Bu sayılanların rahat bir ortamda, bolluk ve nimetler içindeyken yapılması zorluk anına göre kuşkusuz daha kolaydır. Ancak Müslümanın imanının gücünü asıl gösteren en önemli şeylerden biri, bu üstün ahlakını zor zamanlarda yaşaması ve bundan da hiçbir şekilde taviz vermemesidir. Fakirlik, açlık, korku, mallardan ve canlardan eksiltme, hastalık, inkarcıların tehditleri, iftiraları ve tuzakları gibi olaylarla karşılaştıklarında sabır gösteren Müslümanlar, güzel tavırlarının karşılığını daha güzeliyle alacaklardır. 

@@ -17,16 +17,21 @@ image:
 </style>
 - Çok makbuldür hastalıklar gelmesi, dertler gelmesi, sıkıntılar gelmesi. Ona rağmen mümin olarak devam ediyorsa o ihya oldu inşaAllah. Mesela bir koluyla namaz kılıyor, biz bir sevap alıyorsak, o beş yüz sevap alır inşaAllah.
 
-<iframe src="//e.pcloud.link/publink/show?code=XZNPjVZzSH4KokpB35zMw74oVGpPfFcMR8X" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<div class="responsive-wrap">
+<iframe src="//e.pcloud.link/publink/show?code=XZNPjVZzSH4KokpB35zMw74oVGpPfFcMR8X" scrolling="no" frameborder="0" width="760" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</div>
 
 
 - **İlluminati** gizli, derin dünya devleti. Ama her gizli topluluğu Allah yönetir.
-<iframe src="//e.pcloud.link/publink/show?code=XZ1CjVZyVmPmUeKQoyjMFXtzdrNOfqLDKvy" scrolling="no" frameborder="0" width="450" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<div class="responsive-wrap">
+<iframe src="//e.pcloud.link/publink/show?code=XZ1CjVZyVmPmUeKQoyjMFXtzdrNOfqLDKvy" scrolling="no" frameborder="0" width="760" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</div>
 
 - **İlluminati**’de, Hızır’ın olmadığı bir toplantı yapmak mümkün değildir.
 
 <div class="responsive-wrap">
-<iframe src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="760" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="760" height="400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 
