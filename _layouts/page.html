@@ -12,7 +12,7 @@
 
 {% if page.image.feature contains 'http' %}
     
-    {% if page.image.credit %}
+    {% elsif page.image.credit %}
     
   <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ page.image.feature }}'); background-size: cover; background-position: center"> <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span></div>
   
@@ -23,7 +23,7 @@
     
     {% else %}
     
-  {% if page.image.credit %}
+  {% elsif page.image.credit %}
   <div alt="{{ page.title }} feature image" class="image-wrap" style="background: url('{{ site.url }}/images/{{ page.image.feature }}'); background-size: cover; background-position: center"><span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span> </div>
   
     {% else %}
