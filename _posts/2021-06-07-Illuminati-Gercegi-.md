@@ -23,7 +23,7 @@ image:
 
 - **İlluminati**’de, Hızır’ın olmadığı bir toplantı yapmak mümkün değildir.
 
-<iframe  class="responsive-iframe" src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe  class="responsive-iframe" src="//e.pcloud.link/publink/show?code=XZEbuVZ6cwswE5urWY27IvFCkqA4yu9wLpV" scrolling="no" frameborder="0" width="720" height="6400" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
  
 
