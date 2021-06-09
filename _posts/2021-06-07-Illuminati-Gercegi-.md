@@ -18,7 +18,7 @@ image:
   position: relative;
   width: 100%;
   overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  padding-top: 100%; /* 16:9 Aspect Ratio */
 }
 
 .responsive-iframe {
