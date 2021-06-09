@@ -13,7 +13,7 @@ image:
   feature: KIYAMETsaati2.jpg
 ---
 
-- **Resulullah, Resulullah oluyor ama çektiği çilenin haddi hesabı yok.**
+>> **Resulullah, Resulullah oluyor ama çektiği çilenin haddi hesabı yok.**
 Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama bu üstünlüğünden dolayı seviyor.
 
 <div class="responsive-wrap">
@@ -23,13 +23,13 @@ Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama b
 > **Allah 300 münafığı Peygamberimiz’in emrine vermişti.**
 Gece gündüz nöbet tuttular, bir tabak yemekle kapıda hizmet ettiler, gazvelere katıldılar. Resulullah’ın ve Müslümanların müthiş zengin olmasına vesile oldular. Peygamberimiz’in ününü her yere yaydılar. 20 yıl boyunca Hz. Süleyman’ın şeytanları gibi Peygamberimiz’e hizmet ettiler. 20 yıl sonra, menfaatleri kesilince, bir anda “pardon yanlış yapmışız” dediler. 20 yıl boyunca yanlış yaptığını anlamayan katlamalı ahmaktır. Peygamberimiz dönemi münafıkların da ahir zaman münafıkları da ahmaklıklarına, enayiliklerine, kerizliklerine doymasınlar.
 
-- **Cennette müminler birbirini sever.**
+> **Cennette müminler birbirini sever.**
 Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
-- **Resulullah hiç kimseyi, hiçbir olayı Mehdi kadar detaylı tarif etmemiştir.**
+> **Resulullah hiç kimseyi, hiçbir olayı Mehdi kadar detaylı tarif etmemiştir.**
 Bu, Resulullah’ın Mehdi’ye yardımıdır. Peygamberimiz zer aleminde Allah’a söz verdi Mehdi’ye yardım etmek için. Bu yardımını da Mehdi’yi tüm detaylarıyla anlatarak gerçekleştirdi. Mehdi’yi ve Mehdiyet dönemi olaylarını öyle detaylı bir tarif etmiş ki fotoğraf gibi maşaAllah.
 
-- **Peygamberimiz (sav)’in Fiziksel Görünümü:**
+> **Peygamberimiz (sav)’in Fiziksel Görünümü:**
 
     Allah Resulü (sav) çok yakışıklı ve alımlı idi.
     Mübarek yüzü pırıl pırıl parlardı.
@@ -50,11 +50,11 @@ Bu, Resulullah’ın Mehdi’ye yardımıdır. Peygamberimiz zer aleminde Allah�
     Resulullah Efendimiz’in kürek kemikleri arasında nübüvvet mührü bulunuyordu
     Yürürken hızlı kuvvetli adımlarla yürürdü. Sahabe, arkalarından giderken, geri kalmamak için büyük çaba harcardı.
 
-- **CENNET, SEVGİ YURDUDUR.**
+> **CENNET, SEVGİ YURDUDUR.**
 Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
 
-- **“ELHAMDÜLİLLAH”**, **“MAŞAALLAH”**, **“İNŞAALLAH”**. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. 
+> **“ELHAMDÜLİLLAH”**, **“MAŞAALLAH”**, **“İNŞAALLAH”**. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. 
      Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
 
-- **Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığını canla başla savunuyorlardı.**
+> **Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığını canla başla savunuyorlardı.**
 Haysiyetsizlik yapıp Resulullah’ın yanından ayrıldıktan sonra O’nu akılsızca suçlamaya başladılar. 10-15 yıl boyunca destek verdiğini suçlayan münafığın asıl suçladığı kendisidir ve aslına kendisi de aslında suçlanacak hiçbir konu olmadığını çok iyi bilir. (A9TV; 20 Aralık 2017)
