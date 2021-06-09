@@ -41,6 +41,8 @@ image:
 
 - Allahı seven, Hz. Mehdi (a.s.) taraftarı olacaktır. Bu birliktelikler Mehdiyetin bereketiyle oluyor. Hz. Mehdi (a.s.) olmadan, Türk İslam aleminin birliği mümkün değildir.
 
+- Hz. Mehdi (a.s.) deccaliyeti kökünden ortadan kaldıracaktır. Hz. Mehdi (a.s.)’a kılıç geçmez, Hz. Mehdi (a.s.) öldürülemez. Şeytanın dünya hakimiyetini ortadan kaldıracak olan Hz. Mehdi (a.s.)’ye karşı pek çok insan mücadele veriyor. Durdurabilirler mi, asla!
+
 - Allah hiç kimseye zulmetmez. Müminler hiçbir şekilde cehenneme gitmez. Ama mümin cehennemden korkacak, cehennem azabından çekinecek. Ama tekrar söylüyorum; bir mümin asla ve kesinlikle cehenneme gitmez.
 
 - CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
