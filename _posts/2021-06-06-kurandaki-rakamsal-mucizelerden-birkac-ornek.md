@@ -6,7 +6,6 @@ description: Kuran’da Maide Suresi’nin 12. ayetinde, oniki güvenilir-gözet
 categories: [makale]
 tags: [makaleler]
 lang: tr
-encoding: utf-8
 feature_video: 
 image:
   feature: vesileolduklari13.jpg

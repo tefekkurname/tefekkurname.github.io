@@ -4,7 +4,6 @@ categories: [belgesel]
 tags: [belgeseller]
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
 lang: tr
-encoding: utf-8
 title: "Hz. Mehdi (a.s.)'ın mücadelesi 2"
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 date:   2021-06-05 11:00:00

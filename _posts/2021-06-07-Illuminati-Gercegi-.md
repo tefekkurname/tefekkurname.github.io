@@ -6,7 +6,6 @@ description: Benim gördüğüm İlluminati, deccali dünyaya sunmuş. Deccali o
 categories: [belgesel]
 tags: [belgeseller]
 lang: tr
-encoding: utf-8
 date: 2021-06-06 15:33:00
 feature_video: 
 image:

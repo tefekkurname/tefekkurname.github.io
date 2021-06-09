@@ -6,7 +6,6 @@ description: Bu kitapta ve diğer çalışmalarımızda evrim teorisinin çökü
 categories: [makale]
 tags: [makaleler]
 lang: tr
-encoding: utf-8
 feature_video: 
 image:
   feature: lizozom.jpg

@@ -4,7 +4,6 @@ categories: [belgesel]
 tags: [belgeseller]
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
 lang: tr
-encoding: utf-8
 title: "Resulullah'ın zorluk ve imtihanları"
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 date:   2021-06-05 15:00:00

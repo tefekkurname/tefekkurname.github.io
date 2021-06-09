@@ -6,7 +6,6 @@ excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela ku�
 categories: [video]
 tags: [videolar]
 lang: tr
-encoding: utf-8
 date:   2021-06-05 15:00:00
 feature_video: 
 image:
