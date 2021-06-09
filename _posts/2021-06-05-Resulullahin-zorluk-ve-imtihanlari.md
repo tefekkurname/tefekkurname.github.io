@@ -21,9 +21,11 @@ image:
 <iframe src="//vidmoly.to/embed-2h578iq813u1.html" scrolling="no" frameborder="0"  width="820" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
-- Allah 300 münafığı Peygamberimiz’in emrine vermişti. Gece gündüz nöbet tuttular, bir tabak yemekle kapıda hizmet ettiler, gazvelere katıldılar. Resulullah’ın ve Müslümanların müthiş zengin olmasına vesile oldular. Peygamberimiz’in ününü her yere yaydılar. 20 yıl boyunca Hz. Süleyman’ın şeytanları gibi Peygamberimiz’e hizmet ettiler. 20 yıl sonra, menfaatleri kesilince, bir anda “pardon yanlış yapmışız” dediler. 20 yıl boyunca yanlış yaptığını anlamayan katlamalı ahmaktır. Peygamberimiz dönemi münafıkların da ahir zaman münafıkları da ahmaklıklarına, enayiliklerine, kerizliklerine doymasınlar.
+- Allah 300 münafığı Peygamberimiz’in emrine vermişti. 
+	Gece gündüz nöbet tuttular, bir tabak yemekle kapıda hizmet ettiler, gazvelere katıldılar. Resulullah’ın ve Müslümanların müthiş zengin olmasına vesile oldular. Peygamberimiz’in ününü her yere yaydılar. 20 yıl boyunca Hz. Süleyman’ın şeytanları gibi Peygamberimiz’e hizmet ettiler. 20 yıl sonra, menfaatleri kesilince, bir anda “pardon yanlış yapmışız” dediler. 20 yıl boyunca yanlış yaptığını anlamayan katlamalı ahmaktır. Peygamberimiz dönemi münafıkların da ahir zaman münafıkları da ahmaklıklarına, enayiliklerine, kerizliklerine doymasınlar.
 
-- Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
+- Cennette müminler birbirini sever. 
+	Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 - Resulullah hiç kimseyi, hiçbir olayı Mehdi kadar detaylı tarif etmemiştir.
 
@@ -50,8 +52,11 @@ image:
     Resulullah Efendimiz’in kürek kemikleri arasında nübüvvet mührü bulunuyordu
     Yürürken hızlı kuvvetli adımlarla yürürdü. Sahabe, arkalarından giderken, geri kalmamak için büyük çaba harcardı.
 
-- CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
+- CENNET, SEVGİ YURDUDUR. 
+	Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
 
-- **“ELHAMDÜLİLLAH”**, **“MAŞAALLAH”**, **“İNŞAALLAH”**. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
+- **“ELHAMDÜLİLLAH”**, **“MAŞAALLAH”**, **“İNŞAALLAH”**. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. 
+	Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
 
-- Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığını canla başla savunuyorlardı. Haysiyetsizlik yapıp Resulullah’ın yanından ayrıldıktan sonra O’nu akılsızca suçlamaya başladılar. 10-15 yıl boyunca destek verdiğini suçlayan münafığın asıl suçladığı kendisidir ve aslına kendisi de aslında suçlanacak hiçbir konu olmadığını çok iyi bilir. (A9TV; 20 Aralık 2017)
+- Münafıklar 10-15 yıl Resulullah’ın yanında kalıyor, O’nun her yaptığını canla başla savunuyorlardı. 
+	Haysiyetsizlik yapıp Resulullah’ın yanından ayrıldıktan sonra O’nu akılsızca suçlamaya başladılar. 10-15 yıl boyunca destek verdiğini suçlayan münafığın asıl suçladığı kendisidir ve aslına kendisi de aslında suçlanacak hiçbir konu olmadığını çok iyi bilir. (A9TV; 20 Aralık 2017)
