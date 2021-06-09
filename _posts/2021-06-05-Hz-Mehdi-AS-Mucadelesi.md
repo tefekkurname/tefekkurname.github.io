@@ -13,12 +13,20 @@ image:
   feature: Musluman-Zulum-4.png
 ---
 
-Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
+- HZ. MEHDİ (AS) LEDÜN İLMİNİN AHİR ZAMANDAKİ SULTANIDIR. İlm-i ledün ile Hz. Mehdi (as) başarılı olacaktır.
 
+- Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
+
+<div class="responsive-wrap">
 <iframe src="//vidmoly.to/embed-uxvui5xwl0lp.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</div>
+
+- Ledün ilmine deccal çare bulamaz. Yani onu tuzun suda eritmesi gibi eritir ledün ilmi. Çünkü deccal zahir ilimle mücadele eder. Batın ilmi ile mücadele edemez. Batın ilmi Hz. Mehdi (as)dadır. Onun zahir ilmini Hz. Mehdi (as)ın batın ilmi yok eder. Onun için Hz. Mehdi (as) deccalin bütün kapılarını, bütün pencerelerini açar, onun gizli kalelerine girer. En girilmez zannedilen menfezlerine Hz. Mehdi (as) girer.
+
+- Ledün ilmi olmadan ahir zamanda mücadele yapılması, deccalin mağlup edilmesi mümkün değildir. İllaki bu ilm-i garibin, bu ledün ilminin uygulanması gerekir.
 
 
-CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
+- CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır. Tatlı hareketler yapar. Güzel iltifatlar yapar. Cennet atları çok güzel iltifatlar yapar, sevgi gösterir, çok kibarlardır, saygılılardır. Aynı insan gibi akıllıdırlar. CENNETİN BÜTÜN HAYVANLARI, BÜTÜN İNSANLARI HEPSİ NEZAKETİ, SEVGİYİ ÇOK İYİ BİLİRLER.
 
 “ELHAMDÜLİLLAH”, “MAŞAALLAH”, “İNŞAALLAH”. ONLARIN İÇERİSİNDE BİR SIR SAKLI. DÜNYAYI ETKİLEYEN, MADDEYİ ETKİLEYEN BİR SIR SAKLI. Bu tekrarlandıkça dünyanın bütün sistemi İslam’ın hâkimiyetine doğru gidiyor. Allah öyle yaratmış. Yani o iki kelimeye Dünya hassas, madde hassastır. Hep olaylar o yönde gelişir o zaman.
 
