@@ -12,9 +12,7 @@ feature_video:
 image:
   feature: 98a0e86cfeb3.jpg
 ---
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
+
 - Çok makbuldür hastalıklar gelmesi, dertler gelmesi, sıkıntılar gelmesi. Ona rağmen mümin olarak devam ediyorsa o ihya oldu inşaAllah. Mesela bir koluyla namaz kılıyor, biz bir sevap alıyorsak, o beş yüz sevap alır inşaAllah.
 
 <div class="responsive-wrap">
