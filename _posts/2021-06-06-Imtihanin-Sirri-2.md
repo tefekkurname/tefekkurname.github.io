@@ -13,9 +13,7 @@ image:
   feature: Kurana-uyan-1.png
 ---
 
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
+
 Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 <div class="responsive-wrap">
