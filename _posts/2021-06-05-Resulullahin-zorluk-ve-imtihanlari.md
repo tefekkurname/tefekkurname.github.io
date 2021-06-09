@@ -21,7 +21,9 @@ image:
 </div>
 
 - Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
-Peygamberimiz (sav)’in Fiziksel Görünümü:
+
+
+- Peygamberimiz (sav)’in Fiziksel Görünümü:
 
     Allah Resulü (sav) çok yakışıklı ve alımlı idi.
     Mübarek yüzü pırıl pırıl parlardı.
