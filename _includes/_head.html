@@ -1,5 +1,5 @@
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8"
+<meta charset="UTF-8">
 <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
@@ -7,7 +7,7 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
 
-<!-- {% include _open-graph.html %} -->
+{% include _open-graph.html %}
 
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
 <meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
@@ -90,3 +90,4 @@
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 
+</head>
