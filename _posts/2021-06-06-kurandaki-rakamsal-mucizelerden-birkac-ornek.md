@@ -3,7 +3,7 @@ layout: post
 title: "Kuran'daki rakamsal mucizelerden birkaç örnek"
 excerpt: Kuran'daki rakamsal mucizelerden birkaç örnek
 description: Kuran’da Maide Suresi’nin 12. ayetinde, oniki güvenilir-gözetleyiciden bahsedilmektedir.
-categories: [makaleler]
+categories: [makale]
 tags: [makaleler]
 lang: tr
 encoding: utf-8

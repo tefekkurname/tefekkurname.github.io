@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [belgeseller]
+categories: [belgesel]
 tags: [belgeseller]
 excerpt: İman eden insanların dünya hayatları boyunca türlü denemelerden geçirileceklerini, mallarıyla ve canlarıyla imtihan olacaklarını, inkarcıların çok çeşitli tuzaklarıylakarşılaşacaklarını ve asılsız iftiralara uğrayacaklarını Allah Kuran'da haber vermiştir.
 lang: tr

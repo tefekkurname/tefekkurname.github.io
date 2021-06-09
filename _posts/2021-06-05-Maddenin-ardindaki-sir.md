@@ -3,7 +3,7 @@ layout: post
 title: "Maddenin ardındaki sır"
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
-categories: [belgeseller]
+categories: [belgesel]
 tags: [belgeseller]
 lang: tr
 encoding: utf-8
