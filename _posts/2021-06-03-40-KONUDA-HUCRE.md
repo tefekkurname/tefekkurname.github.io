@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "40 KONUDA HÜCRE"
-excerpt: Bu kitap, Rahman ve Rahim olan Rabbimiz'in varlığının bazı delillerini, O'nun yaratışındaki kusursuzluğu herkesin kolayca görüp anlayabileceği ve üzerinde düşünebileceği şekilde anlatmak için hazırlandı.
 description: Bu kitapta ve diğer çalışmalarımızda evrim teorisinin çöküşüne özel bir yer ayrılmasının nedeni, bu teorinin her türlü din aleyhtarı felsefenin temelini oluşturmasıdır.
+excerpt: Bu kitap, Rahman ve Rahim olan Rabbimiz'in varlığının bazı delillerini, O'nun yaratışındaki kusursuzluğu herkesin kolayca görüp anlayabileceği ve üzerinde düşünebileceği şekilde anlatmak için hazırlandı.
 categories: [makale]
 tags: [makaleler]
 lang: tr
