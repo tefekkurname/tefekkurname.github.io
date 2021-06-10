@@ -6,6 +6,7 @@ excerpt: Bu; güzelliğin, bereketin, neşenin, sevincin, aydınlığın, temizl
 categories: [makale]
 tags: [makaleler]
 lang: tr
+encoding: UTF-8
 feature_video: 
 image:
   feature: Mehdi.jpg
