@@ -12,7 +12,7 @@ image:
   feature: Mehdi.jpg
 ---
 
-<p><strong>KURAN, TEVRAT,ZEBUR VE İNCİL'DE HZ. MEHDİ (AS)</strong></p>
+<p><strong>KURAN, TEVRAT, ZEBUR VE İNCİL'DE HZ. MEHDİ (AS)</strong></p>
 <p><strong>HARUN YAHYA</strong></p>
 <p>Bu kitapta kullanılan ayetler, Ali Bula&ccedil;'ın hazırladığı<br /> "Kur'an-ı Kerim ve T&uuml;rk&ccedil;e Anlamı" isimli mealden alınmıştır.</p>
 <p><strong>Birinci Baskı:</strong> Nisan 2011</p>
