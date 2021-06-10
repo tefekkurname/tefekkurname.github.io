@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tevrat'ta Sevgi"
-description: Bu kitapta ve diğer çalışmalarımızda evrim teorisinin çöküşüne özel bir yer ayrılmasının nedeni, bu teorinin her türlü din aleyhtarı felsefenin temelini oluşturmasıdır.
-excerpt: Bu kitap, Rahman ve Rahim olan Rabbimiz'in varlığının bazı delillerini, O'nun yaratışındaki kusursuzluğu herkesin kolayca görüp anlayabileceği ve üzerinde düşünebileceği şekilde anlatmak için hazırlandı.
+description: "Efendim, ‘Yolunda yürüdüğüm Rab meleğini seninle gönderecek, yolunu açacak’ dedi… (Yaratılış, 24:40)"
+excerpt: 'Rab… “Şimdi git, halkı sana söylediğim yere götür. Meleğim sana öncülük edecek. Ama zamanı gelince günahlarından ötürü onları cezalandıracağım.” (Mısır’dan Çıkış, 32:33-34)'
 categories: [makale]
 tags: [makaleler]
 lang: tr
