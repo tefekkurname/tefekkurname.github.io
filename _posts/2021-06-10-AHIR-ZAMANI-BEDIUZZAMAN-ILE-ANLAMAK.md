@@ -1,19 +1,18 @@
 ---
 layout: post
-title: "40 KONUDA HÜCRE"
-excerpt: Bu kitap, Rahman ve Rahim olan Rabbimiz'in varlığının bazı delillerini, O'nun yaratışındaki kusursuzluğu herkesin kolayca görüp anlayabileceği ve üzerinde düşünebileceği şekilde anlatmak için hazırlandı.
-description: Bu kitapta ve diğer çalışmalarımızda evrim teorisinin çöküşüne özel bir yer ayrılmasının nedeni, bu teorinin her türlü din aleyhtarı felsefenin temelini oluşturmasıdır.
+title: "AHİR ZAMAN’I BEDİÜZZAMAN İLE ANLAMAK"
+description: Hz. Mehdi’nin ortaya çıkışı yüzyıllardır İslam ümmeti tarafından beklenen müjdeli bir olaydır. 
+excerpt: Peygamberimiz (sav) tarafından ahir zamanda gönderileceği müjdelenmiş olan, yeryüzündeki fitneleri ortadan kaldıracak, tüm dünyaya barış, adalet, bolluk, huzur, mutluluk ve refah getirecek çok mübarek ve değerli bir şahıs olan Hz. Mehdi’nin ortaya çıkışı yüzyıllardır İslam ümmeti tarafından beklenen müjdeli bir olaydır.
 categories: [makale]
 tags: [makaleler]
 lang: tr
 feature_video: 
 image:
-  feature: bE.jpg
+  feature: 8.jpg
 ---
 
-<p><strong><span>AHİR ZAMAN&rsquo;I BEDİ&Uuml;ZZAMAN </span></strong></p>
-<p><strong><span>İLE </span></strong></p>
-<p><strong><span>ANLAMAK</span></strong></p>
+<p><strong><span>AHİR ZAMAN&rsquo;I BEDİ&Uuml;ZZAMAN İLE ANLAMAK </span></strong></p>
+
 <p><span><strong>Birinci baskı:Haziran 2005</strong></span></p>
 <p><span><strong>İ&Ccedil;İNDEKİLER</strong></span></p>
 <p><span>Ahir Zamanda</span></p>
