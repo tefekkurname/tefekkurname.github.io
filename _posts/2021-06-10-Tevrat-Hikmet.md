@@ -8,7 +8,7 @@ tags: [makaleler]
 lang: tr
 feature_video: 
 image:
-  feature: lizozom.jpg
+  feature: Tevratkodlar4.jpg
 ---
 
  
