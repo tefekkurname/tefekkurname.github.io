@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Budizm yanılgısı (ateist bir öğreti, putperest bir din, bağnaz bir gelenek"
+title: "Budizm yanılgısı (ateist bir öğreti, putperest bir din, bağnaz bir gelenek)"
 excerpt: İngiliz Müslümanlığı denilen felsefede hem koyu Rumilik hem de Budizm propagandası oluyor, sırf akıl karıştırmak için yapıyorlar.
 description: Peygamberimiz (sav) zamanında Budizm de vardı, her türlü fitne fücur vardı. Dinsizlik vardı, müşriklik vardı. Fitne kalkmamıştı. Mehdi (as)’ın yapacağı şey, kendi döneminde fitnenin kalmamasıdır. Ayette geçen, “Dinin hepsi Allahın oluncaya kadar” ifadesi bütün dünyanın Müslüman olması anlamındadır. 
 categories: [belgesel]
