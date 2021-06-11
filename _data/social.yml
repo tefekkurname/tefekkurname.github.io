@@ -1,25 +1,25 @@
 # Site navigation links and tiles on main page
 - title: Instagram
   url: https://instagram.com
-  img: instagram.jpg
+  img: 
   color: 3F51B5
 
 - title: Twitter
   url: https://twitter.com
-  img: twitter.jpg
+  img: 
   color: 03A9F4
 
 - title: Pinterest
   url: https://www.pinterest.com
-  img: pinterest.jpg
+  img: 
   color: c62828
 
 - title: Youtube
   url: https://www.youtube.com
-  img: youtube.jpg
+  img: 
   color: f44336
 
 - title: RSS
   url: /feed.xml
-  img: rss.jpg
+  img: 
   color: FF5722
