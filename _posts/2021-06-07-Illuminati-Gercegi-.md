@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "İlluminati Gerçeği   -   Tapınak Şövalyeleri Ve masonlar"
+title: "İlluminati Gerçeği - Tapınak Şövalyeleri Ve masonlar"
 excerpt: İlluminati’den üç karar çıktı. Bir; Mehdi (as)’ı belirlediler, Mehdi şudur dediler. İki; İsa Mesih (as) şu dediler. Üç; dünyaya İslam’ın hakim olmasına karar verdi İlluminati.
 description: Benim gördüğüm İlluminati, deccali dünyaya sunmuş. Deccali organize etmiş. Deccalin de bir topluluğa ihtiyacı var, bir talebe topluluğuna. Onlar da mesela 300 kişi falan, Mehdi’de olduğu gibi. Onlar da 313 kişiyle ortaya çıkıyorlar. 
 categories: [belgesel]
