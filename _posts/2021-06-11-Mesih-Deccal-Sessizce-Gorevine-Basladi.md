@@ -18,6 +18,7 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Hıristiyan aleminin başına İsa Mesih geçecek Müslüman olarak. Mehdi (as) da İslam aleminin başına geçecek. İsa Mesih Mehdi (as)’a tabi olduğu için Hıristiyan alemi de İslam alemine tabi olmuş olacak. Ve böylece dünyada tek bir yapı, tek bir kardeşlik oluşmuş olacak. Savaş, kavga, terör, anarşi hepsi son bulacak. Açlık, sefalet kalkacak. Yerini kardeşlik, sevinç ve bayram alacak. Bunu geciktirmesin hiçkimse.
 
 > Kendilerince Mehdi (as)’ın gelişini engellemeye, konuyu örtbas etmeye çalışanlar var. Halbuki Mehdi (as)’ı istemeleri gerekir. Mehdi (as) gelmezse deccal gelir Ama kaderde Mehdi (as) gelmiştir ve engellenmesi de mümkün değildir.
 
@@ -133,4 +134,10 @@ image:
 > Mehdi’siz bir dünya olmaz, İsa Mesih’siz bir dünya olmaz. Cenab-ı Allah’ın kanunu, kuralı bu. Allah “Benim dediğimi yapacaksınız” diyor. “Ben Mehdi (as)’ıseviyorum, İsa Mesih’i seviyorum” diyorsa Cenab-ı Allah, konu bitmiştir.
 
 > Şu an dünya tarihinde görülmemiş şekilde yoğun olarak, “Mehdi gelmeyecek”, “Mehdi gelmeyecek” deniyor.
+
+> Dünyada evrim teorisini savunan, tek bir tane fosil yok. Türkiye’de on binlerce fosil var. Her yerde de sergileniyor. Bütün bilimsel deliller yaratılıştan yana. O zaman yapacağınız samimi olmaktır.
+
+> Sonraki İçerikTelevizyonlarda, orada burada bağırıyorlar “Mehdi gelmeyecek” diye. Mehdi gelmezse deccal gelir. Mehdi (as)’ın yerini boşaltmaya kalkarsan deccal gelir, onun yerine oturur.
+
+
 
