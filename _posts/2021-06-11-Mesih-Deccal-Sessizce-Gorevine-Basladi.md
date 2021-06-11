@@ -22,6 +22,10 @@ image:
 
 > Akılcı olan, doğru olan; gaddar insanların, zalim insanların, sevgisiz insanların deccal yanlısı olacağıdır. Allah düşmanlarının, Darwinistlerin, materyalistlerin deccal yanlısı olacağı; iyi insanların, sevecen insanların, yaratılışı gören insanların da Mehdi (as) ve Mesih yanlısı olacağıdır.
 
+> Deccal Allahsız, dinsiz, homoseksüel bir dünyayı hedefliyor. Bunu yaptırmayacağız. Deccal bunu yapamayacak ve mağlup olacak. Göreceksiniz, mum gibi eriyecek. İsa Mesih ve Mehdi (as)ın vesilesiyle Allahın izniyle yerle bir olacak. İlimle irfanla, sevgiyle, doğru bilgiyle, kanunla hukukla bu fitneyi yok edeceğiz.
+
+> Ahir zamanın Mesih Deccali tarihin en büyük fitnesidir. Yakın bir zamanda tüm dünya kendisini görecek. Deccal görünüşü garip ama çok bilgi sahibidir. İnsanları kendisinin Peygamber ve Mesih olacağına inandırır. Hadislere göre Deccalin tek gözü kördür, yüzü ürkütücüdür, saçları kızıldır. Kör olduğu halde Rab olduğunu iddia eder.
+
 > Müslüman uzun ömür ister Allah’tan ki daha çok sevap kazanabilmek için, İslam’a daha çok hizmet edebilmek için.
 
 > Zalim ve cahillik insanın ruhunda vardır. İnsan o zalimliğini ve cahilliğini Kuran’ın nuruyla aydınlatıyor ve kendini Kuran’ın nuruyla yüceltebiliyor. Öbür türlü hasta oluyor insan.
