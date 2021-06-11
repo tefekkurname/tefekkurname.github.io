@@ -18,6 +18,8 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Kıyametin en büyük alameti, Mehdi (as)’ın zuhurudur. İsa Mesih’in zuhuru, deccal’ın çıkması, yecüc mecüc, dabbetül arz ve duhan zuhuru kıyamet alametleridir.
+
 > Deccal bölgesel kan dökme emri veriyor fakat beceremiyor, eline yüzüne bulaştırıyor. Bir daha döktürüyor kan, bir daha beceremiyor. Çünkü Mehdiyet sürekli onun döktüğü kanı durduruyor. İsa Mesih sürekli bu oyunu durdurmaya gayret ediyor.
 
 > Deccal çatışma, savaş istiyor, olayları düzenliyor; Kral Mesih yani Mehdi (as) durduruyor, maşaAllah.
@@ -67,4 +69,6 @@ image:
 
 > Avrupa hukuk anlayışı, Avrupa şefkati güzel fakat Mehdiyet’in şefkati, Mehdiyet’in sevgi anlayışı hepsinin üstünde olacaktır. Hayretler içinde kalacak dünya o sevgiye, o kardeşliğe, o dostluğa.
 
+> İttihad-ı İslam olacak, Türk İslam Birliği olacak. Bunu Amerika da istiyor, İsrail de istiyor. Başka türlü zaten dünya rahat etmez. Dünyanın huzuru için bu şart.
 
+> Dünyada Mehdiyeti bizim kadar çok anlatan, bu kadar gündem yapan bizden başka hiç kimse yok. Böyle akılcı, delillere dayalı, doyurucu delillerle makul izah eden başka kimse yok. Deccaliyete de bizim kadar dikkat çeken kimse yok. Ahir zaman alametlerini bizim kadar çok vurgulayan hiç kimse yok. Dünyada tekiz. 1300 seneden beri de böyle bir olay yok. İslam tarihinde de böyle bir olay yok.
