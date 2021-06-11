@@ -18,6 +18,8 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Mehdiyet’e karşı olup, İttihad-ı İslam’a karşı olup İsa Mesih’in inişine karşı olup olay çıkartmak; bu ancak deccal yanlılarının tavrı olabilir.
+
 > Kıyametin en büyük alameti, Mehdi (as)’ın zuhurudur. İsa Mesih’in zuhuru, deccal’ın çıkması, yecüc mecüc, dabbetül arz ve duhan zuhuru kıyamet alametleridir.
 
 > Deccal bölgesel kan dökme emri veriyor fakat beceremiyor, eline yüzüne bulaştırıyor. Bir daha döktürüyor kan, bir daha beceremiyor. Çünkü Mehdiyet sürekli onun döktüğü kanı durduruyor. İsa Mesih sürekli bu oyunu durdurmaya gayret ediyor.
