@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: English
+title: HARUN YAHYA (English)
 lang: en
 encoding: utf-8
 excerpt: "A List of Posts"
