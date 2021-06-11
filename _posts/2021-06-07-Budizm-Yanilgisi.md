@@ -12,26 +12,26 @@ image:
   feature: Darwin.jpg
 ---
 
-> **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
+- **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
 
 <div class="responsive-wrap">
 <iframe src="//e.pcloud.link/publink/show?code=XZhRfVZt35SPnr9tzj2tvGr7IAyJ5Hu480V" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
-> **Namaz çok eski, kadim bir ibadettir.** Tarih boyunca tüm kavimlerde namaz ibadeti vardır. Kaya resimlerinde de bu gerçek görülmektedir.
+- **Namaz çok eski, kadim bir ibadettir.** Tarih boyunca tüm kavimlerde namaz ibadeti vardır. Kaya resimlerinde de bu gerçek görülmektedir.
 
-> **Allah muazzam güzellikler yaratıyor.** Bu güzellikleri, bu nimetleri sürekli anmak, anlatmak önemlidir.
+- **Allah muazzam güzellikler yaratıyor.** Bu güzellikleri, bu nimetleri sürekli anmak, anlatmak önemlidir.
 
-> **İngiliz Müslümanlığı denilen felsefede hem koyu Rumilik hem de Budizm propagandası oluyor**, sırf akıl karıştırmak için yapıyorlar.
+- **İngiliz Müslümanlığı denilen felsefede hem koyu Rumilik hem de Budizm propagandası oluyor**, sırf akıl karıştırmak için yapıyorlar.
 
-> **Münafıkların yöntemleri çok sinsidir.** Bir kişiyi, bir eseri, bir kitabı övüyorsa mutlaka orada bir melanet vardır, hep çok dikkatli olmak gerekir.
+- **Münafıkların yöntemleri çok sinsidir.** Bir kişiyi, bir eseri, bir kitabı övüyorsa mutlaka orada bir melanet vardır, hep çok dikkatli olmak gerekir.
 
-> **Münafık yakalandıkça acı çeker.** Akılsızlığının deşifre edilmesi münafığı adeta felç eder.
+- **Münafık yakalandıkça acı çeker.** Akılsızlığının deşifre edilmesi münafığı adeta felç eder.
 
-> **Peygamberimiz (sav) zamanında Budizm de vardı, her türlü fitne fücur vardı.** Dinsizlik vardı, müşriklik vardı. Fitne kalkmamıştı. Mehdi (as)’ın yapacağı şey, kendi döneminde fitnenin kalmamasıdır. Ayette geçen, “Dinin hepsi Allahın oluncaya kadar” ifadesi bütün dünyanın Müslüman olması anlamındadır.
+- **Peygamberimiz (sav) zamanında Budizm de vardı, her türlü fitne fücur vardı.** Dinsizlik vardı, müşriklik vardı. Fitne kalkmamıştı. Mehdi (as)’ın yapacağı şey, kendi döneminde fitnenin kalmamasıdır. Ayette geçen, “Dinin hepsi Allahın oluncaya kadar” ifadesi bütün dünyanın Müslüman olması anlamındadır.
 
-> **Kanun, hukuk daima güzel ve faydalı insanlar oluşturmayı amaçlar.** İnsanları terbiye etmeyi amaçlar. Zararlarını engellemeye yönelik bir nimettir hukuk. Faydasını da gördük. Fazıl Say artık insanlara yakışıksız sözler etmiyor, yakışıksız cümleler kullanmıyor. Daha nezaketli, daha derli toplu konuşmalar yapıyor, bu da güzel. Demek ki faydası olmuş hukukun.
+- **Kanun, hukuk daima güzel ve faydalı insanlar oluşturmayı amaçlar.** İnsanları terbiye etmeyi amaçlar. Zararlarını engellemeye yönelik bir nimettir hukuk. Faydasını da gördük. Fazıl Say artık insanlara yakışıksız sözler etmiyor, yakışıksız cümleler kullanmıyor. Daha nezaketli, daha derli toplu konuşmalar yapıyor, bu da güzel. Demek ki faydası olmuş hukukun.
 
-> **Göz göre göre şarabı nasıl içsin Müslüman?** Boğazına tıkanır, istese de yapamaz. Zinayla felç olur mümin. Eli kolu bağlanır, kudreti yetmez. Günaha girme gücü olmaz müminin. Basireti bağlanır, yapamaz inşaAllah.
+- **Göz göre göre şarabı nasıl içsin Müslüman?** Boğazına tıkanır, istese de yapamaz. Zinayla felç olur mümin. Eli kolu bağlanır, kudreti yetmez. Günaha girme gücü olmaz müminin. Basireti bağlanır, yapamaz inşaAllah.
 
 

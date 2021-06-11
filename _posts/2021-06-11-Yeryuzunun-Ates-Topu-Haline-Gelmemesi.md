@@ -15,7 +15,7 @@ Teknolojinin çıkış noktası ‘metalürji’dir; yani metallerin eritilip i�
 
 Bu araçlardan biri ateştir. Avustralyalı biyokimyacı ve tanınmış bir Darwinizm eleştirmeni olan Prof. Denton, bu konuyu şöyle açıklar:
 
-> “Ateşi kullanabilme yeteneğimiz, hiçbir şekilde önemsiz bir yetenek değildir, çünkü sadece ateş yoluyla teknolojik ilerleme mümkün olabilmiştir. Ateşle birlikte metalürji ve metal araçlar gelmiş ve sonunda da kimya bilgisi ortaya çıkmıştır. Metaller elektriğin tek doğal iletkeni olduklarından, elektromanyetizmin ve elektriğin keşfi, hatta bilgisayarların geliştirilmesi bile biz insanların ateşi keşfinin bir sonucudur.” (Michael Denton, Nature's Destiny, s. 242)
+- “Ateşi kullanabilme yeteneğimiz, hiçbir şekilde önemsiz bir yetenek değildir, çünkü sadece ateş yoluyla teknolojik ilerleme mümkün olabilmiştir. Ateşle birlikte metalürji ve metal araçlar gelmiş ve sonunda da kimya bilgisi ortaya çıkmıştır. Metaller elektriğin tek doğal iletkeni olduklarından, elektromanyetizmin ve elektriğin keşfi, hatta bilgisayarların geliştirilmesi bile biz insanların ateşi keşfinin bir sonucudur.” (Michael Denton, Nature's Destiny, s. 242)
 
 Denton'ın ‘insanoğlunun ateşi keşfi’ diye ifade ettiği olay, aslında, Allah'ın ateşi insanoğlunun emrine vermesidir. Konuyu bilimsel olarak incelediğimizde, ateşin, insanın yeryüzündeki yaşamına çok uygun bir yapıda olduğunu görürüz. Ateş, ‘yanabilir’ cisimlerin tutuşmasıyla başlar. Bir cismi ‘yanabilir’ kılan durum, içeriğinde ‘karbon’ bulunmasıdır. Karbon ve oksijen reaksiyona girdiklerinde, yüksek miktarda ısı açığa çıkarırlar; biz de bunu alev olarak görür ve hissederiz.
 
@@ -47,7 +47,7 @@ Demirin erimesi için gereken ısı miktarı, dünyadaki yakıtlar tarafından s
 
 Ancak Allah'ın dilemesi ve insana türlü imkanlar vermesiyle, insanoğlu görkemli eserler ortaya koymuştur. Denton, insanoğlunun bilimsel gelişimini kısaca özetledikten sonra şu yorumu yapmaktadır:
 
-> “(Bilimsel) yolculuğumuz uzun sürmüş olsa da... kanıtlar göstermektedir ki, bu yolun sonucu hiçbir zaman belirsiz olmamış, belirli bir amaca göre önceden belirlenmiş bir yolu izlemişiz ve başarımız da asla bir tesadüf olmamıştır... Ateşin keşfinden bilimin doğuşuna ve en son olarak da doğanın düzeninde kendi merkeziliğimizi keşfedişimize kadar uzanan, önceden belirlenmiş bir yolu izlemiş bulunuyoruz.” (Michael Denton, Nature's Destiny, s. 395)
+- “(Bilimsel) yolculuğumuz uzun sürmüş olsa da... kanıtlar göstermektedir ki, bu yolun sonucu hiçbir zaman belirsiz olmamış, belirli bir amaca göre önceden belirlenmiş bir yolu izlemişiz ve başarımız da asla bir tesadüf olmamıştır... Ateşin keşfinden bilimin doğuşuna ve en son olarak da doğanın düzeninde kendi merkeziliğimizi keşfedişimize kadar uzanan, önceden belirlenmiş bir yolu izlemiş bulunuyoruz.” (Michael Denton, Nature's Destiny, s. 395)
 
 http://www.harunyahya.org/bilim/tesaduf/res/rs1212.jpg
 
