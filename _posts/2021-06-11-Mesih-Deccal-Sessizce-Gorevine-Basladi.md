@@ -18,6 +18,10 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Müşrikler, it kopuk takımı, müptezeller, kevaşeler hem Mehdi (as)’a hem İsa Mesih (as)’a kin dolu olacaklar. Anlayamadıkları için, kavrayamadıkları için, gözleri deccal gözü gibi olduğu için nefretle yaklaşacaklardır.
+
+> Müthiş bir heyecan, müthiş bir kargaşa bütün dünyayı sardı. Özellikle Ortadoğu’da müthiş bir elektriklenme var. Bu İsa Mesih ve Mehdi (as)’ın faaliyetleri ile ilgili, Deccal’e karşı yaptıkları mücadeleyle ilgilidir.
+
 > Deccal iki türlü yöntem kullanıyor, şeytaniyetini iki türlü uyguluyor. İki boynuzundan biri dinle biri dinsizlikle. Yani Darwinizm, materyalizmle, diğeri dinle. Dinle uygularken ne diyor? “Siz Risale-i Nur’u okuyun, bilginiz artırın ama İttihad-ı İslam, Hz. Mehdi, İsa Mesih’in inişi bırakın onları. Onlar füruattan detay bunlar.” diyor.
 
 > 1400 yıldır her gün Müslümanlar Mesih Deccalin fitnesinden korunmak için dua ederler. Deccal fitnesi tarihin en büyük fitnesidir.
@@ -90,3 +94,12 @@ image:
 > Devleti yıkmak ahmaklıktır. Devlet tamir edilir. Ahmaklar devlete musallat olur. Devlet nimettir. Devlet yıkılır mı? Tamir edersin eksikliği varsa.
 
 > İsa Mesih’in inişine inanmak vaciptir. İmani bir konudur. Şiilikte de imanın esaslarındandır. İtikadi bir konudur. Mehdi’nin çıkışı, İsa Mesih’in inişi mütevatir hadistir. Mütevatir hadisin hükmü nedir? Vacip, farz yani.
+
+> Ortadoğu’daki bir hareketlenme doğrudan İsa Mesih ve Mehdi (as) ile ilgilidir. Bu olaylar, dünyaya İslam’ın hâkim olma sancılarıdır.
+
+> Deccal bölgesel kan dökme emri veriyor fakat beceremiyor, eline yüzüne bulaştırıyor. Bir daha döktürüyor kan, bir daha beceremiyor. Çünkü Mehdiyet sürekli onun döktüğü kanı durduruyor. İsa Mesih sürekli bu oyunu durdurmaya gayret ediyor.
+
+> Irak İttihad-ı İslam’ı kabul edecek durumda. Mısır, Ürdün kabul edecek durumda. Lübnan kabul eder, İran kabul eder, Azerbaycan kabul eder, Pakistan kabul eder. Bitti. Bu devletlerin hepsi kabul ediyor. Sınırları açalım, İttihad-ı İslam oluşmuştur diyeceğiz. Bu kadar.
+
+> Müslüman en zor anında bile hüzne kapılmayacak, korkmayacak, üzülmeyecek ve mevcut şartları da en iyi şekilde kullanacak. Taştan su çıkartmak adeta. Müslüman her türlü imkanı kullanacak hayır için.
+
