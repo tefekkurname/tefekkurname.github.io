@@ -12,26 +12,33 @@ image:
   feature: masonlarin-ve-darwinistlerin-karanlik-ittifak.jpg
 ---
 
-> **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
+> Deccal mikrobik bir hastalıktan ölecek. Yani İsa Mesih (as) bizzat onu öldürecek değil. İsa Mesih (as) onu fikren öldürüyor.
 
 <div class="responsive-wrap">
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
-> **Namaz çok eski, kadim bir ibadettir.** Tarih boyunca tüm kavimlerde namaz ibadeti vardır. Kaya resimlerinde de bu gerçek görülmektedir.
+> Mehdi (as) perdeli, İsa Mesih (as) perdeli, deccal perdeli. Çıktığında herkesin tasdik edeceği gibi aleni olmaz. Araştırılınca bulunur.
 
-> **Allah muazzam güzellikler yaratıyor.** Bu güzellikleri, bu nimetleri sürekli anmak, anlatmak önemlidir.
+> Akılcı olan, doğru olan; gaddar insanların, zalim insanların, sevgisiz insanların deccal yanlısı olacağıdır. Allah düşmanlarının, Darwinistlerin, materyalistlerin deccal yanlısı olacağı; iyi insanların, sevecen insanların, yaratılışı gören insanların da Mehdi (as) ve Mesih yanlısı olacağıdır.
 
-> **İngiliz Müslümanlığı denilen felsefede hem koyu Rumilik hem de Budizm propagandası oluyor**, sırf akıl karıştırmak için yapıyorlar.
+> Müslüman uzun ömür ister Allah’tan ki daha çok sevap kazanabilmek için, İslam’a daha çok hizmet edebilmek için.
 
-> **Münafıkların yöntemleri çok sinsidir.** Bir kişiyi, bir eseri, bir kitabı övüyorsa mutlaka orada bir melanet vardır, hep çok dikkatli olmak gerekir.
+> Zalim ve cahillik insanın ruhunda vardır. İnsan o zalimliğini ve cahilliğini Kuran’ın nuruyla aydınlatıyor ve kendini Kuran’ın nuruyla yüceltebiliyor. Öbür türlü hasta oluyor insan.
 
-> **Münafık yakalandıkça acı çeker.** Akılsızlığının deşifre edilmesi münafığı adeta felç eder.
 
-> **Peygamberimiz (sav) zamanında Budizm de vardı, her türlü fitne fücur vardı.** Dinsizlik vardı, müşriklik vardı. Fitne kalkmamıştı. Mehdi (as)’ın yapacağı şey, kendi döneminde fitnenin kalmamasıdır. Ayette geçen, “Dinin hepsi Allahın oluncaya kadar” ifadesi bütün dünyanın Müslüman olması anlamındadır.
+> İsrail- Filistin çatışmasında Deccal olayı düzenledi. Mehdi (as) olayı durdurdu. Kanın dökülüş emrini veren Deccal’dır. Kanın durdurulması talimatını veren de Mehdi (as)’dır yani Kral Mesih’tir.
 
-> **Kanun, hukuk daima güzel ve faydalı insanlar oluşturmayı amaçlar.** İnsanları terbiye etmeyi amaçlar. Zararlarını engellemeye yönelik bir nimettir hukuk. Faydasını da gördük. Fazıl Say artık insanlara yakışıksız sözler etmiyor, yakışıksız cümleler kullanmıyor. Daha nezaketli, daha derli toplu konuşmalar yapıyor, bu da güzel. Demek ki faydası olmuş hukukun.
+> Komünizm din, ahlak kabul etmez. Bunu yaparken de Darwinist-materyalist sistemi temel alır.
 
-> **Göz göre göre şarabı nasıl içsin Müslüman?** Boğazına tıkanır, istese de yapamaz. Zinayla felç olur mümin. Eli kolu bağlanır, kudreti yetmez. Günaha girme gücü olmaz müminin. Basireti bağlanır, yapamaz inşaAllah.
+> Kürt kardeşlerimiz için kurtuluş İttihad-ı İslam’dır.
+
+> Bir dini, bir milleti toptan deccalın ordusu olarak itham etmek çok büyük bir zulüm, çok büyük bir vicdansızlıktır. Her dinin mensubunun iyisi ve kötüsü olur içinde.
+
+> Hastayla ilgilenmek sevaptır. Allah’ın rızasına uygun güzel bir ibadettir. Mehdi (as) ahlakıdır.
+
+
+
+
 
 
