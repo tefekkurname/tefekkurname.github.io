@@ -57,3 +57,5 @@ Biyokimya profesörü Michael Denton'ın bilimsel terimlerle anlattığı bütü
 Allah, dünyayı insanın yaşamı için yaratmış, dünyadaki varlıkları insan için ‘emre amade’ kılmış ve onu türlü nimetlerle zenginleştirmiştir. Kuran ayetlerinde Rabbimiz şöyle buyurur:
 
 “Allah, gökleri ve yeri yaratan ve gökten su indirip onunla size rızık olarak türlü ürünler çıkarandır. Ve O’nun emriyle gemileri, denizde yüzmeleri için, emre amade kılandır. Irmakları da sizin için emre amade kılandır. Güneş’i ve Ay’ı hareketlerinde sürekli emrinize amade kılan, geceyi ve gündüzü de emrinize amade kılandır. Size her istediğiniz şeyi verdi. Eğer Allah'ın nimetini saymaya kalkışırsanız, onu sayıp-bitirmeye güç yetiremezsiniz. Gerçek şu ki, insan pek zalimdir, pek nankördür.” (İbrahim Suresi, 32-34) 
+
+kAYNAK: https://yeryuzumucizesi.blogspot.com/
