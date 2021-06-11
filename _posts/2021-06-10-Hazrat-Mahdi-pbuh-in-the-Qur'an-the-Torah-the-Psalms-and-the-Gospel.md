@@ -3,8 +3,8 @@ layout: post
 title: "Hazrat Mahdi (pbuh) in the Qur'an, the Torah, the Psalms and the Gospel"
 description: In the Qur'an, our Almighty Lord promises believers a blessed dominion over the entire world. As part of that promise, those who have faith and do good works will inherit the world, and the moral values of Islam will reign.
 excerpt: This means the global preeminence of beauty, fertility, joy, happiness, enlightenment, purity, peace, justice, brotherhood and love.
-categories: [makale]
-tags: [makaleler]
+categories: [english]
+tags: [article]
 lang: en
 encoding: UTF-8
 feature_video: 
