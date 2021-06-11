@@ -9,7 +9,7 @@ lang: tr
 date: 2021-06-10 15:00:00
 feature_video: 
 image:
-  feature: Musluman-Zulum-4.png
+  feature: masonlarin-ve-darwinistlerin-karanlik-ittifak.jpg
 ---
 
 > **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
