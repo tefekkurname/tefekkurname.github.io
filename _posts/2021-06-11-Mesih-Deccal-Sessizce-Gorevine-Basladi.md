@@ -18,6 +18,8 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Deccal, şeytan aynı varlıklar. Çünkü şeytan insan suretine giriyor, o şekilde deccal olarak insanların karşısına çıkıyor. İnsanlar onu normal insan zannediyor. Halbuki şeytan normalde, insi şeytan.
+
 > Mehdi (as)’ın vefatından sonra, İsa Mesih’in vefatından sonra acayip sapıtacak insanlar. Böyle sapıtma görmedi dünya. Deccal bile yanlarında yüzde 1 gibi kalır. Korkunç bir azgınlık, korkunç bir tuğyan, korkunç bir kepazelik bütün dünyayı kaplayacak. Tek yanlı deccaliyet hakim oluyor. O devirde son bir yecüc mecüc zuhuru daha var.
 
 > Müşrikler, it kopuk takımı, müptezeller, kevaşeler hem Mehdi (as)’a hem İsa Mesih (as)’a kin dolu olacaklar. Anlayamadıkları için, kavrayamadıkları için, gözleri deccal gözü gibi olduğu için nefretle yaklaşacaklardır.
@@ -109,5 +111,7 @@ image:
 
 > İncil’de Mehdi (as) Faraklit olarak geçer. Peygamber Efendimiz (sav)’e işaret etmekle beraber Mehdi (as)’a da işaret eder.
 
+> Hz. Mehdi (as) ev sahibi, Hz. İsa Mesih (as) misafirimiz. Mehdiyet’i Allah vesile edip evi hazırlıyor. Hz. İsa Mesih (as) sultanımızı da aşkla, muhabbetle bağrımıza basacağız, inşaAllah.
 
+> Hz. Mehdi (as) ve Hz. İsa (as) sevgi insanlarıdır. Öyle parayla pulla, dünyayla işleri olmaz; ne Hz. Mehdi (a.s)’ın, ne de Hz. İsa Mesih (a.s)’ın. Onlar sevgi sevgi sevgi, barış barış barış, kardeşlik kardeşlik kardeşlik, dostluk dostluk dostluk, adalet adalet adalet. Konuları hep bu. Onun öğretmenleri, inşaAllah.
 
