@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mesih Deccal sessizce görevine başladı (yeryüzünde büyük bir fitne ve bozgunculuk)"
-excerpt: Deccal kan döker, Kral Mesih yani Mehdi (as) kanı durdurur.
+title: "Mesih Deccal sessizce görevine başladı"
+excerpt: Mesih Deccal sessizce görevine başladı (yeryüzünde büyük bir fitne ve bozgunculuk)
 description: Mehdi (as) perdeli, İsa Mesih (as) perdeli, deccal perdeli. Çıktığında herkesin tasdik edeceği gibi aleni olmaz. Araştırılınca bulunur. 
 categories: [belgesel]
 tags: [belgeseller]
