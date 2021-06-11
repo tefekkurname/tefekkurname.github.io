@@ -24,6 +24,14 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
+<div class="w3-container">
+<div class="w3-row"><div class="w3-quarter w3-container"><a class="fancybox fancybox.iframe" href="//hy3-video.github.io/hyvideo/13.mp4"><img class="videoThumb" src="//hy3-video.github.io/images/capture-13.png" alt="video"></a><p class="videoTitle">Video Title</p></div>
+
+<div class="w3-quarter w3-container"><a class="fancybox fancybox.iframe" href="//hy3-video.github.io/hyvideo/14.mp4"><img class="videoThumb" src="//hy3-video.github.io/images/capture-14.png" alt="video"></a><p class="videoTitle">Video Title</p></div>
+
+<div class="w3-quarter w3-container"><a class="fancybox fancybox.iframe" href="//hy3-video.github.io/hyvideo/15.mp4"><img class="videoThumb" src="//hy3-video.github.io/images/capture-15.png" alt="video"></a><p class="videoTitle">Video Title</p></div>
+
+<div class="w3-quarter w3-container"><a class="fancybox fancybox.iframe" href="//hy3-video.github.io/hyvideo/16.mp4"><img class="videoThumb" src="//hy3-video.github.io/images/capture-16.png" alt="video"></a><p class="videoTitle">Video Title</p></div></div></div>
 
 <div id="main" role="main">
   <div id="index">
@@ -35,7 +43,7 @@
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
           <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url('/images/{{ post.image.feature }}'); background-size: cover">&nbsp;</span>
-          <h2>{{ post.title | truncate: 50}}<hr><span>{{post.date | date: '%F'}}</span></h2>
+          <h2>{{ post.title | truncate: 25}}<hr><span>{{post.date | date: '%F'}}</span></h2>
            {% if post.categories contains 'video' or post.categories contains 'belgesel' %}
           <h4>İZLE...</h4>
           {% elsif post.categories contains 'makale' %}
