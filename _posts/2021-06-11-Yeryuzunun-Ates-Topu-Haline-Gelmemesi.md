@@ -11,11 +11,11 @@ image:
   feature: D30KTdFX4AEDvd2.jpg
 ---
 
-**Teknolojinin çıkış noktası ‘metalürji’dir; yani metallerin eritilip işlenmesi işlemi...** Bu işlemi gerçekleştirebilmek içinse, hem uygun metallerin var olması, hem de insanoğlunun bu metalleri eritip şekillendirmesini sağlayacak araçlar bulunması gerekir.
+Teknolojinin çıkış noktası ‘metalürji’dir; yani metallerin eritilip işlenmesi işlemi... Bu işlemi gerçekleştirebilmek içinse, hem uygun metallerin var olması, hem de insanoğlunun bu metalleri eritip şekillendirmesini sağlayacak araçlar bulunması gerekir.
 
 Bu araçlardan biri ateştir. Avustralyalı biyokimyacı ve tanınmış bir Darwinizm eleştirmeni olan Prof. Denton, bu konuyu şöyle açıklar:
 
-“Ateşi kullanabilme yeteneğimiz, hiçbir şekilde önemsiz bir yetenek değildir, çünkü sadece ateş yoluyla teknolojik ilerleme mümkün olabilmiştir. Ateşle birlikte metalürji ve metal araçlar gelmiş ve sonunda da kimya bilgisi ortaya çıkmıştır. Metaller elektriğin tek doğal iletkeni olduklarından, elektromanyetizmin ve elektriğin keşfi, hatta bilgisayarların geliştirilmesi bile biz insanların ateşi keşfinin bir sonucudur.” (Michael Denton, Nature's Destiny, s. 242)
+> “Ateşi kullanabilme yeteneğimiz, hiçbir şekilde önemsiz bir yetenek değildir, çünkü sadece ateş yoluyla teknolojik ilerleme mümkün olabilmiştir. Ateşle birlikte metalürji ve metal araçlar gelmiş ve sonunda da kimya bilgisi ortaya çıkmıştır. Metaller elektriğin tek doğal iletkeni olduklarından, elektromanyetizmin ve elektriğin keşfi, hatta bilgisayarların geliştirilmesi bile biz insanların ateşi keşfinin bir sonucudur.” (Michael Denton, Nature's Destiny, s. 242)
 
 Denton'ın ‘insanoğlunun ateşi keşfi’ diye ifade ettiği olay, aslında, Allah'ın ateşi insanoğlunun emrine vermesidir. Konuyu bilimsel olarak incelediğimizde, ateşin, insanın yeryüzündeki yaşamına çok uygun bir yapıda olduğunu görürüz. Ateş, ‘yanabilir’ cisimlerin tutuşmasıyla başlar. Bir cismi ‘yanabilir’ kılan durum, içeriğinde ‘karbon’ bulunmasıdır. Karbon ve oksijen reaksiyona girdiklerinde, yüksek miktarda ısı açığa çıkarırlar; biz de bunu alev olarak görür ve hissederiz.
 
@@ -36,7 +36,7 @@ Oksijen ve karbonun bu yapıları, ateşe, insan tarafından kontrollü bir şek
 
 İnsanın teknolojiyi geliştirmesini sağlayan tüm şartlar olabilecek en ideal yapıda ve değerde yaratılmıştır. Allah, Kuran'da bu gerçeğe işaret eder ve ateşin malzemesinin özel olarak yaratıldığını şöyle haber verir:
 
-“Ki O, size yeşil ağaçtan bir ateş kılandır; siz de ondan yakıyorsunuz.” (Yasin Suresi, 80)
+**“Ki O, size yeşil ağaçtan bir ateş kılandır; siz de ondan yakıyorsunuz.” (Yasin Suresi, 80)**
 
 
 **TÜM NİMETLERİ YARATAN ALLAH’TIR**
@@ -47,7 +47,7 @@ Demirin erimesi için gereken ısı miktarı, dünyadaki yakıtlar tarafından s
 
 Ancak Allah'ın dilemesi ve insana türlü imkanlar vermesiyle, insanoğlu görkemli eserler ortaya koymuştur. Denton, insanoğlunun bilimsel gelişimini kısaca özetledikten sonra şu yorumu yapmaktadır:
 
-“(Bilimsel) yolculuğumuz uzun sürmüş olsa da... kanıtlar göstermektedir ki, bu yolun sonucu hiçbir zaman belirsiz olmamış, belirli bir amaca göre önceden belirlenmiş bir yolu izlemişiz ve başarımız da asla bir tesadüf olmamıştır... Ateşin keşfinden bilimin doğuşuna ve en son olarak da doğanın düzeninde kendi merkeziliğimizi keşfedişimize kadar uzanan, önceden belirlenmiş bir yolu izlemiş bulunuyoruz.” (Michael Denton, Nature's Destiny, s. 395)
+> “(Bilimsel) yolculuğumuz uzun sürmüş olsa da... kanıtlar göstermektedir ki, bu yolun sonucu hiçbir zaman belirsiz olmamış, belirli bir amaca göre önceden belirlenmiş bir yolu izlemişiz ve başarımız da asla bir tesadüf olmamıştır... Ateşin keşfinden bilimin doğuşuna ve en son olarak da doğanın düzeninde kendi merkeziliğimizi keşfedişimize kadar uzanan, önceden belirlenmiş bir yolu izlemiş bulunuyoruz.” (Michael Denton, Nature's Destiny, s. 395)
 
 http://www.harunyahya.org/bilim/tesaduf/res/rs1212.jpg
 
@@ -56,6 +56,6 @@ Biyokimya profesörü Michael Denton'ın bilimsel terimlerle anlattığı bütü
 
 Allah, dünyayı insanın yaşamı için yaratmış, dünyadaki varlıkları insan için ‘emre amade’ kılmış ve onu türlü nimetlerle zenginleştirmiştir. Kuran ayetlerinde Rabbimiz şöyle buyurur:
 
-“Allah, gökleri ve yeri yaratan ve gökten su indirip onunla size rızık olarak türlü ürünler çıkarandır. Ve O’nun emriyle gemileri, denizde yüzmeleri için, emre amade kılandır. Irmakları da sizin için emre amade kılandır. Güneş’i ve Ay’ı hareketlerinde sürekli emrinize amade kılan, geceyi ve gündüzü de emrinize amade kılandır. Size her istediğiniz şeyi verdi. Eğer Allah'ın nimetini saymaya kalkışırsanız, onu sayıp-bitirmeye güç yetiremezsiniz. Gerçek şu ki, insan pek zalimdir, pek nankördür.” (İbrahim Suresi, 32-34) 
+**“Allah, gökleri ve yeri yaratan ve gökten su indirip onunla size rızık olarak türlü ürünler çıkarandır. Ve O’nun emriyle gemileri, denizde yüzmeleri için, emre amade kılandır. Irmakları da sizin için emre amade kılandır. Güneş’i ve Ay’ı hareketlerinde sürekli emrinize amade kılan, geceyi ve gündüzü de emrinize amade kılandır. Size her istediğiniz şeyi verdi. Eğer Allah'ın nimetini saymaya kalkışırsanız, onu sayıp-bitirmeye güç yetiremezsiniz. Gerçek şu ki, insan pek zalimdir, pek nankördür.” (İbrahim Suresi, 32-34)** 
 
 kAYNAK: https://yeryuzumucizesi.blogspot.com/
