@@ -18,6 +18,13 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+
+> İngiliz derin devleti bütün milletin gözü önünde etkisiz hale geliyor, görülmemiş bir mucize meydana geliyor. Deccalin pençesi heryerden tek tek sökülüyor. Mehdiyetin meydana getirdiği bir harikadır bu. Allah’ın sanatıdır bu.
+
+> Bir manevi deprem oluştu. 150 yıldır Deccaliyet dünyayı sallıyor. İnsanların elinden neşelerini, sevinçlerini aldı. Deccaliyetin meydana getirdiği tahribatı Mehdiyet tamamen ortadan kaldıracak.
+
+> Deccaliyet tüm dünyayı boğmuş durumda, insanların çoğu bilerek veya bilmeyerek deccaliyeti örtüyor. Deccaliyeti örtmek değil, deşifre etmek gerekir. Deccalin deşifre edilip rezilliklerinin iyice ortaya konulması gerekiyor. Şu an deccaliyet ile mehdiyet arasında devam eden canlı bir ilmi mücadele var. Bizim dışımızda deccaliyeti bu kadar açık ve net anlatan yok. Bizim dışımızda deccaliyetin tek gerçek çözümü olan Mehdiyeti anlatan yok.
+
 > Deccal, şeytan aynı varlıklar. Çünkü şeytan insan suretine giriyor, o şekilde deccal olarak insanların karşısına çıkıyor. İnsanlar onu normal insan zannediyor. Halbuki şeytan normalde, insi şeytan.
 
 > Mehdi (as)’ın vefatından sonra, İsa Mesih’in vefatından sonra acayip sapıtacak insanlar. Böyle sapıtma görmedi dünya. Deccal bile yanlarında yüzde 1 gibi kalır. Korkunç bir azgınlık, korkunç bir tuğyan, korkunç bir kepazelik bütün dünyayı kaplayacak. Tek yanlı deccaliyet hakim oluyor. O devirde son bir yecüc mecüc zuhuru daha var.
