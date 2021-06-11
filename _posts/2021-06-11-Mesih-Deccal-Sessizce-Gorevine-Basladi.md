@@ -18,6 +18,10 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Deccal iki türlü yöntem kullanıyor, şeytaniyetini iki türlü uyguluyor. İki boynuzundan biri dinle biri dinsizlikle. Yani Darwinizm, materyalizmle, diğeri dinle. Dinle uygularken ne diyor? “Siz Risale-i Nur’u okuyun, bilginiz artırın ama İttihad-ı İslam, Hz. Mehdi, İsa Mesih’in inişi bırakın onları. Onlar füruattan detay bunlar.” diyor.
+
+> 1400 yıldır her gün Müslümanlar Mesih Deccalin fitnesinden korunmak için dua ederler. Deccal fitnesi tarihin en büyük fitnesidir.
+
 > Mehdiyet’e karşı olup, İttihad-ı İslam’a karşı olup İsa Mesih’in inişine karşı olup olay çıkartmak; bu ancak deccal yanlılarının tavrı olabilir.
 
 > Kıyametin en büyük alameti, Mehdi (as)’ın zuhurudur. İsa Mesih’in zuhuru, deccal’ın çıkması, yecüc mecüc, dabbetül arz ve duhan zuhuru kıyamet alametleridir.
@@ -79,4 +83,10 @@ image:
 
 > Yobazla Müslüman’ın arasındaki ayrımı yapıp yobaza hem Müslümanların hem Avrupalıların hem Amerikalıların tavır alması ama Müslümanlığı da hem Avrupa’nın hem Müslümanların hem de herkesin desteklemesi gerekir.
 
+> Çocuklara bitki ve hayvan sevgisi kazandırmak çok güzel. Çocuklarını böyle yetiştiren aileler çok doğru yapıyorlar.
 
+> Ortadoğudaki tüm terör grupları İngiliz derin devletinin yönlendirmesiyle hareket ediyor, hiçbiri kendi imkanlarıyla eylem yapamazlar.
+
+> Devleti yıkmak ahmaklıktır. Devlet tamir edilir. Ahmaklar devlete musallat olur. Devlet nimettir. Devlet yıkılır mı? Tamir edersin eksikliği varsa.
+
+> İsa Mesih’in inişine inanmak vaciptir. İmani bir konudur. Şiilikte de imanın esaslarındandır. İtikadi bir konudur. Mehdi’nin çıkışı, İsa Mesih’in inişi mütevatir hadistir. Mütevatir hadisin hükmü nedir? Vacip, farz yani.
