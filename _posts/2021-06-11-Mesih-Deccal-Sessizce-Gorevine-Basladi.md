@@ -53,4 +53,4 @@ image:
 
 > İsrail’de halk gürül gürül Allah’a dua etsinler. Allah’tan Kral Mesih’i istesinler. Hahamlar da, “Yarabbi bize Kral Mesih’i göster” diye dua etsinler.
 
-
+> Zalim ve cahillik insanın ruhunda vardır. İnsan o zalimliğini ve cahilliğini Kuran’ın nuruyla aydınlatıyor ve kendini Kuran’ın nuruyla yüceltebiliyor. Öbür türlü hasta oluyor insan.
