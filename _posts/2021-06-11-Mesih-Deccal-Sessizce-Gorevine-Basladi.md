@@ -18,6 +18,7 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Televizyonlarda, orada burada bağırıyorlar “Mehdi gelmeyecek” diye. Mehdi gelmezse deccal gelir. Mehdi (as)’ın yerini boşaltmaya kalkarsan deccal gelir, onun yerine oturur.
 
 > İngiliz derin devleti bütün milletin gözü önünde etkisiz hale geliyor, görülmemiş bir mucize meydana geliyor. Deccalin pençesi heryerden tek tek sökülüyor. Mehdiyetin meydana getirdiği bir harikadır bu. Allah’ın sanatıdır bu.
 
@@ -121,4 +122,10 @@ image:
 > Hz. Mehdi (as) ev sahibi, Hz. İsa Mesih (as) misafirimiz. Mehdiyet’i Allah vesile edip evi hazırlıyor. Hz. İsa Mesih (as) sultanımızı da aşkla, muhabbetle bağrımıza basacağız, inşaAllah.
 
 > Hz. Mehdi (as) ve Hz. İsa (as) sevgi insanlarıdır. Öyle parayla pulla, dünyayla işleri olmaz; ne Hz. Mehdi (a.s)’ın, ne de Hz. İsa Mesih (a.s)’ın. Onlar sevgi sevgi sevgi, barış barış barış, kardeşlik kardeşlik kardeşlik, dostluk dostluk dostluk, adalet adalet adalet. Konuları hep bu. Onun öğretmenleri, inşaAllah.
+
+> Hıristiyan aleminin başına İsa Mesih geçecek Müslüman olarak. Mehdi (as) da İslam aleminin başına geçecek. İsa Mesih Mehdi (as)’a tabi olduğu için Hıristiyan alemi de İslam alemine tabi olmuş olacak. Ve böylece dünyada tek bir yapı, tek bir kardeşlik oluşmuş olacak. Savaş, kavga, terör, anarşi hepsi son bulacak. Açlık, sefalet kalkacak. Yerini kardeşlik, sevinç ve bayram alacak. Bunu geciktirmesin hiçkimse.
+
+> Fikrine güvenen adam karşısındakini susturmaz. Bilakis daha çok konuşturur ki daha iyi yenebilsin.
+
+
 
