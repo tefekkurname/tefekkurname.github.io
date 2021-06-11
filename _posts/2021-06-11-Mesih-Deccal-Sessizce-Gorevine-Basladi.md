@@ -18,6 +18,9 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+
+> Kendilerince Mehdi (as)’ın gelişini engellemeye, konuyu örtbas etmeye çalışanlar var. Halbuki Mehdi (as)’ı istemeleri gerekir. Mehdi (as) gelmezse deccal gelir Ama kaderde Mehdi (as) gelmiştir ve engellenmesi de mümkün değildir.
+
 > Televizyonlarda, orada burada bağırıyorlar “Mehdi gelmeyecek” diye. Mehdi gelmezse deccal gelir. Mehdi (as)’ın yerini boşaltmaya kalkarsan deccal gelir, onun yerine oturur.
 
 > İngiliz derin devleti bütün milletin gözü önünde etkisiz hale geliyor, görülmemiş bir mucize meydana geliyor. Deccalin pençesi heryerden tek tek sökülüyor. Mehdiyetin meydana getirdiği bir harikadır bu. Allah’ın sanatıdır bu.
@@ -127,5 +130,7 @@ image:
 
 > Fikrine güvenen adam karşısındakini susturmaz. Bilakis daha çok konuşturur ki daha iyi yenebilsin.
 
+> Mehdi’siz bir dünya olmaz, İsa Mesih’siz bir dünya olmaz. Cenab-ı Allah’ın kanunu, kuralı bu. Allah “Benim dediğimi yapacaksınız” diyor. “Ben Mehdi (as)’ıseviyorum, İsa Mesih’i seviyorum” diyorsa Cenab-ı Allah, konu bitmiştir.
 
+> Şu an dünya tarihinde görülmemiş şekilde yoğun olarak, “Mehdi gelmeyecek”, “Mehdi gelmeyecek” deniyor.
 
