@@ -15,7 +15,7 @@ image:
 > **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
 
 <div class="responsive-wrap">
-<iframe src="//e.pcloud.link/publink/show?code=XZDhBVZWfxFa16rokQdRiyKDhcP1uP7lwb7" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//e.pcloud.link/publink/show?code=XZRaBVZkMmG2U6oCczXTiNWlDGHSLblaX0V" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 > **Namaz çok eski, kadim bir ibadettir.** Tarih boyunca tüm kavimlerde namaz ibadeti vardır. Kaya resimlerinde de bu gerçek görülmektedir.
