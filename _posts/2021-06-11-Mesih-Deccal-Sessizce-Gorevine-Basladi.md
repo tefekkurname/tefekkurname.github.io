@@ -18,6 +18,8 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Deccal çatışma, savaş istiyor, olayları düzenliyor; Kral Mesih yani Mehdi (as) durduruyor, maşaAllah.
+
 > Deccal kan döker, Kral Mesih yani Mehdi (as) kanı durdurur.
 
 > Mehdi (as) perdeli, İsa Mesih (as) perdeli, deccal perdeli. Çıktığında herkesin tasdik edeceği gibi aleni olmaz. Araştırılınca bulunur.
@@ -54,3 +56,11 @@ image:
 > İsrail’de halk gürül gürül Allah’a dua etsinler. Allah’tan Kral Mesih’i istesinler. Hahamlar da, “Yarabbi bize Kral Mesih’i göster” diye dua etsinler.
 
 > Zalim ve cahillik insanın ruhunda vardır. İnsan o zalimliğini ve cahilliğini Kuran’ın nuruyla aydınlatıyor ve kendini Kuran’ın nuruyla yüceltebiliyor. Öbür türlü hasta oluyor insan.
+
+> İsrail – Filistin arasındaki ateşkes, Kral Mesih yani Mehdi (as)’ın talebiyle sağlanmıştır.
+
+> Mehdiyetin sevgi ve şefkat anlayışı her şeyin üzerinde olacaktır.
+
+
+
+
