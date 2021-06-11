@@ -22,6 +22,15 @@
   subnav:
 
 
+- title: ENGLISH
+  url: /english/
+  img: aircraft-1314333_960_720.png
+  subnav:
+
+- title: BLOG
+  url: /blog/
+  img: aircraft-1314333_960_720.png
+  subnav:
 
 - title: HAKKINDA
   url: /hakkinda/
