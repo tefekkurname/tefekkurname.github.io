@@ -74,3 +74,9 @@ image:
 > İttihad-ı İslam olacak, Türk İslam Birliği olacak. Bunu Amerika da istiyor, İsrail de istiyor. Başka türlü zaten dünya rahat etmez. Dünyanın huzuru için bu şart.
 
 > Dünyada Mehdiyeti bizim kadar çok anlatan, bu kadar gündem yapan bizden başka hiç kimse yok. Böyle akılcı, delillere dayalı, doyurucu delillerle makul izah eden başka kimse yok. Deccaliyete de bizim kadar dikkat çeken kimse yok. Ahir zaman alametlerini bizim kadar çok vurgulayan hiç kimse yok. Dünyada tekiz. 1300 seneden beri de böyle bir olay yok. İslam tarihinde de böyle bir olay yok.
+
+> Samimi bir Müslüman Mehdi (as)’ı savunmak durumundadır. İttihad-ı İslam’ı savunmak durumundadır. İsa Mesih’in yeryüzünde görülmesi için Allah’a dua etmek zorundadır. Ve bu sevinci, heyecanı yaşamak zorundadır.
+
+> Yobazla Müslüman’ın arasındaki ayrımı yapıp yobaza hem Müslümanların hem Avrupalıların hem Amerikalıların tavır alması ama Müslümanlığı da hem Avrupa’nın hem Müslümanların hem de herkesin desteklemesi gerekir.
+
+
