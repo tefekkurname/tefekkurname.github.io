@@ -18,6 +18,8 @@ image:
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+> Deccal bölgesel kan dökme emri veriyor fakat beceremiyor, eline yüzüne bulaştırıyor. Bir daha döktürüyor kan, bir daha beceremiyor. Çünkü Mehdiyet sürekli onun döktüğü kanı durduruyor. İsa Mesih sürekli bu oyunu durdurmaya gayret ediyor.
+
 > Deccal çatışma, savaş istiyor, olayları düzenliyor; Kral Mesih yani Mehdi (as) durduruyor, maşaAllah.
 
 > Deccal kan döker, Kral Mesih yani Mehdi (as) kanı durdurur.
@@ -61,6 +63,8 @@ image:
 
 > Mehdiyetin sevgi ve şefkat anlayışı her şeyin üzerinde olacaktır.
 
+> Müthiş bir heyecan, müthiş bir kargaşa bütün dünyayı sardı. Özellikle Ortadoğu’da müthiş bir elektriklenme var. Bu İsa Mesih ve Mehdi (as)’ın faaliyetleri ile ilgili, Deccal’e karşı yaptıkları mücadeleyle ilgilidir.
 
+> Avrupa hukuk anlayışı, Avrupa şefkati güzel fakat Mehdiyet’in şefkati, Mehdiyet’in sevgi anlayışı hepsinin üstünde olacaktır. Hayretler içinde kalacak dünya o sevgiye, o kardeşliğe, o dostluğa.
 
 
