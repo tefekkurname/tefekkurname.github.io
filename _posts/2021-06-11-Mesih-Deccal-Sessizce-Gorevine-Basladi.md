@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Mesih Deccal sessizce görevine başladı (yeryüzünde büyük bir fitne ve bozgunculuk)"
-excerpt: İngiliz Müslümanlığı denilen felsefede hem koyu Rumilik hem de Budizm propagandası oluyor, sırf akıl karıştırmak için yapıyorlar.
-description: Peygamberimiz (sav) zamanında Budizm de vardı, her türlü fitne fücur vardı. Dinsizlik vardı, müşriklik vardı. Fitne kalkmamıştı. Mehdi (as)’ın yapacağı şey, kendi döneminde fitnenin kalmamasıdır. Ayette geçen, “Dinin hepsi Allahın oluncaya kadar” ifadesi bütün dünyanın Müslüman olması anlamındadır. 
+excerpt: Deccal kan döker, Kral Mesih yani Mehdi (as) kanı durdurur.
+description: Mehdi (as) perdeli, İsa Mesih (as) perdeli, deccal perdeli. Çıktığında herkesin tasdik edeceği gibi aleni olmaz. Araştırılınca bulunur. 
 categories: [belgesel]
 tags: [belgeseller]
 lang: tr
@@ -17,6 +17,10 @@ image:
 <div class="responsive-wrap">
 <iframe src="https://e.pcloud.link/publink/show?code=XZ8aBVZHbRVCQywmhuqyvk93y84KpOwNGdk" scrolling="no" frameborder="0"  width="780" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
+
+> Deccal kan döker, Kral Mesih yani Mehdi (as) kanı durdurur.
+
+> Mehdi (as) perdeli, İsa Mesih (as) perdeli, deccal perdeli. Çıktığında herkesin tasdik edeceği gibi aleni olmaz. Araştırılınca bulunur.
 
 > Mehdi (as) perdeli, İsa Mesih (as) perdeli, deccal perdeli. Çıktığında herkesin tasdik edeceği gibi aleni olmaz. Araştırılınca bulunur.
 
@@ -41,8 +45,12 @@ image:
 
 > Hastayla ilgilenmek sevaptır. Allah’ın rızasına uygun güzel bir ibadettir. Mehdi (as) ahlakıdır.
 
+> Mehdiyeti savunan kadar karşı olan da Mehdiyete hizmet eder. Örneğin deccaliyet Mehdiyete istemese de en çok hizmet eden unsurdur.
 
+> İngiliz derin devleti Abdülhamit döneminden bu yana siyasetin içine akrep gibi çökmüş, şu anda bu sistem çöktüğü için panik yaşıyorlar.
 
+> Bugüne kadar birleşmenin gerçekleşmemesinin nedeni, bu görevin Mehdi (as)’da olmasıdır.
 
+> İsrail’de halk gürül gürül Allah’a dua etsinler. Allah’tan Kral Mesih’i istesinler. Hahamlar da, “Yarabbi bize Kral Mesih’i göster” diye dua etsinler.
 
 
