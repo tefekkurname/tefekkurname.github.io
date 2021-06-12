@@ -18,7 +18,7 @@ image:
 - Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar. Her sohbette bulunur Resulullah (sav). Bedeni milyonlarca olacak Resulullah (sav)’in. Her yerde, her sofrada bulunur Resulullah (sav).
 
 <div class="responsive-wrap">
-<iframe src="https://e.pcloud.link/publink/show?code=XZ9i2VZa9VKkHk6yTj7HXwsNnuY3HBLBXu7" scrolling="no" frameborder="0" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://e.pcloud.link/publink/show?code=XZ9i2VZa9VKkHk6yTj7HXwsNnuY3HBLBXu7" scrolling="no" frameborder="0" width="720" height="520" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 - Ledün ilmine deccal çare bulamaz. Yani onu tuzun suda eritmesi gibi eritir ledün ilmi. Çünkü deccal zahir ilimle mücadele eder. Batın ilmi ile mücadele edemez. Batın ilmi Hz. Mehdi (as)dadır. Onun zahir ilmini Hz. Mehdi (as)ın batın ilmi yok eder. Onun için Hz. Mehdi (as) deccalin bütün kapılarını, bütün pencerelerini açar, onun gizli kalelerine girer. En girilmez zannedilen menfezlerine Hz. Mehdi (as) girer.
