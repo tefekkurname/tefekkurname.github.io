@@ -23,7 +23,7 @@ image:
     preload="auto"
     poster="//vjs.zencdn.net/v/oceans.png"
     data-setup='{}'>
-  <source src="//e.pcloud.link/publink/show?code=XZhRfVZt35SPnr9tzj2tvGr7IAyJ5Hu480V" type="video/mp4"></source>
+  <source src="https://bitbucket.org/zekid/videolar/raw/7e1ba86a906c41ce2a92399dbe686ae621c2b073/SATANISM%20%20-%20SATAN'S%20BLOODY%20TEACHING-qOf4TZqIrJo.mkv" type="video/mkv"></source>
   <source src="//vjs.zencdn.net/v/oceans.webm" type="video/webm"></source>
   <source src="//vjs.zencdn.net/v/oceans.ogv" type="video/ogg"></source>
   <p class="vjs-no-js">
