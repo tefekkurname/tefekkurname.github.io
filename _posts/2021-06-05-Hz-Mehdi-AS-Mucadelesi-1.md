@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hz. Mehdi (a.s.)'ın mücadelesi 2"
+title: "Hz. Mehdi (a.s.)'ın mücadelesi 1"
 excerpt: CENNET, SEVGİ YURDUDUR. Her yerinde sevgi vardır cennetin. Mesela kuşlar insanı sever, dostturlar, gelir şekerlik yapar, kendini sevdirmeye çalışır.
 description: Cennette müminler birbirini sever. Bahçelerde sohbet ederler. Resulullah (sav)’i her gördüklerinde sarılırlar.
 lang: tr
