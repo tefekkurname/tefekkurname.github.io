@@ -34,6 +34,12 @@ image:
     </a>
   </p>
 </video>
+
+<div class="responsive-wrap">
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/RhUUuTTsvcmE/"></iframe>
+</div>
+
+
 - **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
 
 <div class="responsive-wrap">
