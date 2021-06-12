@@ -12,34 +12,6 @@ image:
   feature: Darwin.jpg
 ---
 
-<!-- unpkg : use the latest version of Video.js -->
-<link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
-<script src="https://unpkg.com/video.js/dist/video.min.js"></script>
-
-<video
-    id="my-player"
-    class="video-js"
-    controls
-    preload="auto"
-    poster="//vjs.zencdn.net/v/oceans.png"
-    data-setup='{}'>
-  <source src="https://bitbucket.org/zekid/videolar/raw/7e1ba86a906c41ce2a92399dbe686ae621c2b073/SATANISM%20%20-%20SATAN'S%20BLOODY%20TEACHING-qOf4TZqIrJo.mkv" type="video/mkv"></source>
-  <source src="//vjs.zencdn.net/v/oceans.webm" type="video/webm"></source>
-  <source src="//vjs.zencdn.net/v/oceans.ogv" type="video/ogg"></source>
-  <p class="vjs-no-js">
-    To view this video please enable JavaScript, and consider upgrading to a
-    web browser that
-    <a href="https://videojs.com/html5-video-support/" target="_blank">
-      supports HTML5 video
-    </a>
-  </p>
-</video>
-
-<div class="responsive-wrap">
-<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/RhUUuTTsvcmE/"></iframe>
-</div>
-
-
 - **Budizm hak dinin bozulmuş halidir.** Budizmin içinde de namaz, oruç, zekat gibi ibadetler değişmiş halde vardır.
 
 <div class="responsive-wrap">
