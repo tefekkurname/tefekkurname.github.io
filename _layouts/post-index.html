@@ -38,16 +38,12 @@
           <h2>{{ post.title | truncate: 25}}<hr><span>{{post.date | date: '%F'}}</span></h2>
            {% if post.categories contains 'video' or post.categories contains 'belgesel' %}
            {% if page.lang==tr %}
-           
           <h4>İZLE...</h4>
-          
-          
           {% else %}
-          
           <h4>WATCH...</h4>
+          {% endif %}
           {% elsif post.categories contains 'makale' %}
           <h4>OKU...</h4>
-          {% endif %}
           {% elsif post.categories contains 'article' %}
           <h4>READ...</h4>
           {% endif %}
