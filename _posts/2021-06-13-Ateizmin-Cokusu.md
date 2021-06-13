@@ -15,7 +15,7 @@ image:
 
 
 <div class="responsive-wrap">
-<iframe width="720" height="500" scrolling="no" frameborder="0" style="border: none;" src="https://e.pcloud.link/publink/show?code=XZqmsVZG7UYL2jIlLJG29b15oTGu0Khjg9y"></iframe>
+<iframe width="720" height="520" scrolling="no" frameborder="0" style="border: none;" src="https://e.pcloud.link/publink/show?code=XZqmsVZG7UYL2jIlLJG29b15oTGu0Khjg9y"></iframe>
 </div>
 
 - Deizm dedikleri aslında ateizmdir ve ateizmin yayılmasının tek sebebi, okullarda Darwinist eğitim verilmesidir. Okullarda gençlere seni tesadüfler var etti dersen, hayatın amacı yok diye eğitirsen, ateizmin yayılmasına şaşıracak bir durum olmaz. Öğrencinin sınıf geçmesi için “tesadüfen olduk” demesi şart. Tesadüfen oluştuğuna inanan biri zaten ateizmi kabul etmiş demektir. 
@@ -35,3 +35,10 @@ image:
 - Komünistler, komünist bir yapılanma için Kürt kardeşlerimizi geçici kullanıyorlar. Komünizmde aile, din, devlet, millet kavramı yoktur.
 
 - Kürt kardeşlerimizle aramızda ayrılık çıkarmaya çalışıyorlar. Oysa onlarla her şeyimiz bir. Her şeyin üstünde hepimiz Müslümanız.
+
+- Dünyadaki bu akan kanlar, İslam aleminin paramparça olması, müslümanların birbirini kırıp geçirmesi, çekilen acılar, homoseksüelliğin böyle yayılması, ateizmin bu kadar yayılması, Darwinizm’in bu kadar güçlü olmasının tek sebebi, İngiliz derin devletidir. İngiliz derin devletini bütün devletler deşifre etsin.
+
+- Allah için olana sevgi denir. Allah’ın rızasının en çoğunu arıyorsan sevgi çıkar. Yoksa sevgi olmaz. O, teknik iş birliği olur.
+
+- Derin devletlerin özelliği; halka hep tepeden bakarlar, kendilerince adam yerine koymazlar, ezerler, öldürmeye kalkarlar. Ve ana felsefeleri Darwinizm, homoseksüellik ve Rumilik’tir.
+
