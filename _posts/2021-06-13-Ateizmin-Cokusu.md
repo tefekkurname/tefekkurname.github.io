@@ -44,3 +44,7 @@ image:
 
 - Hz. Mehdi (as) illaki kadınlara değer vermeyi kabul ettirecek. Kadınların kıymetini bilmeyi insanlara gösterecek.
 
+- Bağnazlar bütün Türkiyenin bağnaz olmasını istiyor. Komünistler, komünist olmasını istiyor. Bir başkası kendi kafasında olmasını istiyor. Olmaz. Herkesi kucaklayan bir ruh, herkesi kucaklayan bir mantık olması lazım.
+
+- Dünyada Allahın yarattığı en büyük nimettir kadın. Ahirette de Allahın tecellisinden sonra en büyük nimet kadındır, en büyük güzellik. Onun için, insanın ruhuna hitap eden en güzel nimettir. Kadınlar için de erkek, erkekler için de kadın.
+
