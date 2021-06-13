@@ -11,28 +11,7 @@ feature_video:
 image:
   feature: KIYAMETsaati2.jpg
 ---
-<!-- unpkg : use the latest version of Video.js -->
-<link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
-<script src="https://unpkg.com/video.js/dist/video.min.js"></script>
 
-<video
-    id="my-player"
-    class="video-js"
-    controls
-    preload="auto"
-    poster="//vjs.zencdn.net/v/oceans.png"
-    data-setup='{}'>
-  <source src="//vidmoly.to/embed-2h578iq813u1.html" type="video/mp4"></source>
-  <source src="//vjs.zencdn.net/v/oceans.webm" type="video/webm"></source>
-  <source src="//vjs.zencdn.net/v/oceans.ogv" type="video/ogg"></source>
-  <p class="vjs-no-js">
-    To view this video please enable JavaScript, and consider upgrading to a
-    web browser that
-    <a href="https://videojs.com/html5-video-support/" target="_blank">
-      supports HTML5 video
-    </a>
-  </p>
-</video>
 
 - **Resulullah, Resulullah oluyor ama çektiği çilenin haddi hesabı yok.**
 Cenab-ı Allah “Habibim” diyor, Peygamberimiz (sav)i müthiş seviyor. Ama bu üstünlüğünden dolayı seviyor.
