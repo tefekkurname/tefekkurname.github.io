@@ -42,3 +42,5 @@ image:
 
 - Derin devletlerin özelliği; halka hep tepeden bakarlar, kendilerince adam yerine koymazlar, ezerler, öldürmeye kalkarlar. Ve ana felsefeleri Darwinizm, homoseksüellik ve Rumilik’tir.
 
+- Hz. Mehdi (as) illaki kadınlara değer vermeyi kabul ettirecek. Kadınların kıymetini bilmeyi insanlara gösterecek.
+
