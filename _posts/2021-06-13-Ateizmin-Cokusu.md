@@ -15,7 +15,7 @@ image:
 
 
 <div class="responsive-wrap">
-<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://e.pcloud.link/publink/show?code=XZqmsVZG7UYL2jIlLJG29b15oTGu0Khjg9y"></iframe>
+<iframe width="720" height="500" scrolling="no" frameborder="0" style="border: none;" src="https://e.pcloud.link/publink/show?code=XZqmsVZG7UYL2jIlLJG29b15oTGu0Khjg9y"></iframe>
 </div>
 
 - Deizm dedikleri aslında ateizmdir ve ateizmin yayılmasının tek sebebi, okullarda Darwinist eğitim verilmesidir. Okullarda gençlere seni tesadüfler var etti dersen, hayatın amacı yok diye eğitirsen, ateizmin yayılmasına şaşıracak bir durum olmaz. Öğrencinin sınıf geçmesi için “tesadüfen olduk” demesi şart. Tesadüfen oluştuğuna inanan biri zaten ateizmi kabul etmiş demektir. 
