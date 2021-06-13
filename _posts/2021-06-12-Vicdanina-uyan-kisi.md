@@ -15,7 +15,7 @@ image:
 
 
 <div class="responsive-wrap">
-<iframe src="https://onedrive.live.com/embed?cid=23A1F1172147F32F&resid=23A1F1172147F32F%211175&authkey=AM35i9xOHKr4s2I" width="320" height="240" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=23A1F1172147F32F&resid=23A1F1172147F32F%211175&authkey=AM35i9xOHKr4s2I" width="480" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 
