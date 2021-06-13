@@ -8,7 +8,7 @@ tags: [blog]
 lang: tr
 feature_video: 
 image:
-  feature: 98.jpg
+  feature: 99.jpg
 ---
 
 İftira, çıkarları zedelenen, birine karşı öfke, kin ve hınç besleyen veya başkalarıyla rekabet içinde olan, yalan söyleyen ve vicdanlarına uymayan bazı insanların, karşılarındaki kişiye veya kişilere zarar vermek amacıyla başvurdukları çirkin yöntemlerden biridir. İftiranın, geniş çaplı düzenler kurularak atılanlarından, sıradan insanların günlük konuşmalarının arasına sıkıştırdıkları dedikodu tarzı iftiralara kadar, birçok çeşidi vardır. Din ahlakından uzak, Allah'ın emrettiği güzel ahlakı yaşamayan toplumlarda, insanların yaygın olarak başvurdukları karalama yöntemlerinden biri de iftiradır.
