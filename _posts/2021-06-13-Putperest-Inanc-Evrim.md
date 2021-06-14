@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Putperest bir İnanç: Evrim"
-description: Putperest bir İnanç: Evrim
-excerpt: Putperest bir İnanç: Evrim
+title: "Putperest bir İnanç, Evrim"
+description: Putperest bir İnanç, Evrim
+excerpt: Putperest bir İnanç, Evrim
 categories: [belgesel]
 tags: [belgesel]
 lang: tr
