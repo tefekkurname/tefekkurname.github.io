@@ -9,7 +9,7 @@ lang: tr
 date:   2021-06-12 15:00:00
 feature_video: 
 image:
-  feature: EK.jpg
+  feature: 110.jpg
 ---
 
 
