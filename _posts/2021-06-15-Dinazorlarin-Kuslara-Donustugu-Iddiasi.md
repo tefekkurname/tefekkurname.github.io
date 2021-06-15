@@ -83,6 +83,14 @@ Science ve Nature isimli ünlü bilim dergileri ve dünyaca tanınmış BBC tele
 
 Longisquama'nın bulunmasıyla birlikte, sadece Archaeopteryx efsanesi değil, aynı zamanda "kuşların evrimi" hakkındaki tüm evrimci varsayımlar da sarsılmış durumdadır. Fosili inceleyen paleontologlardan biri olan Jones, "Bu fosil, insanların kuşların dinozorlardan evrimleştiği fikrini sorgulaması için son derece yeterlidir" demektedir.35
 
+ - 29 L. D. Martin, J. D. Stewart, K. N. Whetstone, The Auk, cilt 98, 1980, s. 86; L. D. Martin "Origins of Higher Groups of Tetrapods", Ithaca, New York: Comstock Publising Association, 1991, s. 485, 540
+
+ - 30 S. Tarsitano, M. K. Hecht, Zoological Journal of the Linnaean Society, cilt 69, 1985, s. 178; A. D. Walker, Geological Magazine, cilt 177, 1980, s. 595
+
+ - 31 Richard L. Deem "Demise of the 'Birds are Dinosaurs' Theory", http://www.yfiles.com/dinobird2.html
+
+
+
 <style>
 .left {
  float: left;
