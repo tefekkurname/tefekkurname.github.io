@@ -9,7 +9,7 @@ lang: tr
 date:   2021-06-13 15:00:00
 feature_video: 
 image:
-  feature: 120.jpg
+  feature: 141.gif
 ---
 
 
