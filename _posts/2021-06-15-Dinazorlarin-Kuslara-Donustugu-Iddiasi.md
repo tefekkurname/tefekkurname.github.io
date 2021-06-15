@@ -86,5 +86,5 @@ Longisquama'nın bulunmasıyla birlikte, sadece Archaeopteryx efsanesi değil, a
 <style>
 .left {
  float: left;
- padding: 10 10px 10 10;}
+ padding: 0 10px 0 0;}
  </style>
