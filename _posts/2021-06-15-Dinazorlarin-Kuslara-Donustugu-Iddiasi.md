@@ -29,7 +29,7 @@ Dinozordan kuşa dönüşümü iddia eden evrimcilerin bu iddianın fosil delill
 
 **Archæopteryx yanılgısı**
 
-![Archæopteryx](/images/135.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%"}
+![Archæopteryx](/images/135.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%" class="left"}
 
 "Dinozorlarla kuşlar arasında geçiş formu" olduğu öne sürülen Archæopteryx, bundan yaklaşık 150 milyon yıl önce yaşamıştır. Teoriye göre küçük yapılı dinozorların bir kısmı, evrim geçirerek kanatlanmış ve uçmaya başlamışlardır. Archæopteryx, sözde dinozor atalarından ayrılan ve yeni yeni uçmaya başlayan ilk türdür.
 
@@ -49,7 +49,9 @@ Archæopteryx'in tüylerinin ortaya çıkarmış olduğu bir başka gerçek, bu 
 
 **Archæopteryx'in anatomisi ve evrimcilerin hatası**
  
-![Archæopteryx](/images/136.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%"  class="left"} Evrimci biyologların, Archæopteryx'i ara geçiş formu olarak gösterirken dayandıkları en önemli iki nokta ise, bu hayvanın kanatlarının üzerindeki pençeleri ve ağzındaki dişleridir.
+![Archæopteryx](/images/136.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%" class="left"} 
+
+Evrimci biyologların, Archæopteryx'i ara geçiş formu olarak gösterirken dayandıkları en önemli iki nokta ise, bu hayvanın kanatlarının üzerindeki pençeleri ve ağzındaki dişleridir.
 
 Archæopteryx'in kanatlarında pençeleri ve ağzında dişleri olduğu doğrudur, ancak bu özellikleri canlının sürüngenlerle herhangi bir şekilde bir ilgisi olduğunu göstermez. Zira günümüzde yaşayan iki tür kuşta, Touraco corythaix ve Opisthocomus hoatzin'de de dallara tutunmaya yarayan pençeler bulunmaktadır. Ve bu canlılar, hiçbir sürüngen özelliği taşımayan, tam birer kuştur. Dolayısıyla Archæopteryx'in kanatlarında pençeleri olduğu ve bu sebeple de bir ara form olduğu yolundaki iddia geçersizdir.
 
@@ -67,7 +69,7 @@ Kısacası Archæopteryx'in birtakım özgün özellikleri, bu canlının bir "a
 
 **Archæopteryx efsanesinin sonu: Lonqisquama**
 
-![Archæopteryx](/images/133.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%"}
+![Archæopteryx](/images/133.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%" class="left"}
 
 Evrimcilerin Archaeopteryx hakkındaki iddialarını çürüten en somut kanıt ise, 2000 yılında bilim dünyasının gündemine gelen Longisquama insignis adlı bir başka fosil kuş oldu. Bu fosil 1970'lerde Kırgızistan'da bir böcek bilimci tarafından bulunmuş, fakat uzun yıllar bir müze köşesinde dikkat çekmeden kalmıştı. 2000 yılında ise fosili inceleyen Batılı uzmanlar bunun bilinen en eski kuş olduğunu fark ederek bu önemli bulguyu dünyaya duyurdular.
 
