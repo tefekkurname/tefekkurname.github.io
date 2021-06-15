@@ -49,7 +49,7 @@ Archæopteryx'in tüylerinin ortaya çıkarmış olduğu bir başka gerçek, bu 
 
 **Archæopteryx'in anatomisi ve evrimcilerin hatası**
  
-![Archæopteryx](/images/136.jpg "Archæopteryx yanılgısı"  class="left"){:height="50%" width="50%"}Evrimci biyologların, Archæopteryx'i ara geçiş formu olarak gösterirken dayandıkları en önemli iki nokta ise, bu hayvanın kanatlarının üzerindeki pençeleri ve ağzındaki dişleridir.
+![Archæopteryx](/images/136.jpg "Archæopteryx yanılgısı"  class="left")Evrimci biyologların, Archæopteryx'i ara geçiş formu olarak gösterirken dayandıkları en önemli iki nokta ise, bu hayvanın kanatlarının üzerindeki pençeleri ve ağzındaki dişleridir.{:height="50%" width="50%"}
 
 Archæopteryx'in kanatlarında pençeleri ve ağzında dişleri olduğu doğrudur, ancak bu özellikleri canlının sürüngenlerle herhangi bir şekilde bir ilgisi olduğunu göstermez. Zira günümüzde yaşayan iki tür kuşta, Touraco corythaix ve Opisthocomus hoatzin'de de dallara tutunmaya yarayan pençeler bulunmaktadır. Ve bu canlılar, hiçbir sürüngen özelliği taşımayan, tam birer kuştur. Dolayısıyla Archæopteryx'in kanatlarında pençeleri olduğu ve bu sebeple de bir ara form olduğu yolundaki iddia geçersizdir.
 
