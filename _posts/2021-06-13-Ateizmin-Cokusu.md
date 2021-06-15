@@ -12,11 +12,6 @@ image:
   feature: DbOuBnDX0AAn4_K.jpg
 ---
 
-<a href="https://www.dosyaupload.com/8e9c~i?0e3209eac51a5d6aefaf54a59c88e2d2" target="_blank" title="Download From Dosya Upload - Dosya Yükle">Download olaganustu_beyin_A9TV.mp4 from Dosya Upload - Dosya Yükle</a> 
-
-<div class="responsive-wrap">
-<iframe width="640" height="520" scrolling="no" frameborder="0" style="border: none;" src="https://dl1.lim1.dosyaupload.com/8e9c"></iframe>
-</div>
 
 <div class="responsive-wrap">
 <iframe width="640" height="520" scrolling="no" frameborder="0" style="border: none;" src="https://e.pcloud.link/publink/show?code=XZqmsVZG7UYL2jIlLJG29b15oTGu0Khjg9y"></iframe>
