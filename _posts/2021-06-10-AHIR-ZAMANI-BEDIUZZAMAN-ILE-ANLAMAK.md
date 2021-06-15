@@ -8,7 +8,7 @@ tags: [makaleler]
 lang: tr
 feature_video: 
 image:
-  feature: 8.jpg
+  feature: 125.jpg
 ---
 
 <p><strong><span>AHİR ZAMAN&rsquo;I BEDİ&Uuml;ZZAMAN İLE ANLAMAK </span></strong></p>
