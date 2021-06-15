@@ -48,9 +48,8 @@ Bu bulgu, Archæopteryx'in tam uçamayan bir yarı-kuş olduğu yönündeki iddi
 Archæopteryx'in tüylerinin ortaya çıkarmış olduğu bir başka gerçek, bu canlının sıcakkanlı oluşuydu. Bilindiği gibi sürüngenler ve dinozorlar soğukkanlı, yani vücut ısılarını kendileri üretmeyen, çevrenin vücut ısılarını etkilediği canlılardır. Kuşlarda bulunan tüylerin en önemli fonksiyonlarından bir tanesi ise, vücut ısısını korumalarıdır. Archæopteryx'in tüylü olması, dinozorların aksine sıcakkanlı bir canlı olduğunu, yani vücut ısısını korumaya ihtiyacı olan gerçek bir kuş olduğunu gösteriyordu.
 
 **Archæopteryx'in anatomisi ve evrimcilerin hatası**
-
-
-![Archæopteryx](/images/136.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%"}
+ 
+![Archæopteryx](/images/136.jpg "Archæopteryx yanılgısı"  class="left"){:height="50%" width="50%"}
 
 Evrimci biyologların, Archæopteryx'i ara geçiş formu olarak gösterirken dayandıkları en önemli iki nokta ise, bu hayvanın kanatlarının üzerindeki pençeleri ve ağzındaki dişleridir.
 
@@ -83,3 +82,9 @@ Science ve Nature isimli ünlü bilim dergileri ve dünyaca tanınmış BBC tele
 "Orta Asya'da bulunan ve günümüzden 220 milyon yıl önce yaşadığı anlaşılan söz konusu fosilin tüm vücudunun tüylerle kaplı olduğu, kuşların atası olduğu iddia edilen Archaeptoryx'de ve günümüz kuşlarında olduğu gibi bir lades kemiğine sahip olduğu ve tüylerinde ise içi boş sapların bulunduğu tespit edildi. Bu ise, **ARCHAEOPTERYX'İN KUŞLARIN ATASI OLDUĞU İDDİALARINI GEÇERSİZLEŞTİRİYOR...** Çünkü bulunan fosil Archaeopteryx'ten 75 milyon yıl daha yaşlı; yani kuşların atası olduğu iddia edilen canlıdan 75 milyon yıl önce de tüm özellikleriyle tam bir kuş yaşıyordu."34
 
 Longisquama'nın bulunmasıyla birlikte, sadece Archaeopteryx efsanesi değil, aynı zamanda "kuşların evrimi" hakkındaki tüm evrimci varsayımlar da sarsılmış durumdadır. Fosili inceleyen paleontologlardan biri olan Jones, "Bu fosil, insanların kuşların dinozorlardan evrimleştiği fikrini sorgulaması için son derece yeterlidir" demektedir.35
+
+<style>
+.left {
+ float: left;
+ padding: 0 10px 0 0;}
+ </style>
