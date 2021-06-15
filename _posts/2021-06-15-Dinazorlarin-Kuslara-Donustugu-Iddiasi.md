@@ -29,7 +29,7 @@ Dinozordan kuşa dönüşümü iddia eden evrimcilerin bu iddianın fosil delill
 
 **Archæopteryx yanılgısı**
 
-![Archæopteryx](/images/135.jpg "Archæopteryx yanılgısı"){:height="80%" width="80%"}
+![Archæopteryx](/images/135.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%"}
 
 "Dinozorlarla kuşlar arasında geçiş formu" olduğu öne sürülen Archæopteryx, bundan yaklaşık 150 milyon yıl önce yaşamıştır. Teoriye göre küçük yapılı dinozorların bir kısmı, evrim geçirerek kanatlanmış ve uçmaya başlamışlardır. Archæopteryx, sözde dinozor atalarından ayrılan ve yeni yeni uçmaya başlayan ilk türdür.
 
