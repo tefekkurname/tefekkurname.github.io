@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Moşiyah [Hazreti Mehdi (as)]'ın üstünlüğü"
-description: "Moşiyah [Hazreti Mehdi (as)]'ın üstünlüğü"
-excerpt: 'Moşiyah [Hazreti Mehdi (as)]'ın üstünlüğü'
+title: "Moşiyah Hazreti Mehdi (as)'ın üstünlüğü"
+description: "Moşiyah Hazreti Mehdi (as)'ın üstünlüğü"
+excerpt: 'Moşiyah Hazreti Mehdi (as)'ın üstünlüğü'
 categories: [makale]
 tags: [makaleler]
 lang: tr
