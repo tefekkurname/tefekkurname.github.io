@@ -8,7 +8,7 @@ tags: [makale]
 lang: tr
 feature_video: 
 image:
-  feature: Tevratkodlar4.jpg
+  feature: 151.jpg
 ---
 
 <div>
