@@ -68,7 +68,9 @@ Son çalışmaların sonuçları göstermektedir ki, Theropod dinozorların elle
 
 Kısacası Archæopteryx'in birtakım özgün özellikleri, bu canlının bir "ara form" olduğunu göstermemektedir. Nitekim bugün evrim teorisinin tanınmış savunucularından Harvard Üniversitesi paleontologları Stephen Jay Gould ve Niles Eldredge de, Archæopteryx'in farklı özellikleri bünyesinde barındıran bir "mozaik" canlı olduğunu, ama bir ara form sayılamayacağını kabul etmektedirler.32
 
-Archæopteryx efsanesinin sonu: Lonqisquama
+**Archæopteryx efsanesinin sonu: Lonqisquama**
+
+![Archæopteryx](/images/133.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%"}
 
 Evrimcilerin Archaeopteryx hakkındaki iddialarını çürüten en somut kanıt ise, 2000 yılında bilim dünyasının gündemine gelen Longisquama insignis adlı bir başka fosil kuş oldu. Bu fosil 1970'lerde Kırgızistan'da bir böcek bilimci tarafından bulunmuş, fakat uzun yıllar bir müze köşesinde dikkat çekmeden kalmıştı. 2000 yılında ise fosili inceleyen Batılı uzmanlar bunun bilinen en eski kuş olduğunu fark ederek bu önemli bulguyu dünyaya duyurdular.
 
