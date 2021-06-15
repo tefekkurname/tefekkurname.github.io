@@ -12,7 +12,6 @@ image:
   feature: 108.jpg
 ---
 
-# Putperest bir İnanç: Evrim
 
 <div class="responsive-wrap">
 <iframe src="https://mirrorace.org/m/embed/12ytn/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
