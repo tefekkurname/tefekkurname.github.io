@@ -12,7 +12,7 @@ image:
 ---
 
 <div class="responsive-wrap">
-<iframe src="https://mirrorace.org/m/embed/3Kq5x/" scrolling="no" frameborder="0" width="250" height="215" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://mirrorace.org/m/embed/56l0g/" scrolling="no" frameborder="0" width="500" height="320" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
 Zorluk zamanları, Allah'ın iman edenler için yarattığı çok kıymetli anlardır. İnsanlar genellikle nadir olarak bu tür durumlarla karşılaşırlar. Ve bunlar bir insanın, Allah'a olan sadakatinin, sevgisinin ve teslimiyetinin gücünü gösterebileceği, aynı zamanda da ahiret hayatı için çok fazla ecir kazanabileceği zamanlardır. İman eden bir kimse belki zorluk ve sıkıntıyla karşılaşmak için özel bir çaba harcamaz, ama karşılaştığı zaman da bunları Allah'ın kendisi için yaratmış olduğu çok büyük nimet ve fırsatlar olarak algılar.
