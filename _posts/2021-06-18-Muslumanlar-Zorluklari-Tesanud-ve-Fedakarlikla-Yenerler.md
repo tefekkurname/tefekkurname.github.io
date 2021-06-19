@@ -17,6 +17,8 @@ image:
 
 Zorluk zamanları, Allah'ın iman edenler için yarattığı çok kıymetli anlardır. İnsanlar genellikle nadir olarak bu tür durumlarla karşılaşırlar. Ve bunlar bir insanın, Allah'a olan sadakatinin, sevgisinin ve teslimiyetinin gücünü gösterebileceği, aynı zamanda da ahiret hayatı için çok fazla ecir kazanabileceği zamanlardır. İman eden bir kimse belki zorluk ve sıkıntıyla karşılaşmak için özel bir çaba harcamaz, ama karşılaştığı zaman da bunları Allah'ın kendisi için yaratmış olduğu çok büyük nimet ve fırsatlar olarak algılar.
 
+![Archæopteryx](/images/171.jpg "Archæopteryx yanılgısı"){:height="50%" width="50%" class="left"}
+
 Tarih boyunca gönderilmiş olan peygamberler yurtlarından sürülme, baskı altına alınma, tehdit edilme ve hatta öldürülmeye kadar varan zorluklar yaşamış, ama tüm bunları imani bir şevk ve coşkuyla karşılamışlardır.
 
 **Hz. Yusuf (as)** iftiraya uğrayarak yıllar yılı zindanda kalmış, **Hz. İbrahim (as)** kavminin ileri gelenleri tarafından ateşe atılarak öldürülmeye çalışılmış, **Hz. Musa (as)** Firavun'un tehdit ve baskılarıyla karşılaşmış, **Hz. Lut** yaşadığı toplumdan sürülmeye çalışılmıştır. Ancak bu mübarek insanların her biri de bu olaylar karşısında Rabbimiz'e karşı büyük bir sadakat, teslimiyet ve güven ile hareket etmişlerdir.
