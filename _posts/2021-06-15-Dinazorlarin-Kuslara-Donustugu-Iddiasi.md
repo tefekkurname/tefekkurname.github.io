@@ -106,8 +106,3 @@ Longisquama'nın bulunmasıyla birlikte, sadece Archaeopteryx efsanesi değil, a
  - 35 Science, 23 Haziran 2000, cilt. 2149
 
 
-<style>
-.left {
- float: left;
- padding: 0 10px 0 0;}
- </style>
