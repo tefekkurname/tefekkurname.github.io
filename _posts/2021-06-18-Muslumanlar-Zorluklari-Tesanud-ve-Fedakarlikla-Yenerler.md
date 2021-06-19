@@ -8,7 +8,7 @@ tags: [makale]
 lang: tr
 feature_video: 
 image:
-  feature: lizozom.jpg
+  feature: 177.jpg
 ---
 
 <div class="responsive-wrap">
