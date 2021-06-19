@@ -11,8 +11,9 @@ image:
   feature: lizozom.jpg
 ---
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fa9tv.global%2Fvideos%2F1278157415712813%2F&show_text=0&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
+<div class="responsive-wrap">
+<iframe src="//1drv.ms/v/s!Ai_zRyEX8aEjiRrsJJBPmqaarcwk" scrolling="no" frameborder="0"  width="720" height="500" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</div>
 
 Zorluk zamanları, Allah'ın iman edenler için yarattığı çok kıymetli anlardır. İnsanlar genellikle nadir olarak bu tür durumlarla karşılaşırlar. Ve bunlar bir insanın, Allah'a olan sadakatinin, sevgisinin ve teslimiyetinin gücünü gösterebileceği, aynı zamanda da ahiret hayatı için çok fazla ecir kazanabileceği zamanlardır. İman eden bir kimse belki zorluk ve sıkıntıyla karşılaşmak için özel bir çaba harcamaz, ama karşılaştığı zaman da bunları Allah'ın kendisi için yaratmış olduğu çok büyük nimet ve fırsatlar olarak algılar.
 
