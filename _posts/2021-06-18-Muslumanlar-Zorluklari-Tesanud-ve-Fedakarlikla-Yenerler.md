@@ -42,3 +42,8 @@ fedakarlıktan kaçınan kişinin kendisi olacaktır. Allah'ın kendisi için ya
 **. . 'Yardım ve zafer' (nusret) ancak üstün ve güçlü, hüküm ve hikmet sahibi olan Allah'ın Katındandır. (Ki bununla) İnkar edenlerin önde gelenlerinden bir kısmını kessin (helak etsin) ya da 'umutları suya düşmüşler olarak onları' tepesi aşağı getirsin de geri dönüp gitsinler.' (Al-i İmran Suresi, 126-127)** 
 
 İlerleyen satırlarda tüm Müslümanlar için çok kıymetli birer örnek olan Peygamberimiz (sav)'in ve sahabelerin hayatlarına ve Bediüzzaman Said Nursi'nin fedakarlıklarla geçen yaşantısına değinerek, birlik, beraberlik ve fedakarlık anlayışıyla hareket edildiğinde zorlukların nasıl aşılabildiğine ve nasıl büyük başarılar elde edilebildiğine dikkat çekeceğiz. 
+
+
+
+
+Kaynak: [KURAN AHLAKINDA FEDAKARLIĞIN ÖNEMİ](https://hy-kitap.github.io/viewer/ePubViewer3/#https://hy-kitap.github.io/assets/Harun-Yahya-Kitaplar/KK/epub/KuranAhlakindaFedakarliginOnemi_4b_tr.epub)
