@@ -33,12 +33,10 @@ Allah'ın takdir ettiği sonuç gerçekleşecektir. Buna vesile olanlar Allah'ı
 
 fedakarlıktan kaçınan kişinin kendisi olacaktır. Allah'ın kendisi için yaratmış olduğu fırsatları ve ecir imkanlarını kaçırmış ve önüne çıkan çok değerli vakitleri gereği gibi değerlendirememiş olacaktır.
 
-Unutulmamalıdır ki Allah bu üstün ahlakı yaşamayı talep eden samimi ihlas sahiplerine yardımını ulaştıracak ve onları üstün kılacaktır. Kuran'da Allah'ın samimi kullarına olan bu vaadi şöyle bildirilmektedir: Kim Allah'ı, Resûlü'nü ve iman edenleri dost (veli) edinirse, hiç şüphe yok, galip gelecek olanlar, Allah'ın taraftarlarıdır. (Maide Suresi, 56)
+**Unutulmamalıdır ki Allah bu üstün ahlakı yaşamayı talep eden samimi ihlas sahiplerine yardımını ulaştıracak ve onları üstün kılacaktır. Kuran'da Allah'ın samimi kullarına olan bu vaadi şöyle bildirilmektedir: Kim Allah'ı, Resûlü'nü ve iman edenleri dost (veli) edinirse, hiç şüphe yok, galip gelecek olanlar, Allah'ın taraftarlarıdır. (Maide Suresi, 56)**
 
-Allah, yazmıştır: "Andolsun, Ben galip geleceğim ve elçilerim de." Gerçekten Allah, en büyük kuvvet sahibidir, güçlü ve üstün olandır.
+**Allah, yazmıştır: "Andolsun, Ben galip geleceğim ve elçilerim de." Gerçekten Allah, en büyük kuvvet sahibidir, güçlü ve üstün olandır. (Mücadele Suresi, 21)**
 
-(Mücadele Suresi, 21)
+**. . 'Yardım ve zafer' (nusret) ancak üstün ve güçlü, hüküm ve hikmet sahibi olan Allah'ın Katındandır. (Ki bununla) İnkar edenlerin önde gelenlerinden bir kısmını kessin (helak etsin) ya da 'umutları suya düşmüşler olarak onları' tepesi aşağı getirsin de geri dönüp gitsinler.' (Al-i İmran Suresi, 126-127)** 
 
-. . 'Yardım ve zafer' (nusret) ancak üstün ve güçlü, hüküm ve hikmet sahibi olan Allah'ın Katındandır.
-
-(Ki bununla) İnkar edenlerin önde gelenlerinden bir kısmını kessin (helak etsin) ya da 'umutları suya düşmüşler olarak onları' tepesi aşağı getirsin de geri dönüp gitsinler.' (Al-i İmran Suresi, 126-127) İlerleyen satırlarda tüm Müslümanlar için çok kıymetli birer örnek olan Peygamberimiz (sav)'in ve sahabelerin hayatlarına ve Bediüzzaman Said Nursi'nin fedakarlıklarla geçen yaşantısına değinerek, birlik, beraberlik ve fedakarlık anlayışıyla hareket edildiğinde zorlukların nasıl aşılabildiğine ve nasıl büyük başarılar elde edilebildiğine dikkat çekeceğiz. 
+İlerleyen satırlarda tüm Müslümanlar için çok kıymetli birer örnek olan Peygamberimiz (sav)'in ve sahabelerin hayatlarına ve Bediüzzaman Said Nursi'nin fedakarlıklarla geçen yaşantısına değinerek, birlik, beraberlik ve fedakarlık anlayışıyla hareket edildiğinde zorlukların nasıl aşılabildiğine ve nasıl büyük başarılar elde edilebildiğine dikkat çekeceğiz. 
