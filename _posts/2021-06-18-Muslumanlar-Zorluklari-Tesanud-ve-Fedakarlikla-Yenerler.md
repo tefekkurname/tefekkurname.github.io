@@ -5,6 +5,7 @@ description: Zorluk zamanları, Allah'ın iman edenler için yarattığı çok k
 excerpt: İnsanlar genellikle nadir olarak bu tür durumlarla karşılaşırlar. Ve bunlar bir insanın, Allah'a olan sadakatinin, sevgisinin ve teslimiyetinin gücünü gösterebileceği, aynı zamanda da ahiret hayatı için çok fazla ecir kazanabileceği zamanlardır.
 categories: [makale]
 tags: [makale]
+keywords: Harun Yahya, Makale
 lang: tr
 feature_video: 
 image:

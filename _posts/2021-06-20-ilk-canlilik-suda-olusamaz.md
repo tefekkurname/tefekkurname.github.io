@@ -15,6 +15,7 @@ image:
 <iframe src="https://mirrorace.org/m/embed/1Iyen/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
 
+
 ![Le chatelier](/images/211.jpg "Le chatelier Prensibi"){:height="50%" width="50%" class="left"}
 
 Evrimcilerin savunduğu gibi ilk canlılık sıcak sularda, okyanuslarda yada çamurda oluşamaz. Bunun nedeni Kimya Kanunlarında geçen Le chatelier Prensibidir. Proteinler oluşumu sırasında amino asitlerin belli bir sırada ve sayıda birbirine peptit bağı aracığı ile 3 boyutlu bir bağlanmayla birbirine bağlanırlar. Bu bağ oluşumu esnasında ortaya su reaksiyonu çıkar.Le chatelier Prensibine göre su çıkaran bir reaksiyon su içeren bir ortamda oluşması mümkün değildir.
