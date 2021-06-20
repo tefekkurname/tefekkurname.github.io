@@ -3,15 +3,11 @@
 <head>
 
 <meta http-equiv=X-UA-Compatible content="IE=edge">
-<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 {% include _head.html %}
 
 </head>
 <body class="post">
-
-{% include _browser-upgrade.html %}
-
 {% include _navigation.html %}
 
 {% if page.image.feature and page.feature_video == null %}
