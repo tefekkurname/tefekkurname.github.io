@@ -1,6 +1,8 @@
 
 
-<meta name="keywords" content="{{ page.tags | join: ', ' }}">
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords | join: ', ' }}" />
+    {% endif %}
 {% if page.author %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
