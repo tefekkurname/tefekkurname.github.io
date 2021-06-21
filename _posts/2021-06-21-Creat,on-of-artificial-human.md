@@ -32,7 +32,7 @@ The gene regions encoding proteins refer to a creation far more complex than our
 As can be seen in the scientific studies that will be presented in detail below, the studies examine the results obtained after the genes are added or removed as a whole or displaced without the codes of the genes being changed. In other words, the potential advantages and disadvantages of such a transformation can be seen through experimentation. The claim in the article is that a DNA code, even a better one, can be formed over again and that is an issue that should be emphasized due to its unreasonableness.
 
 **Why cannot we consider computer encoding and the DNA codes as equal?**
-![How Much Do We Know about the DNA Code System?](/images/221.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
+![How Much Do We Know about the DNA Code System?](/images/223.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
 
 Is it possible to write DNA codes out of nothing, just like writing codes in computer programming? There is a very clear answer to this: No!
 
@@ -74,7 +74,7 @@ As is seen, the studies on genetics do not involve the formation of any code fro
 
 **CONCLUSION: The studies on the DNA regulation do not mean**
 
-![How Much Do We Know about the DNA Code System?](/images/225.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
+![How Much Do We Know about the DNA Code System?](/images/225.jpg "How Much Do We Know about the DNA Code System?"){:height="80%" width="80%" class="left"}
 The process, which is deliberately phrased as “DNA creation” by some media organs, can be implemented only through existing proteins or genes, or DNA chains or fragments already existing in living beings. Creating a material from scratch, out of nothing, is out of the question.
 
 The project mentioned in the article published in the New York Times will be based on the methods in other studies on DNA regulation. Otherwise, it does not involve the production of an artificial human genome synthetically, or in other words, artificially or doing so from scratch.
