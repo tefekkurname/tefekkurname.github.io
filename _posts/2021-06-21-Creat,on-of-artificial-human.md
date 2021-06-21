@@ -13,10 +13,6 @@ image:
 
 
 
-/ 2016-06-06
-
-[](https://web.archive.org/web/20161027082555/http://www.darwinism-watch.com/index.php?git=makale&medya_turu=)
-
 A New York Times article published on May 13th 2016, claimed that it is possible to create “a Synthetic Human Genome.” In the article penned by Andrew Pollack, there was another claim that “all the DNA contained in human chromosomes could be manufactured.” We will explain the irrationality and invalidity of such a claim using scientific evidence and prove that DNA cannot be created out of thin air.
 
 Indeed, the drafters of the article must have been aware of that fact as there are some remarkable points in the article published in the New York Times. For instance, George Church, a professor of genetics at Harvard Medical School, said  “The project was not aimed at creating people, just cells, and would not be restricted to human genomes.” After all, as it is known by everyone that it is not possible to synthesize the human DNA containing three billion base pairs out of thin air, the project which had initially been called  _“HGP2: The Human Genome Synthesis Project”_, was then changed to _“HGP-Write: Testing Large Synthetic Genomes in Cells.”_ Despite all of these changes and explanations, the statements placed in the sentences of the article attempt to suggest that “a human being can now be created.” That being said, let us look into the fact that DNA is the product of a supreme creation we have yet to understand and that it is not possible to create a living being out of nothing.
@@ -80,3 +76,5 @@ The project mentioned in the article published in the New York Times will be bas
 The studies on genome yield are considerably important and useful results for the mankind. For instance, it will of course be useful in terms of human health and for a longer lifespan to produce a genome free of those genes related to certain diseases or mutated ones. However, this will never mean the creation of a new human or an organism. The ability to create is only possessed by the Almighty God, Who has created molecules and proteins, and gave life to the cell.
 
 RESOURCE: http://www.nytimes.com/2016/05/14/science/synthetic-human-genome.html
+
+Kaynak: [Why is the New York Times' claim about the creation of an artificial human genome unreasonable?](https://web.archive.org/web/20161027082555/http://www.darwinism-watch.com/index.php?git=makale&medya_turu=) / 2016-06-06
