@@ -79,4 +79,4 @@ The studies on genome yield are considerably important and useful results for th
 
 RESOURCE: http://www.nytimes.com/2016/05/14/science/synthetic-human-genome.html
 
-Kaynak: [Why is the New York Times' claim about the creation of an artificial human genome unreasonable?](https://web.archive.org/web/20161027082555/http://www.darwinism-watch.com/index.php?git=makale&medya_turu=) / 2016-06-06
+Kaynak: [Why is the New York Times' claim about the creation of an artificial human genome unreasonable?](https://web.archive.org/web/20161027082555/http://www.darwinism-watch.com/makale/222548/%20%20Why%20is%20the%20New%20York%20Times'%20claim%20about%20the%20creation%20of%20an%20artificial%20human%20genome%20unreasonable) / 2016-06-06
