@@ -37,7 +37,7 @@ Bazı fosillerin yarı-insan yarı-maymun ara tür canlılarına ait olduğu şe
 
 2013 yılında Güney Afrika’da bir mağarada 15 ayrı bireye ait olduğu öne sürülen 1500’den fazla kemik kalıntısı keşfedildi. 2015’te “Homo Naledi” olarak isimlendirilen bu canlı kalıntıları ile birlikte Darwinist çevrelerde “kayıp halka” tartışmaları yeniden hız kazandı ve fosiller, “yeni keşfedilmiş sözde insanımsı bir ara tür” olarak tanıtıldı.
 
-![Darwinis Masallara Cevaplar](/images/homo_naledi.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"} 
+![Darwinis Masallara Cevaplar](/images/homo-naledi.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"} 
 Elde tam bir kafatası yoktu ve dört yıpranmış kafatası kemiği birbirine değmeden havada duracak şekilde yerleştirilmişti. Buna rağmen canlının 500 gram ağırlığında bir beyne ve portakal büyüklüğünde bir kafa hacmine sahip olduğu iddia edildi. Ayrıca Homo Naledi’nin 2-2,5 milyon yıl önce yaşamış olabileceği belirtildi. Hepsinin yanısıra ‘canlının kıvrık parmak kemikleri ile ağaca tırmanabildiği, el bileği ve uzun kemiklerinin ise insansı olduğu’ gibi tasvirlerle, mozaik bir form öne sürüldü. Bununla da yetinilmeyip onlarca parçaya ayrılmış şekilde bulunan kalça kemiği montaj yapıldı ve canlının dik yürüdüğü iddia edildi.
 
 Yer altında 1450 metre derinlikte, güçlükle ulaşılabilen bir mağarada bulunan bu fosillerin oraya nasıl geldiği de ayrı bir tartışma konusu oldu. Yanlarında hiç alet veya başka canlı kalıntısı bulunmaması sebebiyle, kalıntıların türün diğer bireyleri tarafından bilinçli olarak oraya atılmış veya gömülmüş olabilecekleri söylendi.
