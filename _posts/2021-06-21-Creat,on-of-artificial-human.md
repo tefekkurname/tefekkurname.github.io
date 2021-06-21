@@ -19,6 +19,8 @@ Indeed, the drafters of the article must have been aware of that fact as there a
 
 **How Much Do We Know about the DNA Code System?**
 
+
+![How Much Do We Know about the DNA Code System?](/images/222.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
 Above all, it should be noted that the information in the DNA is voluminous and the DNA is essentially a databank of the human body. The studies on this subject generally consist of predictions which evaluate or analyze the existing information. This study, which was the subject of the article in the New York Times, has not begun yet; it is still in the progress stage, in other words, it is being developed by means of discussions. Dr. Jeremy Minshull, chief executive of DNA2.0, a DNA synthesis company, stated the following in regard to the study in its progress stage: **“Our ability to understand what to build is so far behind what we can build**.” 
 
 Mankind is yet to identify the unique information composed of three billion base pairs which form DNA. The studies on DNA have yielded good results; however, they are extremely inadequate.
