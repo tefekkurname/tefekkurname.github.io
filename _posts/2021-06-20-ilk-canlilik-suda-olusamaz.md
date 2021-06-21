@@ -11,10 +11,6 @@ image:
   feature: 212.jpg
 ---
 
-<div class="responsive-wrap">
-<iframe src="https://mirrorace.org/m/embed/1Iyen/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-</div>
-
 
 ![Le chatelier](/images/211.jpg "Le chatelier Prensibi"){:height="50%" width="50%" class="left"}
 
@@ -27,5 +23,9 @@ Yüce Rabbimiz Bir Ayetinde Şöyle Buyurmaktadır;
 **Allah Gökleri Ve Yeri Hak Olarak Yarattı. Şüphesiz Bunda İman Edenler İçin gerçekten Ayet vardır. Ankebut Suresi 44. Ayet**
 
 
+
+<div class="responsive-wrap">
+<iframe src="https://mirrorace.org/m/embed/1Iyen/" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</div>
 
 Kaynak: [KURAN AHLAKINDA FEDAKARLIĞIN ÖNEMİ](https://hy-kitap.github.io/viewer/ePubViewer3/#https://hy-kitap.github.io/assets/Harun-Yahya-Kitaplar/KK/epub/KuranAhlakindaFedakarliginOnemi_4b_tr.epub)
