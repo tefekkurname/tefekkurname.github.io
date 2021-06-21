@@ -47,6 +47,9 @@
         <strong>{{ page.title }}</strong>, <time datetime="{{ page.date}}">{{ page.date | date: "%F" }} tarihinde sitede yayınlandı</time>{% if page.modified %} <time datetime="{{ page.modified | date: '%Y-%m-%d' }}"> ve {{ page.modified | date: "%F" }} tarihinde değiştirildi</time>{% endif %}.</p>
         
     {% endif %}
+    
+    
+{% include share-buttons.html %}
       </footer>
     </div><!-- /.article-wrap -->
   </article>
