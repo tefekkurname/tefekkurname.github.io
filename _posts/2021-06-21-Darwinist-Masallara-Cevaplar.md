@@ -27,7 +27,7 @@ Bilim gerçeğe ulaşmada önemli bir yoldur. Ancak kullanılan yöntemlerin tar
 
 Kimi zaman bulunan tek bir diş veya birkaç kemik parçası, gerçekle ilgisi olmayan modellemelerle bütün bir vücut haline getirilmiş, hatta inandırıcılığının artması için o canlı hayal ürünü bir sosyal yaşam içinde resimlendirilerek sunulmuştur. Aynı dönemde yaşayan ve tamamen farklı olan türler, yine küçükten büyüğe dizilerek birbirinin sözde atası şeklinde gösterilmeye çalışılmıştır. Hatta bu uğurda ideolojik olarak yapılan bazı sahtekarlıklar kullanılarak “kayıp halka bulundu” şeklinde uydurma haberler hazırlanmış, sözde bilimsel makaleler basılmış, yıllarca müzelerde sahte fosiller sergilenmiştir.
 
-![Darwinis Masallara Cevaplar](images/Homo_naledi_2.jpg "Darwinis Masallara Cevaplar")
+![Darwinis Masallara Cevaplar](/images/Homo-naledi-2.jpg "Darwinis Masallara Cevaplar")
 
 Bütün bu aldatmacaya bazı basın yayın organları da destek vermişler ve hatta klasik bir Darwinist taktik olarak eski iddiaları yeni gibi yansıtmakta da bir sakınca görmemişlerdir. Bunun son örneği de 2013 yılında Güney Afrika’da bulunan ancak 2015’te dünyaya duyurulan bazı fosilleri temel alan bir fosildir. Geçtiğimiz günlerde CNN, Scientific American, Dailymail gibi sitelerde bu konu yeni gibi lanse edilmiştir.
 
@@ -37,7 +37,7 @@ Bazı fosillerin yarı-insan yarı-maymun ara tür canlılarına ait olduğu şe
 
 2013 yılında Güney Afrika’da bir mağarada 15 ayrı bireye ait olduğu öne sürülen 1500’den fazla kemik kalıntısı keşfedildi. 2015’te “Homo Naledi” olarak isimlendirilen bu canlı kalıntıları ile birlikte Darwinist çevrelerde “kayıp halka” tartışmaları yeniden hız kazandı ve fosiller, “yeni keşfedilmiş sözde insanımsı bir ara tür” olarak tanıtıldı.
 
-![Darwinis Masallara Cevaplar](images/homo_naledi.jpg "Darwinis Masallara Cevaplar")Elde tam bir kafatası yoktu ve dört yıpranmış kafatası kemiği birbirine değmeden havada duracak şekilde yerleştirilmişti. Buna rağmen canlının 500 gram ağırlığında bir beyne ve portakal büyüklüğünde bir kafa hacmine sahip olduğu iddia edildi. Ayrıca Homo Naledi’nin 2-2,5 milyon yıl önce yaşamış olabileceği belirtildi. Hepsinin yanısıra ‘canlının kıvrık parmak kemikleri ile ağaca tırmanabildiği, el bileği ve uzun kemiklerinin ise insansı olduğu’ gibi tasvirlerle, mozaik bir form öne sürüldü. Bununla da yetinilmeyip onlarca parçaya ayrılmış şekilde bulunan kalça kemiği montaj yapıldı ve canlının dik yürüdüğü iddia edildi.
+![Darwinis Masallara Cevaplar](/images/homo_naledi.jpg "Darwinis Masallara Cevaplar")Elde tam bir kafatası yoktu ve dört yıpranmış kafatası kemiği birbirine değmeden havada duracak şekilde yerleştirilmişti. Buna rağmen canlının 500 gram ağırlığında bir beyne ve portakal büyüklüğünde bir kafa hacmine sahip olduğu iddia edildi. Ayrıca Homo Naledi’nin 2-2,5 milyon yıl önce yaşamış olabileceği belirtildi. Hepsinin yanısıra ‘canlının kıvrık parmak kemikleri ile ağaca tırmanabildiği, el bileği ve uzun kemiklerinin ise insansı olduğu’ gibi tasvirlerle, mozaik bir form öne sürüldü. Bununla da yetinilmeyip onlarca parçaya ayrılmış şekilde bulunan kalça kemiği montaj yapıldı ve canlının dik yürüdüğü iddia edildi.
 
 Yer altında 1450 metre derinlikte, güçlükle ulaşılabilen bir mağarada bulunan bu fosillerin oraya nasıl geldiği de ayrı bir tartışma konusu oldu. Yanlarında hiç alet veya başka canlı kalıntısı bulunmaması sebebiyle, kalıntıların türün diğer bireyleri tarafından bilinçli olarak oraya atılmış veya gömülmüş olabilecekleri söylendi.
 
