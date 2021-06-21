@@ -32,6 +32,7 @@ The gene regions encoding proteins refer to a creation far more complex than our
 As can be seen in the scientific studies that will be presented in detail below, the studies examine the results obtained after the genes are added or removed as a whole or displaced without the codes of the genes being changed. In other words, the potential advantages and disadvantages of such a transformation can be seen through experimentation. The claim in the article is that a DNA code, even a better one, can be formed over again and that is an issue that should be emphasized due to its unreasonableness.
 
 **Why cannot we consider computer encoding and the DNA codes as equal?**
+![How Much Do We Know about the DNA Code System?](/images/223.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
 
 Is it possible to write DNA codes out of nothing, just like writing codes in computer programming? There is a very clear answer to this: No!
 
@@ -40,6 +41,7 @@ What is done today in the laboratories and known as “genetic engineering” is
 As is known, the operating system of a computer consists of certain mathematical codes controlling the operation of technical components. This is a technical language, which is composed of 1's and 0's, and the electric current travels between the circuits based on the corresponding commands. The DNA is located inside the cell and is a chemical code system that manages the functioning of the cell. The information pertaining to which protein will be produced, under which conditions and in which amount is written in the part of the DNA that encodes proteins and are called “genes”. Although we have now identified the location of the genes in various living beings, this is a still an ongoing process. Their functions become more evident when they are damaged, primarily by mutations. In short, mankind is still striving to learn the information described in the DNA.
 
 **The Current Attempts to Produce Synthetic Cells are merely the Duplication of the Genes** 
+![How Much Do We Know about the DNA Code System?](/images/224.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
 
 The on-going studies on microorganisms in the laboratories involves the process of obtaining the DNA fragments from an organism, duplicating them inside a PCR device, and transferring them into the same or another microorganism. According to this method, **the genes remain unchanged, so the codes are duplicated in the form that they operate in the nature. Or else, a brand new DNA code is not written out of scratch.**
 
@@ -60,6 +62,7 @@ The functions of 149 genes among them are not known yet, but they were used comp
  Mankind is forced to employ the DNA and its existing genes in their current form. The sequence of the amino acid chains of the encoded proteins is incorporated into these genes; furthermore, there are certain genes encoding the three dimensional form of the protein. For that reason, the studies carried out on  DNA aim to understand how such perfect information would be useful and to utilize the information in the same way. It is not possible to write a new code, let alone produce a new protein. Let us clarify this subject by giving examples from the studies carried out on this subject:
 
 **Genetic Engineering in Medicine and Agriculture**
+![How Much Do We Know about the DNA Code System?](/images/226.jpg "How Much Do We Know about the DNA Code System?"){:height="50%" width="50%" class="left"}
 
 Genetic engineers are engaged in the replication of the genes, the combination of the genes in different living beings or the transfer of the genes between living beings. All of these works are always based on the existing information.
 
