@@ -5,7 +5,7 @@ description: 'A New York Times article published on May 13th 2016, claimed that 
 excerpt: We will explain the irrationality and invalidity of such a claim using scientific evidence and prove that DNA cannot be created out of thin air.
 categories: [article]
 tags: [article]
-lang: tr
+lang: en
 feature_video: 
 image:
   feature: 223.jpg
