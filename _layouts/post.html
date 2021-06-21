@@ -36,6 +36,7 @@
     <div class="youtube"><iframe class="youtube-player" type="text/html" width="640" height="385" src="{{page.feature_video}}" allowfullscreen frameborder="0"></iframe></div><br>
     {% endif %}
     <div class="article-wrap">
+{% include share-buttons.html %}
       {{ content }}
       <footer role="contentinfo">
         {% if page.lang==en %}
@@ -50,7 +51,6 @@
     
     
       </footer>
-{% include share-buttons.html %}
     </div><!-- /.article-wrap -->
   </article>
 </div><!-- /#main -->
