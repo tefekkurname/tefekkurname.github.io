@@ -32,7 +32,7 @@
       {% if post.categories contains page.category %}
       <article>
         {% if post.link %}
-          <div class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></div>
+          <div class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">  {{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></div>
         {% else %}
           <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url('/images/{{ post.image.feature }}'); background-size: cover">&nbsp;</span>
           <div>{{ post.title | truncate: 35}}<hr><span>{{post.date | date: '%F'}}</span></div>
