@@ -74,7 +74,7 @@ As is seen, the studies on genetics do not involve the formation of any code fro
 
 **CONCLUSION: The studies on the DNA regulation do not mean**
 
-![How Much Do We Know about the DNA Code System?](/images/225.jpg "How Much Do We Know about the DNA Code System?"){:height="80%" width="80%" class="left"}
+![How Much Do We Know about the DNA Code System?](/images/225.jpg "How Much Do We Know about the DNA Code System?"){:height="100%" width="100%" class="left"}
 The process, which is deliberately phrased as “DNA creation” by some media organs, can be implemented only through existing proteins or genes, or DNA chains or fragments already existing in living beings. Creating a material from scratch, out of nothing, is out of the question.
 
 The project mentioned in the article published in the New York Times will be based on the methods in other studies on DNA regulation. Otherwise, it does not involve the production of an artificial human genome synthetically, or in other words, artificially or doing so from scratch.
