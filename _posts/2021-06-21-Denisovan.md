@@ -5,6 +5,8 @@ description: Bugünlerde Darwinizm savunuculuğuna soyunmuş bilimsel bazı derg
 excerpt: Geçtiğimiz yıllarda bulunmuş, yetersizliği ve geçersizliği kanıtlanmış bazı canlı kalıntıları tekrar gündeme getiriliyor ve evrim delili gibi sunulmaya çalışılıyor.
 categories: [makale]
 tags: [makale]
+encoding: utf-8
+keywods: İnsansı,Denisovanlar, Science Mag
 lang: tr
 feature_video: 
 image:
