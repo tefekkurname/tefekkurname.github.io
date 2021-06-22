@@ -71,10 +71,10 @@ Oluşturulan bu toplama iskelet tüm özellikleri ile, şempanzelere benzemekted
 Darwinistlerce, Australopithecus Afarensis sözde evrim ağacında ilk ata kabul edilmesine karşın, canlının başparmaklarının günümüz şempanze ve maymunlarından daha uzun olduğu saptanmıştır. Bu özellik evrim iddiasına tamamen terstir. Homo Naledi’nin başparmağı ise Australopithecus Afarensis’ten biraz daha uzundur. Bu da ileriye doğru genişleyen hayali evrim ağacını çürüten bir bulgudur. Bu haliyle insanın parmağına hiç benzememekle beraber, Homo Naledi kalıntıları hayali evrim soy ağacında “insansı” olarak tabir edilen türlerden de oldukça farklıdır.
 
 
-![Darwinis Masallara Cevaplar](/images/hand-and-feet-homo-naledi.jpg "Darwinis Masallara Cevaplar"){:height="66%" width="66%" class="left"}
+![Darwinis Masallara Cevaplar](/images/hand-and-feet-homo-naledi.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
 Homo Naledi’nin eli hiçbir şekilde insan eline benzememekte, eğimli parmak kemikleri ve diğer maymunsu özellikleri bize, canlının daldan dala atlayan bir maymun olduğunu göstermektedir. Darwinistler her ne kadar bir şempanzeyi insana benzetmeye çalışsalar da bu el yapısının herhangi bir aleti insan gibi kavrayıp, kullanması imkansızdır. Bununla beraber, kemiklerin bulunduğu mağarada insan kültürüne dair herhangi bir alet ya da eşya da bulunmamıştır.
 
-![Darwinis Masallara Cevaplar](/images/naledi-hand.jpg "Darwinis Masallara Cevaplar"){:height="66%" width="66%" class="left"}
+![Darwinis Masallara Cevaplar](/images/naledi-hand.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
 Üstelik Dinaledi mağarasında bulunan dişler de insan dişlerine hiç benzememektedir. Bu dişler Australopithecus serisi maymunlarda görülen dişlerden daha küçük bir maymun dişine benzemektedir ve insana benzerliği söz konusu değildir.
 
 **BEYİN BÜYÜKLÜĞÜ İLE ZEKA DOĞRU ORANTILI DEĞİLDİR**
