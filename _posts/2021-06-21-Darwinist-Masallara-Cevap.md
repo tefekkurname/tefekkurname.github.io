@@ -52,7 +52,7 @@ Bulunan fosiller hakkında bunca tartışma söz konusuyken, bu fosillerin yaş 
 
 _“Eksik olan çok önemli bir gerçek Naledi'nin yaşıydı. Bu bilgi olmadan türlerin evrimsel şemada nerede olduğunu tam olarak bilmek zor.” (http://edition.cnn.com/2016/05/03/health/homo-naledi-human-species-lee-berger/)_
 
-2013’teki çalışmayı bizzat yürüten Amerikalı paleontolog Lee Berger ise konuyla ilgili olarak, “_Naledi nereden geliyor, ataları kim, onun soyu nasıl -varsa tabi- bilmiyoruz.' [_http://edition.cnn.com/2016/05/03/health/homo-naledi-human-species-lee-berger/_](https://web.archive.org/web/20161023212249/http://edition.cnn.com/2016/05/03/health/homo-naledi-human-species-lee-berger/) demektedir.
+2013’teki çalışmayı bizzat yürüten Amerikalı paleontolog Lee Berger ise konuyla ilgili olarak, “_Naledi nereden geliyor, ataları kim, onun soyu nasıl -varsa tabi- bilmiyoruz.' ((_[_http://edition.cnn.com/2016/05/03/health/homo-naledi-human-species-lee-berger/_](https://web.archive.org/web/20161023212249/http://edition.cnn.com/2016/05/03/health/homo-naledi-human-species-lee-berger/)_)_ demektedir.
 
 Bunun anlamı da şudur; eğer fosiller tahmin edildiğinden daha yaşlı veya gençse bugüne kadar Darwinistler tarafından yazılan kayıp halka senaryoları bütünüyle anlamsızlaşacaktır.
 
