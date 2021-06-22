@@ -8,7 +8,7 @@ tags: [makale]
 lang: tr
 feature_video: 
 image:
-feature: naledi.png
+feature: Denisovan-skulls.jpg
 ---
 
 
