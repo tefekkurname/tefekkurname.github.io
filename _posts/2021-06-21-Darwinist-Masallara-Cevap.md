@@ -97,5 +97,7 @@ Fosiller incelendiğinde gördüğümüz çarpıcı sonuç her zaman **Yaratıl�
 
 
 
-Kaynak: [CNN’de Darwinist Masallar Tekrarlanıyor: Homo Naledi](https://web.archive.org/web/20161023212249/http://www.netcevap.org/makale/231166/CNN%E2%80%99de%20Darwinist%20Masallar%20Tekrarlan%C4%B1yor:%20Homo%20Naledi)/ 2016-10-01
+Kaynak: [CNN’de Darwinist Masallar Tekrarlanıyor: Homo Naledi](https://web.archive.org/web/20161023212249/http://www.netcevap.org/makale/231166/CNN%E2%80%99de%20Darwinist%20Masallar%20Tekrarlan%C4%B1yor:%20Homo%20Naledi)
+
+/ 2016-10-01
 
