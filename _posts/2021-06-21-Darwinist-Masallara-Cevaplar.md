@@ -68,10 +68,10 @@ Homo Naledi ile ilgili araştırmanın başında bulunan Lee Berger’in itiraf�
 
 Oluşturulan bu toplama iskelet tüm özellikleri ile, şempanzelere benzemektedir. Omuz eklemleri ve eğimli parmak kemikleri dallardan sarkan maymunlarla aynıdır. Geniş kalça kemikleri ve aşağı doğru genişleyen göğüs kafesi ise Australopithecus maymunlarına özgüdür. Her ne kadar insan ayağına benzediği iddia edilse de, ayak kemikleri insanınkinden farklı olarak, düşük bir kavise sahip olup, yönünün de farklı olduğu yine aynı ekip tarafından kabul edilmektedir.
 
+![Darwinis Masallara Cevaplar](/images/hand-and-feet-homo-naledi.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
 Darwinistlerce, Australopithecus Afarensis sözde evrim ağacında ilk ata kabul edilmesine karşın, canlının başparmaklarının günümüz şempanze ve maymunlarından daha uzun olduğu saptanmıştır. Bu özellik evrim iddiasına tamamen terstir. Homo Naledi’nin başparmağı ise Australopithecus Afarensis’ten biraz daha uzundur. Bu da ileriye doğru genişleyen hayali evrim ağacını çürüten bir bulgudur. Bu haliyle insanın parmağına hiç benzememekle beraber, Homo Naledi kalıntıları hayali evrim soy ağacında “insansı” olarak tabir edilen türlerden de oldukça farklıdır.
 
 
-![Darwinis Masallara Cevaplar](/images/hand-and-feet-homo-naledi.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
 Homo Naledi’nin eli hiçbir şekilde insan eline benzememekte, eğimli parmak kemikleri ve diğer maymunsu özellikleri bize, canlının daldan dala atlayan bir maymun olduğunu göstermektedir. Darwinistler her ne kadar bir şempanzeyi insana benzetmeye çalışsalar da bu el yapısının herhangi bir aleti insan gibi kavrayıp, kullanması imkansızdır. Bununla beraber, kemiklerin bulunduğu mağarada insan kültürüne dair herhangi bir alet ya da eşya da bulunmamıştır.
 
 ![Darwinis Masallara Cevaplar](/images/naledi-hand.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
