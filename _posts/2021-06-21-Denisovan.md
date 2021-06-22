@@ -96,7 +96,7 @@ Oysaki ortak atanın varlığına dair en ufak bir delil dahi yoktur. Ancak kimi
 
 Yapılan bu gibi çalışmalara evrimci çevrelerden de eleştiriler gelmektedir. Leipzig Enstitüsü’nden Richard E. Green ve Harvard Tıp’tan David Reich şu şekilde yorum yapmaktadırlar:
 
-“Yapılan çalışma yoğun ve kompleks matematiksel istatistiklere dayanıyor ve bu da savlarının doğruluğunu sorgulatıyor. İstatistiksel bakış açısı bilgi yüklü olmasına karşın, arkeolojik bulgularda somut karşılığını bulamıyor.” [](https://web.archive.org/web/20161108000632/http://www.nytimes.com/2010/05/07/science/07neanderthal.html)(http://www.nytimes.com/2010/05/07/science/07neanderthal.html)
+“Yapılan çalışma yoğun ve kompleks matematiksel istatistiklere dayanıyor ve bu da savlarının doğruluğunu sorgulatıyor. İstatistiksel bakış açısı bilgi yüklü olmasına karşın, arkeolojik bulgularda somut karşılığını bulamıyor.” [neanderthal](https://web.archive.org/web/20161108000632/http://www.nytimes.com/2010/05/07/science/07neanderthal.html)(http://www.nytimes.com/2010/05/07/science/07neanderthal.html)
 
 **DENISOVAN, FARKLI BİR CANLI TÜRÜ DEĞİLDİR, İNSANDIR**
 
@@ -122,7 +122,7 @@ Görüldüğü gibi evrim düşüncesi, bilimsel prensipler ışığında değil
 
 Toplumda ırkçı fikirleri besleyen, ayrıştırıcı ve bölücü akımların ana dayanağı olan Darwinist ideoloji ilkelden modern insana doğru bir soy masalı uydurmuştur. Bunu ayakta tutabilmek için de geçmişte yaşamış ve henüz insan olamamış yani “evrimini tamamlayamamış” hayvan türlerine ihtiyaç vardır. Bu yüzden Darwinistler zaman zaman ilkel “insansı” türler üretmektedirler. Denisovan insanı da işte bu ilkel insan masalına uygun bir figür olarak uydurulmuştur.
 
-Şu açıktır ki, eğer böyle bir insan yaşamışsa da tam bir insandır ve bizlerden hiçbir farkı yoktur. Soyu tükenmiş bir insan ırkı da olsa hiçbir şekilde ‘_ilkel bir insan”_ yoktur. Afrika’dan Amerika’ya, Avrupa’ya ve Asya’ya kadar her yerde insan insandır.Yeryüzünde insan her zaman insan olarak var olmuştur.
+Şu açıktır ki, eğer böyle bir insan yaşamışsa da tam bir insandır ve bizlerden hiçbir farkı yoktur. Soyu tükenmiş bir insan ırkı da olsa hiçbir şekilde ‘_ilkel bir insan_‘ yoktur. Afrika’dan Amerika’ya, Avrupa’ya ve Asya’ya kadar her yerde insan insandır.Yeryüzünde insan her zaman insan olarak var olmuştur.
 
 **REFERANSLAR**
 
