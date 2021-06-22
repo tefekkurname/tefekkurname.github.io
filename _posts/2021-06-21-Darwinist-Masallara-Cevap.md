@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "CNN’de Darwinist Masallar Tekrarlanıyor: Homo Naledi"
-description: Evrimcilerin savunduğu gibi ilk canlılık sıcak sularda, okyanuslarda yada çamurda oluşamaz. Bunun nedeni Kimya Kanunlarında geçen Le chatelier Prensibidir.
-excerpt: Proteinler oluşumu sırasında amino asitlerin belli bir sırada ve sayıda birbirine peptit bağı aracığı ile 3 boyutlu bir bağlanmayla birbirine bağlanırlar.
+description: Bilim gerçeğe ulaşmada önemli bir yoldur. Ancak kullanılan yöntemlerin tarafsız olması ve bilimsel gerçeklerden saptırılmaması şartıyla...
+excerpt: Ne var ki pek çok Darwinist çalışma ve araştırmada, çeşitli hayvan ve insan türleri arasında kıyaslama yapılırken aslında bilimsel gerçeklere değil kaba yöntemlere başvurulur.
 categories: [makale]
 tags: [makale]
 lang: tr
