@@ -27,7 +27,7 @@ Darwinistlerce iddia edildiğine göre nesli tükenen Denisovanlar, tıpkı Nean
 
 Yine iddiaya göre Denisovanlar yaklaşık 40-50 bin yıl önce de sonradan Afrika’dan göç eden bugünkü insanların atalarıyla gen alışverişinde bulunmuşlardı. Bundan yola çıkılarak bugün Papua Yeni Gine bölgesinde yaşayan insanların genlerinin %4’ü Denisovanlara ait gibi gösteriliyordu. Ancak Denisovanlar ne Asya’nın diğer bölgelerindeki insanlara ne de Avustralya, Yeni Zelanda, Endonezya gibi diğer Güneydoğu Asya insanlarına gen aktarımında bulunmuşlardı.
 
-![Denisovanlar](/assets/images/Spread_and_evolution_of_Denisovans%2520copy.jpg "Denisovanlar")
+![Denisovanlar](/assets/images/Spread-and-evolution-of-Denisovans.jpg "Denisovanlar")
 
 **BİR PARMAK KEMİĞİ PARÇASI VE İKİ DİŞ NASIL “YENİ TÜR” İLAN EDİLDİ?**
 
@@ -35,11 +35,11 @@ Birçok bilimsel araştırmaya ve makaleye konu olan, hayat hikayeleri oluşturu
 
 Fosillerin bulunduğu mağara aslında eski çağlarda birçok insan topluluğuna, hatta hayvanlara ev sahipliği yapmıştı. El aletleri ve süs eşyalarına da aynı katmanlarda rastlanmıştı. Bu kadar yoğun fosil kalıntılarının yer aldığı mağarada bulunan 0,5 cm çapında bir kemik parçasının, sözde yeni bir insansı türün sağ el 5. parmak orta falanks ucuna ait olduğu iddia edildi. Buna daha sonra iki adet azı dişi eklendi. Azı dişlerinin çapı biraz geniş, kökleri dışa doğru meyilliydi. Bunu da kendilerince yorumlayan Darwinistler bulunan kalıntıların günümüz insanına ait olamayacağını öne sürdüler.
 
-![Denisovanlar](/assets/images/Denisova_Phalanx_distalis.jpg "Denisovanlar")
+![Denisovanlar](/assets/images/Denisova.jpg "Denisovanlar")
 
 ![Denisovanlar](/assets/images/sn-Denisovans.png)
 
-![Denisovanlar](/assets/images/23ancestor-jumbo.jpg "Denisovanlar")
+![Denisovanlar](/assets/images/ancestor.jpg "Denisovanlar")
 
 Öncelikle bulunan kemik parçasının şekil itibariyle parmağa mı yoksa başka bir vücut bölgesine mi ait olduğu bile şüpheliyken bunun farklı bir türe ait olduğunu söylemek akıldan ve bilimsel yöntemden uzaklaşmaktır. Bulunan azı dişinin günümüz insanına küçük farklarla benzemiyor olması da bu kalıntıların yeni bir canlı türüne ait olduğu anlamına gelemez. Günümüzde yaşayan farklı ülkelerden insanları bile karşılaştırdığımızda, morfolojik farklılıklara sahip pek çok örnek görmek mümkündür. Bu yaşa, cinsiyete, yaşanılan bölgenin şartlarına, yapılan fiziksel işin ağırlığına, beslenme alışkanlıklarına veya tüketilen besine göre yine genlerin izin verdiği ölçüde farklılık gösterebilmektedir. Hatta çeşitli gen veya kemik hastalıklarında, ciddi yapısal bozukluklara da rastlamak mümkündür.
 
