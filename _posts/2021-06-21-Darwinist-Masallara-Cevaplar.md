@@ -11,12 +11,7 @@ image:
 feature: naledi.png
 ---
 
-
-
 ![New species of extinct human found in cave may rewrite history](/images/Homo-naledi-2.jpg "New species of extinct human found in cave may rewrite history"){:height="50%" width="50%" class="left"}
-
-
-
 
 
 Bilim gerçeğe ulaşmada önemli bir yoldur. Ancak kullanılan yöntemlerin tarafsız olması ve bilimsel gerçeklerden saptırılmaması şartıyla... Ne var ki pek çok Darwinist çalışma ve araştırmada, çeşitli hayvan ve insan türleri arasında kıyaslama yapılırken aslında bilimsel gerçeklere değil kaba yöntemlere başvurulur. Örneğin “Topografik anatomi” olarak isimlendirilen ve Darwinistlerce kullanılan bir yöntemde, kafatası büyüklüğü, kemik uzunluğu ve kalınlığı, kemiklerin eğri-düz oluşu, diş boyutu ve yerleşimi benzeri gözleme dayalı veriler değerlendirilerek, sözde türler arası akrabalık ilişkileri ortaya konmaya çalışılır. Mesela insanın sözde ortak atası olarak gösterilen maymunların kafatasları, hacimlerine göre küçükten büyüğe sıralanarak;
