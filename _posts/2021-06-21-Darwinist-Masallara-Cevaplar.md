@@ -63,7 +63,6 @@ Bütün bunlar göstermektedir ki; Homo Naledi hakkında anlatılan hikayeler bi
 
 **BİR ŞEMPANZEYİ ZORLA İNSANA BENZETMEYE ÇALIŞMAK**
 
-![Darwinis Masallara Cevaplar](/images/30383701.jpg "Darwinis Masallara Cevaplar"){:height="66%" width="66%" class="left"}
 Homo Naledi ile ilgili araştırmanın başında bulunan Lee Berger’in itirafına göre bu fosiller bilinen bir insan ırkı ile uyuşmamaktadır. Bu da Darwinist bilim adamlarının kalıntıları hemen “yeni bir tür” olarak adlandırmasına bir yol olmuştur. Örneğin Berger, “Australopithecuslar ile insan arasındaki boşluğu dolduran ara bir insansı (homo) türüdür” iddiasında bulunmuştur ancak bu tahminin taraflı ve önyargılı olduğu kemikler incelendiğinde açıkça anlaşılmaktadır.
 
 Oluşturulan bu toplama iskelet tüm özellikleri ile, şempanzelere benzemektedir. Omuz eklemleri ve eğimli parmak kemikleri dallardan sarkan maymunlarla aynıdır. Geniş kalça kemikleri ve aşağı doğru genişleyen göğüs kafesi ise Australopithecus maymunlarına özgüdür. Her ne kadar insan ayağına benzediği iddia edilse de, ayak kemikleri insanınkinden farklı olarak, düşük bir kavise sahip olup, yönünün de farklı olduğu yine aynı ekip tarafından kabul edilmektedir.
