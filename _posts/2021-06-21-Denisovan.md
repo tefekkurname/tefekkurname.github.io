@@ -13,8 +13,6 @@ image:
 
 
 
-/ 2016-10-03
-
 Bugünlerde Darwinizm savunuculuğuna soyunmuş bilimsel bazı dergi ve internet sitelerinde ortak bir hareketlenme yaşanıyor. Geçtiğimiz yıllarda bulunmuş, yetersizliği ve geçersizliği kanıtlanmış bazı canlı kalıntıları tekrar gündeme getiriliyor ve evrim delili gibi sunulmaya çalışılıyor.
 
 Bunun en son örneklerinden biri de sciencemag ve dailymail gibi sitelerde yayınlandı. Küçük bir parmak kemiği parçası ve birkaç diş gündeme getirilerek Darwinist hayal gücünü bir kere daha gösteren hikayeler makalelere konu edildi.
@@ -134,4 +132,6 @@ Toplumda ırkçı fikirleri besleyen, ayrıştırıcı ve bölücü akımların 
 
 
 Kaynak: https://web.archive.org/web/20161108000632/http://www.netcevap.org/makale/231337/Science%20Mag%E2%80%99den%20Uydurma%20Bir%20%E2%80%98%C4%B0nsans%C4%B1%E2%80%99%20Masal%C4%B1:%20Denisovanlar
+
+/ 2016-10-03
 
