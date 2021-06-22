@@ -13,7 +13,7 @@ image:
 
 
 
-![New species of extinct human found in cave may rewrite history](/images/30383701.jpg "New species of extinct human found in cave may rewrite history"){:height="50%" width="50%" class="left"}
+![New species of extinct human found in cave may rewrite history](/images/Homo-naledi-2.jpg "New species of extinct human found in cave may rewrite history"){:height="50%" width="50%" class="left"}
 
 
 
@@ -27,7 +27,7 @@ Bilim gerçeğe ulaşmada önemli bir yoldur. Ancak kullanılan yöntemlerin tar
 
 Kimi zaman bulunan tek bir diş veya birkaç kemik parçası, gerçekle ilgisi olmayan modellemelerle bütün bir vücut haline getirilmiş, hatta inandırıcılığının artması için o canlı hayal ürünü bir sosyal yaşam içinde resimlendirilerek sunulmuştur. Aynı dönemde yaşayan ve tamamen farklı olan türler, yine küçükten büyüğe dizilerek birbirinin sözde atası şeklinde gösterilmeye çalışılmıştır. Hatta bu uğurda ideolojik olarak yapılan bazı sahtekarlıklar kullanılarak “kayıp halka bulundu” şeklinde uydurma haberler hazırlanmış, sözde bilimsel makaleler basılmış, yıllarca müzelerde sahte fosiller sergilenmiştir.
 
-![Darwinis Masallara Cevaplar](/images/Homo-naledi-2.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
+![Darwinis Masallara Cevaplar](/images/30383701.jpg "Darwinis Masallara Cevaplar"){:height="50%" width="50%" class="left"}
 
 Bütün bu aldatmacaya bazı basın yayın organları da destek vermişler ve hatta klasik bir Darwinist taktik olarak eski iddiaları yeni gibi yansıtmakta da bir sakınca görmemişlerdir. Bunun son örneği de 2013 yılında Güney Afrika’da bulunan ancak 2015’te dünyaya duyurulan bazı fosilleri temel alan bir fosildir. Geçtiğimiz günlerde CNN, Scientific American, Dailymail gibi sitelerde bu konu yeni gibi lanse edilmiştir.
 
