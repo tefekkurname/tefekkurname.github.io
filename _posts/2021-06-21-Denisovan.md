@@ -35,7 +35,7 @@ Fosillerin bulunduğu mağara aslında eski çağlarda birçok insan topluluğun
 
 ![Denisovanlar](/images/Denisova.jpg "Denisovanlar")
 
-![Denisovanlar](/images/sn-Denisovans.png)
+![Denisovanlar](/images/sn-Denisovans.png "Denisovanlar")
 
 ![Denisovanlar](/images/ancestor.jpg "Denisovanlar")
 
@@ -125,13 +125,13 @@ Toplumda ırkçı fikirleri besleyen, ayrıştırıcı ve bölücü akımların 
 **REFERANSLAR**
 
 1. http://www.sciencemag.org/news/2016/03/our-ancestors-may-have-mated-more-once-mysterious-ancient-humans
-2\. http://www.nature.com/nature/journal/v468/n7327/full/nature09710.html
-3\. http://evolution.berkeley.edu/evolibrary/article/evo\_01
-4\. Richard E. Green, , 710 (2010)
-5\. http://www.nytimes.com/2010/05/07/science/07neanderthal.html
+2. http://www.nature.com/nature/journal/v468/n7327/full/nature09710.html
+3. http://evolution.berkeley.edu/evolibrary/article/evo\_01
+4. Richard E. Green, , 710 (2010)
+5. http://www.nytimes.com/2010/05/07/science/07neanderthal.html
 
+Kaynak: [CNN’de Darwinist Masallar Tekrarlanıyor: Homo Naledi](https://web.archive.org/web/20161108000632/http://www.netcevap.org/makale/231337/Science%20Mag%E2%80%99den%20Uydurma%20Bir%20%E2%80%98%C4%B0nsans%C4%B1%E2%80%99%20Masal%C4%B1:%20Denisovanlar)
 
-Kaynak: https://web.archive.org/web/20161108000632/http://www.netcevap.org/makale/231337/Science%20Mag%E2%80%99den%20Uydurma%20Bir%20%E2%80%98%C4%B0nsans%C4%B1%E2%80%99%20Masal%C4%B1:%20Denisovanlar
 
 / 2016-10-03
 
