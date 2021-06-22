@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Science Mag’den Uydurma Bir ‘İnsansı’ Masalı: Denisovanlar"
-description: Bugünlerde Darwinizm savunuculuğuna soyunmuş bilimsel bazı dergi ve internet sitelerinde ortak bir hareketlenme yaşanıyor. 
+description: Bugünlerde Darwinizm savunuculuğuna soyunmuş bilimsel bazı dergi ve internet sitelerinde ortak bir hareketlenme yaşanıyor.
 excerpt: Geçtiğimiz yıllarda bulunmuş, yetersizliği ve geçersizliği kanıtlanmış bazı canlı kalıntıları tekrar gündeme getiriliyor ve evrim delili gibi sunulmaya çalışılıyor.
 categories: [makale]
 tags: [makale]
 lang: tr
 feature_video: 
 image:
-feature: Denisovan-skulls.jpg
+  feature: Denisovan-skulls.jpg
 ---
+
 
 
 / 2016-10-03
@@ -133,3 +134,4 @@ Toplumda ırkçı fikirleri besleyen, ayrıştırıcı ve bölücü akımların 
 
 
 Kaynak: https://web.archive.org/web/20161108000632/http://www.netcevap.org/makale/231337/Science%20Mag%E2%80%99den%20Uydurma%20Bir%20%E2%80%98%C4%B0nsans%C4%B1%E2%80%99%20Masal%C4%B1:%20Denisovanlar
+
