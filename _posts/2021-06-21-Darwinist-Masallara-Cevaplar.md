@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN’de Darwinist Masallar Tekrarlanıyor: Homo Naledi"
+title: "CNN’de Darwinist Masallar Tekrarlanıyor Homo Naledi"
 description: Bilim gerçeğe ulaşmada önemli bir yoldur. Ancak kullanılan yöntemlerin tarafsız olması ve bilimsel gerçeklerden saptırılmaması şartıyla... 
 excerpt: Ne var ki pek çok Darwinist çalışma ve araştırmada, çeşitli hayvan ve insan türleri arasında kıyaslama yapılırken aslında bilimsel gerçeklere değil kaba yöntemlere başvurulur.
 categories: [makale]

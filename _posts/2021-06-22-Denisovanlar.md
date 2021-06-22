@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Science Mag’den Uydurma Bir ‘İnsansı’ Masalı: Denisovanlar"
+title: "Science Mag’den Uydurma Bir İnsansı Masalı Denisovanlar"
 description: Bugünlerde Darwinizm savunuculuğuna soyunmuş bilimsel bazı dergi ve internet sitelerinde ortak bir hareketlenme yaşanıyor. 
 excerpt: Geçtiğimiz yıllarda bulunmuş, yetersizliği ve geçersizliği kanıtlanmış bazı canlı kalıntıları tekrar gündeme getiriliyor ve evrim delili gibi sunulmaya çalışılıyor.
 categories: [makale]
