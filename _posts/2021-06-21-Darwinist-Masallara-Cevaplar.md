@@ -8,7 +8,7 @@ tags: [makale]
 lang: tr
 feature_video: 
 image:
-  feature: naledi.png
+feature: naledi.png
 ---
 
 
@@ -21,9 +21,9 @@ image:
 
 Bilim gerçeğe ulaşmada önemli bir yoldur. Ancak kullanılan yöntemlerin tarafsız olması ve bilimsel gerçeklerden saptırılmaması şartıyla... Ne var ki pek çok Darwinist çalışma ve araştırmada, çeşitli hayvan ve insan türleri arasında kıyaslama yapılırken aslında bilimsel gerçeklere değil kaba yöntemlere başvurulur. Örneğin “Topografik anatomi” olarak isimlendirilen ve Darwinistlerce kullanılan bir yöntemde, kafatası büyüklüğü, kemik uzunluğu ve kalınlığı, kemiklerin eğri-düz oluşu, diş boyutu ve yerleşimi benzeri gözleme dayalı veriler değerlendirilerek, sözde türler arası akrabalık ilişkileri ortaya konmaya çalışılır. Mesela insanın sözde ortak atası olarak gösterilen maymunların kafatasları, hacimlerine göre küçükten büyüğe sıralanarak;
 
-*   Sanki bir akrabalık ilişkisi olduğu ve zamanla beynin büyüdüğü;
-*   Böylece zeka ve sosyal yaşamın gitgide daha da geliştiği;
-*   Tüm bunların sonucunda ise günümüze gelindiği şeklinde bir algı oluşturulmak istenir.
+* Sanki bir akrabalık ilişkisi olduğu ve zamanla beynin büyüdüğü;
+* Böylece zeka ve sosyal yaşamın gitgide daha da geliştiği;
+* Tüm bunların sonucunda ise günümüze gelindiği şeklinde bir algı oluşturulmak istenir.
 
 Kimi zaman bulunan tek bir diş veya birkaç kemik parçası, gerçekle ilgisi olmayan modellemelerle bütün bir vücut haline getirilmiş, hatta inandırıcılığının artması için o canlı hayal ürünü bir sosyal yaşam içinde resimlendirilerek sunulmuştur. Aynı dönemde yaşayan ve tamamen farklı olan türler, yine küçükten büyüğe dizilerek birbirinin sözde atası şeklinde gösterilmeye çalışılmıştır. Hatta bu uğurda ideolojik olarak yapılan bazı sahtekarlıklar kullanılarak “kayıp halka bulundu” şeklinde uydurma haberler hazırlanmış, sözde bilimsel makaleler basılmış, yıllarca müzelerde sahte fosiller sergilenmiştir.
 
@@ -61,13 +61,17 @@ Bunun anlamı da şudur; eğer fosiller tahmin edildiğinden daha yaşlı veya g
 
 Bütün bunlar göstermektedir ki; Homo Naledi hakkında anlatılan hikayeler bilimsel delillere değil Darwinist önyargılara dayalıdır.
 
-**BİR ŞEMPANZEYİ ZORLA İNSANA BENZETMEYE ÇALIŞMAK**  
+**BİR ŞEMPANZEYİ ZORLA İNSANA BENZETMEYE ÇALIŞMAK**
+
+![Darwinis Masallara Cevaplar](/images/30383701.jpg "Darwinis Masallara Cevaplar"){:height="66%" width="66%" class="left"}
 Homo Naledi ile ilgili araştırmanın başında bulunan Lee Berger’in itirafına göre bu fosiller bilinen bir insan ırkı ile uyuşmamaktadır. Bu da Darwinist bilim adamlarının kalıntıları hemen “yeni bir tür” olarak adlandırmasına bir yol olmuştur. Örneğin Berger, “Australopithecuslar ile insan arasındaki boşluğu dolduran ara bir insansı (homo) türüdür” iddiasında bulunmuştur ancak bu tahminin taraflı ve önyargılı olduğu kemikler incelendiğinde açıkça anlaşılmaktadır.
 
 Oluşturulan bu toplama iskelet tüm özellikleri ile, şempanzelere benzemektedir. Omuz eklemleri ve eğimli parmak kemikleri dallardan sarkan maymunlarla aynıdır. Geniş kalça kemikleri ve aşağı doğru genişleyen göğüs kafesi ise Australopithecus maymunlarına özgüdür. Her ne kadar insan ayağına benzediği iddia edilse de, ayak kemikleri insanınkinden farklı olarak, düşük bir kavise sahip olup, yönünün de farklı olduğu yine aynı ekip tarafından kabul edilmektedir.
 
 Darwinistlerce, Australopithecus Afarensis sözde evrim ağacında ilk ata kabul edilmesine karşın, canlının başparmaklarının günümüz şempanze ve maymunlarından daha uzun olduğu saptanmıştır. Bu özellik evrim iddiasına tamamen terstir. Homo Naledi’nin başparmağı ise Australopithecus Afarensis’ten biraz daha uzundur. Bu da ileriye doğru genişleyen hayali evrim ağacını çürüten bir bulgudur. Bu haliyle insanın parmağına hiç benzememekle beraber, Homo Naledi kalıntıları hayali evrim soy ağacında “insansı” olarak tabir edilen türlerden de oldukça farklıdır.
 
+
+![Darwinis Masallara Cevaplar](/images/hand-and-feet-homo-naledi.jpg "Darwinis Masallara Cevaplar"){:height="66%" width="66%" class="left"}
 Homo Naledi’nin eli hiçbir şekilde insan eline benzememekte, eğimli parmak kemikleri ve diğer maymunsu özellikleri bize, canlının daldan dala atlayan bir maymun olduğunu göstermektedir. Darwinistler her ne kadar bir şempanzeyi insana benzetmeye çalışsalar da bu el yapısının herhangi bir aleti insan gibi kavrayıp, kullanması imkansızdır. Bununla beraber, kemiklerin bulunduğu mağarada insan kültürüne dair herhangi bir alet ya da eşya da bulunmamıştır.
 
 Üstelik Dinaledi mağarasında bulunan dişler de insan dişlerine hiç benzememektedir. Bu dişler Australopithecus serisi maymunlarda görülen dişlerden daha küçük bir maymun dişine benzemektedir ve insana benzerliği söz konusu değildir.
