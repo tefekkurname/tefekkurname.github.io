@@ -20,7 +20,8 @@ image:
 Söz konusu makalede, yazar Nidhal Guessoum’un gerçek ile hiçbir şekilde bağdaşmayan pek çok yanılgıya kapıldığı görülmektedir. Yazarın yanılgılarını şöyle sıralamak mümkündür:
 
 ![elements](/images/Evrim-Teorisi-Darwin.jpg "elements")
-**1\. Nidhal Guessoum Kuran’ın evrimi yalanlamadığını iddia etmiş, Allah’ın evreni evrim yoluyla yarattığı yanılgısını savunmuştur.**
+
+**1. Nidhal Guessoum Kuran’ın evrimi yalanlamadığını iddia etmiş, Allah’ın evreni evrim yoluyla yarattığı yanılgısını savunmuştur.**
 
 Ne var ki bu, diğer bazı Müslümanların da içine düşebildiği çok büyük bir yanılgıdır. Kuran’da yaratılışın evrimle olduğuna dair hiçbir bilgi ya da işaret bulunmaz. Diğer bir anlatımla, Kuran’da, canlıların birbirlerinden türediği ve aralarında evrimsel bir bağ olduğu fikrini destekleyen tek bir ayet dahi yer almaz. Aksine Kuran"da, Allah’ın canlılığı ve evreni tek bir anda ve "Ol" emriyle mucizevi şekilde var ettiği bildirilir. Allah dilediğini dilediği şekilde ve zamanda, örneksiz olarak yoktan var edendir.
 
