@@ -19,6 +19,7 @@ image:
 
 Söz konusu makalede, yazar Nidhal Guessoum’un gerçek ile hiçbir şekilde bağdaşmayan pek çok yanılgıya kapıldığı görülmektedir. Yazarın yanılgılarını şöyle sıralamak mümkündür:
 
+![elements](/images/Evrim-Teorisi-Darwin.jpg "elements")
 **1\. Nidhal Guessoum Kuran’ın evrimi yalanlamadığını iddia etmiş, Allah’ın evreni evrim yoluyla yarattığı yanılgısını savunmuştur.**
 
 Ne var ki bu, diğer bazı Müslümanların da içine düşebildiği çok büyük bir yanılgıdır. Kuran’da yaratılışın evrimle olduğuna dair hiçbir bilgi ya da işaret bulunmaz. Diğer bir anlatımla, Kuran’da, canlıların birbirlerinden türediği ve aralarında evrimsel bir bağ olduğu fikrini destekleyen tek bir ayet dahi yer almaz. Aksine Kuran"da, Allah’ın canlılığı ve evreni tek bir anda ve "Ol" emriyle mucizevi şekilde var ettiği bildirilir. Allah dilediğini dilediği şekilde ve zamanda, örneksiz olarak yoktan var edendir.
@@ -41,7 +42,7 @@ Kuşkusuz bu da çok büyük bir yanılgıdır. Nitekim insanın çamurdan yarat
 
 İnsan dokuları incelendiğinde yeryüzünde bulunan pek çok elementin dokularda da bulunduğu görülmektedir. Canlı dokuların %95"i karbon (C), hidrojen (H), oksijen (O), nitrojen (N), fosfor (P) ve sülfür (S)"den oluşur ve canlı dokularda toplam 26 element bulunur. **“Andolsun, Biz insanı, süzme bir çamurdan yarattık.”** (Müminun Suresi, 12) ayetinde geçen ve Türkçe’ye "süzme" olarak çevrilen kelimenin orijinali Arapça "sulale" kelimesidir ve "temsili örnek, öz, hulasa, esas" gibi anlamlara gelmektedir. Görüldüğü gibi, modern bilim insanın çamurdan; karbon, hidrojen, nitrojen, fosfor, sülfür gibi yeryüzünde bulunan elementlerden meydana geldiğini ortaya koyarak Kuran’ın 1400 yıl önce haber verdiği gerçeği teyit etmektedir.
 
-![](NETcevap.org_dosyalar/The Huffington Post yazarı Nidhal Guessoum"un evrim yanılgıları)
+![elements](/images/essential-elements-in-human-body.png "elements")
 
 Ortalama 70 kiloluk bir insanın vücudunda bulunan elementlerin dağılımı
 
