@@ -19,7 +19,7 @@ image:
 
 Söz konusu makalede, yazar Nidhal Guessoum’un gerçek ile hiçbir şekilde bağdaşmayan pek çok yanılgıya kapıldığı görülmektedir. Yazarın yanılgılarını şöyle sıralamak mümkündür:
 
-![elements](/images/Evrim-Teorisi-Darwin.jpg "elements")
+![elements](/images/Evrim-Teorisi-Darwin.jpg "elements"){:height="50%" width="50%" class="left"}
 
 **1. Nidhal Guessoum Kuran’ın evrimi yalanlamadığını iddia etmiş, Allah’ın evreni evrim yoluyla yarattığı yanılgısını savunmuştur.**
 
