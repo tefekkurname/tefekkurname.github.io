@@ -15,13 +15,13 @@ image:
 
 
 
+![Evrim](/images/Evrim-Teorisi-Darwin.jpg "Evrim"){:height="50%" width="50%" class="left"}
 4 Ocak 2012 tarihinde Amerikan haber sitesi The Huffington Post’ta “İslam, evrimin derslerde okutulmasını yasaklar mı?” başlıklı bir makale yayınlanmıştır. Birleşik Arap Emirlikleri’ndeki Sharjah Amerikan Üniversitesi’nde fizik ve astronomi profesörü olan yazar Nidhal Guessoum’un kaleme aldığı makalede, bir süre önce İngiltere’deki Müslüman öğrencilerin derslerde evrim okumak istemedikleriyle ilgili uluslararası medyada geniş yer bulan haber ele alınmıştır.
 
 Söz konusu makalede, yazar Nidhal Guessoum’un gerçek ile hiçbir şekilde bağdaşmayan pek çok yanılgıya kapıldığı görülmektedir. Yazarın yanılgılarını şöyle sıralamak mümkündür:
 
 
 **1. Nidhal Guessoum Kuran’ın evrimi yalanlamadığını iddia etmiş, Allah’ın evreni evrim yoluyla yarattığı yanılgısını savunmuştur.**
-![elements](/images/Evrim-Teorisi-Darwin.jpg "elements"){:height="50%" width="50%" class="left"}
 
 Ne var ki bu, diğer bazı Müslümanların da içine düşebildiği çok büyük bir yanılgıdır. Kuran’da yaratılışın evrimle olduğuna dair hiçbir bilgi ya da işaret bulunmaz. Diğer bir anlatımla, Kuran’da, canlıların birbirlerinden türediği ve aralarında evrimsel bir bağ olduğu fikrini destekleyen tek bir ayet dahi yer almaz. Aksine Kuran"da, Allah’ın canlılığı ve evreni tek bir anda ve "Ol" emriyle mucizevi şekilde var ettiği bildirilir. Allah dilediğini dilediği şekilde ve zamanda, örneksiz olarak yoktan var edendir.
 
