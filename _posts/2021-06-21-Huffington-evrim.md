@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Huffington Post yazarı Nidhal Guessoum"un evrim yanılgıları"
+title: "The Huffington Post yazarı Nidhal Guessoum’un evrim yanılgıları"
 description: “4 Ocak 2012 tarihinde Amerikan haber sitesi The Huffington Post’ta ’İslam, evrimin derslerde okutulmasını yasaklar mı?’ başlıklı bir makale yayınlanmıştır.“
 excerpt: Birleşik Arap Emirlikleri’ndeki Sharjah Amerikan Üniversitesi’nde fizik ve astronomi profesörü olan yazar Nidhal Guessoum’un kaleme aldığı makalede, bir süre önce İngiltere’deki Müslüman öğrencilerin derslerde evrim okumak istemedikleriyle ilgili uluslararası medyada geniş yer bulan haber ele alınmıştır.
 categories: [makale]
