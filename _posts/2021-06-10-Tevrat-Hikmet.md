@@ -730,4 +730,95 @@ image:
 
 
 
-- Erdemlinin doğruluğu onu kurtarır, ama haini kendi hırsı ele verir. (Süleyman'ın Özdeyişleri, 11:6)
+- Erdemlinin doğruluğu onu kurtarır, ama haini kendi hırsı ele verir. (Süleyman'ın Özdeyişleri, 11:6
+
+
+- Doğruluk dürüst yaşayanı korur, kötülük günahkarı yıkar. (Süleyman'ın Özdeyişleri, 13:6)
+
+- Doğru kişi sıkıntıdan kurtulur, onun yerine sıkıntıyı kötü kişi çeker. (Süleyman'ın Özdeyişleri, 11:8)
+
+- Rab sapkın yürekliden iğrenir, dürüst yaşayandan hoşnut kalır. (Süleyman'ın Özdeyişleri, 11:20)
+
+- Yoksulları adaletle yargılayacak, yeryüzünde ezilenler için dürüstçe karar verecek... (Yeşaya, 11:4)
+
+- Doğru adamın yolu düzdür… (Yeşaya, 26:7)
+
+- Rab halkları yargılar; beni de yargıla, ya Rab, doğruluğuma, dürüstlüğüme göre. (Mezmurlar, 7:8)
+
+- Ahmaklar suç sunusuyla alay eder, dürüstler ise iyi niyetlidir. (Süleyman'ın Özdeyişleri, 14:9)
+
+- Bu nedenle sen iyilerin yolunda yürü, doğruların izinden git. Çünkü ülkede yaşayacak olan doğrulardır, dürüst kişilerdir orada kalacak olan. Kötüler ülkeden sürülecek, hainler sökülüp atılacak. (Süleyman'ın Özdeyişleri, 2:20-22)
+
+- Dürüst davranmaya özen göstereceğim... (Mezmurlar, 101:2)
+
+- Doğru ve dürüst bir babaya sahip olan çocuklara ne mutlu! (Süleyman'ın Özdeyişleri, 20:7)
+
+- Doğru kişi esenliğe kavuşur... (Yeşaya, 57:2)
+
+- Çünkü Rab Allah bir güneş, bir kalkandır. Lütuf ve yücelik sağlar; dürüstçe yaşayanlardan hiçbir iyiliği esirgemez. (Mezmurlar, 84:11)
+
+- … Bana dürüst yaşayan kişi hizmet edecek. (Mezmurlar, 101:6)
+
+- Karanlıkta ışık doğar dürüstler için, lütfeden, sevecen, doğru insanlar için. (Mezmurlar, 112:4)
+
+- Kuşkusuz doğrular Senin adına şükredecek, dürüstler Senin huzurunda oturacak. (Mezmurlar, 140:13)
+
+- Dürüst yaşayan bir yoksul olmak, yalancı bir akılsız olmaktan yeğdir. (Süleyman'ın Özdeyişleri, 19:1)
+
+- Dürüst bir yoksul olmak, yolsuzlukla zengin olmaktan yeğdir. (Süleyman'ın Özdeyişleri, 28:6)
+
+- Bunun yanı sıra halkın arasından Allah'tan korkan, yetenekli, haksız kazançtan nefret eden dürüst adamlar seç; onları biner, yüzer, ellişer, onar kişilik toplulukların başına önder ata. (Mısır'dan Çıkış, 18:21)
+
+- Kötüler… dürüstlüğün egemen olduğu diyarda haksızlık eder, Rab'bin büyüklüğünü görmezler. (Yeşaya, 26:10)
+
+- Çünkü dürüst bir yaşam sürdüm; sarsılmadan Rab'be güvendim. (Mezmurlar, 26:1)
+
+- Onların elleri kötülük aletidir, sağ elleri rüşvet doludur. Ama ben dürüst yaşarım, kurtar beni, lütfet bana! (Mezmurlar, 26:10-11)
+
+- Tapınakta çalışanlara para ödemekle görevli kişiler öyle dürüst insanlardı ki, onlara hesap bile sorulmazdı. (2. Krallar, 12:15)
+
+- … O sana bağlı, doğru, bütün yüreğiyle dürüst biri olarak yolunda yürüdü... (1. Krallar, 3:6)
+
+- … Yaşayan Rab'bin adıyla derim ki, sen dürüst bir kişisin… (1. Samuel, 29:6)
+
+- Kana susamışlar dürüst kişiden nefret eder, doğrularsa onun canını korur. (Süleyman'ın Özdeyişleri, 29:10)
+
+- Doğrular haksızlardan iğrenir, kötüler de dürüst yaşayanlardan. (Süleyman'ın Özdeyişleri, 29:27)
+
+- Rab'bin önünde sakin dur, sabırla bekle; kızıp üzülme işi yolunda olanlara, kötü amaçlarına kavuşanlara. (Mezmurlar, 37:7)
+
+- Rab'bi sabırla bekledim... yakarışımı duydu. (Mezmurlar, 40:1)
+
+- Huysuz kişi çekişme yaratır, sabırlı kişi kavgayı yatıştırır. (Süleyman'ın Özdeyişleri, 15:18)
+
+- Sabırlı kişi yiğitten üstündür, kendini denetleyen de kentler fethedenden üstündür. (Süleyman'ın Özdeyişleri, 16:32)
+
+- Sağduyulu kişi sabırlıdır, kusurları hoş görmesi ona onur kazandırır. (Süleyman'ın Özdeyişleri, 19:11)
+
+- Bir olayın sonu başlangıcından iyidir. Sabırlı kibirliden iyidir. (Vaiz, 7:8)
+
+- İnsanın ruhu hastalıkta ona destektir. Ama ezik ruh nasıl dayanabilir? (Süleyman'ın Özdeyişler, 18:14)
+
+- Sevgiyi, sadakati hiç yanından ayırma, bağla onları boynuna, yaz yüreğinin levhasına. Böylece Allah'ın ve insanların gözünde beğeni ve saygınlık kazanacaksın. (Süleyman'ın Özdeyişleri, 3:3-4)
+
+- Ataları gibi inatçı, başkaldırıcı, yüreği kararsız, Allah'a sadakatsiz bir kuşak olmasınlar. (Mezmurlar, 78:8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
