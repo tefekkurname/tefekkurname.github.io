@@ -10,12 +10,12 @@ keywods: evrim, Kuran,  yasak
 lang: tr
 feature_video: 
 image:
-  feature: huff.jpg
+  feature: Evrim-Teorisi-Darwin.jpg
 ---
 
 
 
-![Evrim](/images/Evrim-Teorisi-Darwin.jpg "Evrim"){:height="50%" width="50%" class="left"}
+![Evrim](/images/huff.jpg "Evrim"){:height="50%" width="50%" class="left"}
 4 Ocak 2012 tarihinde Amerikan haber sitesi The Huffington Post’ta “İslam, evrimin derslerde okutulmasını yasaklar mı?” başlıklı bir makale yayınlanmıştır. Birleşik Arap Emirlikleri’ndeki Sharjah Amerikan Üniversitesi’nde fizik ve astronomi profesörü olan yazar Nidhal Guessoum’un kaleme aldığı makalede, bir süre önce İngiltere’deki Müslüman öğrencilerin derslerde evrim okumak istemedikleriyle ilgili uluslararası medyada geniş yer bulan haber ele alınmıştır.
 
 Söz konusu makalede, yazar Nidhal Guessoum’un gerçek ile hiçbir şekilde bağdaşmayan pek çok yanılgıya kapıldığı görülmektedir. Yazarın yanılgılarını şöyle sıralamak mümkündür:
