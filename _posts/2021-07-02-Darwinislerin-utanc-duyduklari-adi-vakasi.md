@@ -37,7 +37,7 @@ Hemen her soyu tükenmiş maymun türü için evrimcilerin ortaya attıkları bu
 
 **_Homo habilis_** **Aldatmacasını Her Fırsatta Kullanan Darwinistler**
 
-**![](/web/20150708035617im_/http://www.netcevap.org/image/homo-habilis_NC_sahtejpg.jpg)**
+![Homo habilis](/images/500/homo-habilis_NC_sahtejpg.jpg){:height="50%" width="50%" class="left"}
 
 Daha henüz tek bir proteinin bile oluşumunu açıklayamayan Darwinistlerin ünlü bir _Homo habilis_ iddiaları vardır. Darwinistler, genellikle soyu tükenmiş maymun fosillerini alır ve bunları bir anda _Homo habilis_ ilan ederler. Fosille ilgili her şey onun bir maymun türünden başka bir şey olmadığını açıkça gösterirken Darwinistler, ellerinde hazır soyu tükenmiş bir fosil varken bunu kendilerince en iyi şekilde kullanmaya ve spekülasyonlarının bir parçası haline getirmeye çalışırlar. Bunun için de en ikna edici olan yol, “kolları bacakları, kafatası hacmi, büyüklüğü, uzunluğu vs., kısacası fosillerin gösterdiği tüm özellikler onun maymun olduğunu gösteriyor ama bu canlı muhtemelen dik yürüyordu” demektir. İşte bu yolla soyu tükenmiş her maymun fosilinin dik yürüdüğü “farzedilir” ve fosil, Darwinistler tarafından bir anda “_Homo habilis_”, yani hayali “maymun atamız” haline getirilir.
 
