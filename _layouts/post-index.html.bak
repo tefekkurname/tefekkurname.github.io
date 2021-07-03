@@ -30,15 +30,12 @@
     <h1>{{ page.title }}</h1>
     {% for post in site.posts %}  
       {% if post.categories contains page.category %}
-      <ul>
+      <article>
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
-          <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url('/images/{{ post.image.feature }}'); background-size: cover">&nbsp;</span>
-          
-   
-          
-          <h2>{{ post.title}}<hr><span>{{post.date | date: '%F'}}</span></h2>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span class='post-image'  style="background: url('/images/{{ post.image.feature }}'); background-size: cover">&nbsp;</span>
+          <h2>{{ post.title | truncate: 25}}<hr><span>{{post.date | date: '%F'}}</span></h2>
            {% if post.categories contains 'video' or post.categories contains 'belgesel' %}
           <h4>İZLE...</h4>
           {% elsif post.categories contains 'makale' %}
@@ -47,10 +44,10 @@
           {% elsif post.categories contains 'article' %}
           <h4>READ...</h4>
           {% endif %}
-          </a></li>
+          </a>
           <!--<p>{{ post.excerpt | strip_html | truncate: 160 }}</p> -->
         {% endif %}
-      </ul>
+      </article>
       {% endif %}
     {% endfor %}
   </div><!-- /#index -->
