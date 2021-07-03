@@ -32,7 +32,7 @@ Güney Afrika’da Malapa mağarasında 2008 yılında bulunan fosil, iki canlı
 
 Henüz tek bir proteini açıklayamayan Darwinistler, bu yeni fosillerin hayali “atamız” olduğunu iddia ettiler. Ancak bir metreye ulaşan boyları, 420-450 cc büyüklüğündeki beyin hacimleri (insanın 1200-1600 cc’lik beyin hacmine göre bu oran oldukça küçüktür), ağaçlara tırmanmalarını sağlayacak orangutanlarınkinden farksız uzun kolları, kısa bacakları kısaca tüm özellikleriyle tam anlamıyla birer maymun türü oldukları anlaşılan bu iki canlı fosili, bütün bu delillere rağmen her nedense Darwinistler tarafından “dik yürüyen canlılar” olarak ilan edildiler.
 
-Hemen her soyu tükenmiş maymun türü için evrimcilerin ortaya attıkları bu meşhur dik yürüme iddiasının elbette ki bu defa da hiçbir dayanağı yoktur. Konu hakkında tek bir delil bile sunulmamıştır. Fosiller yalnızca bu canlıların birer maymun türü olduğunu ortaya koymaktadır. Yapılmak istenen şey, tıpkı [Ardi](https://web.archive.org/web/20150708035617/http://tr1.harunyahya.com/Detail/T/7EZU2FZ0164/productId/19508/) aldatmacasında olduğu gibi, mükemmel bir şempanzeyi dik yürüyor göstererek insanın sahte evrimine sahte bir ara form oluşturabilmektir. Fakat tıpkı Ardi’de olduğu gibi bu iddia da tamamen delilsizdir, kesin olarak uydurmadır. Dahası yine tıpkı Ardi yaygarasında olduğu gibi Darwinistlerin çoğu bu yaygaradan duydukları utancı açıkça dile getirmektedirler.  
+Hemen her soyu tükenmiş maymun türü için evrimcilerin ortaya attıkları bu meşhur dik yürüme iddiasının elbette ki bu defa da hiçbir dayanağı yoktur. Konu hakkında tek bir delil bile sunulmamıştır. Fosiller yalnızca bu canlıların birer maymun türü olduğunu ortaya koymaktadır. Yapılmak istenen şey, tıpkı [Ardi](https://web.archive.org/web/20150708035617/http://tr1.harunyahya.com/Detail/T/7EZU2FZ0164/productId/19508/) aldatmacasında olduğu gibi, mükemmel bir şempanzeyi dik yürüyor göstererek insanın sahte evrimine sahte bir ara form oluşturabilmektir. Fakat tıpkı Ardi’de olduğu gibi bu iddia da tamamen delilsizdir, kesin olarak uydurmadır. Dahası yine tıpkı Ardi yaygarasında olduğu gibi Darwinistlerin çoğu bu yaygaradan duydukları utancı açıkça dile getirmektedirler.
  
 
 **_Homo habilis_** **Aldatmacasını Her Fırsatta Kullanan Darwinistler**
@@ -83,16 +83,16 @@ Allah ayetlerinde şöyle buyurur:
 
 **
 
-\[1\] Paleoanthropologists Disown Homo habilis from Our Direct Family Tree,   
+\[1\] Paleoanthropologists Disown Homo habilis from Our Direct Family Tree,
 http://www.evolutionnews.org/2007/08/paleoanthropologists\_disown\_ho.html
 
-\[2\] Carl Zimmer, Yet Another "Missing Link", Slate, Posted Thursday, April 8, 2010,  
+\[2\] Carl Zimmer, Yet Another "Missing Link", Slate, Posted Thursday, April 8, 2010,
 http://www.slate.com/id/2250212/pagenum/all/#p2
 
-\[3\] Michael Cherry, Claim over "human ancestor" sparks furore, Published online 8 April 2010,   
+\[3\] Michael Cherry, Claim over "human ancestor" sparks furore, Published online 8 April 2010,
 http://www.nature.com/news/2010/100408/full/news.2010.171.html
 
-\[4\]Michael Cherry, Claim over "human ancestor" sparks furore, Published online 8 April 2010,   
+\[4\]Michael Cherry, Claim over "human ancestor" sparks furore, Published online 8 April 2010,
 http://www.nature.com/news/2010/100408/full/news.2010.171.html
 
 **
