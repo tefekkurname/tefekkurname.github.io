@@ -23,11 +23,9 @@ Bu açıklamaları yapmadan önce Darwinizm hakkındaki asıl önemli gerçeği,
 
 Darwinist iddiaların tamamı sahtedir. Bu gerçek, bilimsel delillerle çalışmalarımızda detaylı açıklanmıştır. Yapılan spekülasyonların geçersizliğini bir kere daha göstermek adına bu cevap yazılmaktadır. Fakat asıl olarak Darwinizm tek bir protein karşısında bitmiştir. Sahte Darwinist iddialarla karşı karşıya kalındığında mutlaka öncelikli olarak bu gerçek akılda tutulmalıdır.
 
-**
 
 **Tek Bir Proteini Açıklayamayan Darwinistlerin _Australopithecus Sediba_ Aldatmacaları**
 
-**
 ![australopithecus-sediba](/images/500/australopithecus-sediba-NC.jpg){:height="50%" width="50%" class="left"}
 
 Güney Afrika’da Malapa mağarasında 2008 yılında bulunan fosil, iki canlıya ait parçalardan oluşuyordu. Darwinistler bulunan parçaların “tam bir iskelet” oluşturduğunu iddia ettiler. Ne var ki bu fosiller aslında tek bir kafatasından ve iki canlıya ait birkaç tane kemikten ibaretti. Daha açık bir deyişle ortada Darwinistlerin iddia ettiği gibi tam bir iskelet yoktu. Fakat elbette daha önce tek bir serçe parmak fosilinden hayali bir canlının sosyal ortamda kapsamlı rekonstrüksiyonunu yapmaktan çekinmeyen Darwinistler için bulunan kemik miktarı, üzerinde bolca spekülasyon yapmaya yetecek miktardaydı.
