@@ -15,7 +15,7 @@ image:
 
 Darwinist yayınlar, yine büyük bir elbirliği içinde son günlerde oldukça ilginç görünümlü bir canlının resmini manşetten yayınladılar. Evrimcilerin ürettikleri hayali resmi aşağıda görülen bu garip canlı, tüm dünyaya bir anda “Üçüncü tür” olarak tanıtıldı. Gazeteler Darwinist iddiaları destekleme amaçlı çarpıcı başlıklar attılar, “Bilinmeyen bir insansı!”, “Büyük Keşif, Ne Neandertal ne Homo sapiens”, “İnsanlık Tarihini Yeniden Yazacak Gelişme”... Haberin altına da şu resmi koydular:
 
-![mitochondrial dna](/images/501/SAHTE.jpg)){:height="50%" width="50%"}
+![mitochondrial dna](/images/501/SAHTE.jpg){:height="50%" width="50%"}
 
 Yukarıdaki bu resmin ve yapılan bu şok edici propagandanın tek kaynağı ise YALNIZCA BİR SERÇE PARMAĞI KEMİĞİ FOSİLİ idi.
 
