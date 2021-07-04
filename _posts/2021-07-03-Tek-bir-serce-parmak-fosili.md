@@ -78,13 +78,13 @@ Tek bir protein karşısında bu kadar acizken, henüz hayatın başlangıcı il
 
 ![mitokondriyal dna analizleri neden guvenilmezdir](/images/501/mitokondriyal-dna-analizleri-neden-guvenilmezdir.jpg){:height="50%" width="50%" class="left"}
 
-> \-tek bir proteini laboratuvarda üretemediği halde çamurlu suda ilk hücrenin kendi kendine meydana geldiğini savunan,
-> 
-> \-genetik bilgi eklenmesinin mümkün olmadığını, mutasyonların öldürücü olduğunu bile bile tüm türlerin tesadüfi mutasyonlarla birbirine dönüştüğünü iddia eden,
-> 
-> \-maymunu (veya yeni iddialarına göre maymunun da atası olan garip bir mahluku) ataları olarak kabul eden,
-> 
-> \-ve asıl olarak da yeryüzündeki tüm muhteşem canlı çeşitliliğinin ve moleküler düzeyde hayranlık uyandırıcı kompleksliğin tamamen TESADÜFLERE ait olduğunu anlatan Darwinistler,
+\-tek bir proteini laboratuvarda üretemediği halde çamurlu suda ilk hücrenin kendi kendine meydana geldiğini savunan,
+
+\-genetik bilgi eklenmesinin mümkün olmadığını, mutasyonların öldürücü olduğunu bile bile tüm türlerin tesadüfi mutasyonlarla birbirine dönüştüğünü iddia eden,
+
+\-maymunu (veya yeni iddialarına göre maymunun da atası olan garip bir mahluku) ataları olarak kabul eden,
+
+\-ve asıl olarak da yeryüzündeki tüm muhteşem canlı çeşitliliğinin ve moleküler düzeyde hayranlık uyandırıcı kompleksliğin tamamen TESADÜFLERE ait olduğunu anlatan Darwinistler,
 
 hala bunlar kadar mantıksız iddialar ortaya atabilmektedirler.Böylesine bir hikaye, dünyanın en tanınmış dergilerinde, internet sitelerinde, kıdemli bilim adamları tarafından oldukça sakin bir şekilde anlatılmaktadır. Söz konusu profesörler konu hakkında konferanslar vermekte, insanlarla birebir muhatap olarak, onların yüzlerine karşı bu akıl almaz hikayeyi pervasızca anlatmaktadırlar. Tek bir parmak fosilinden türettikleri utanç verici insan resimlerini, büyük bir gururla, hiç çekinmeden göstermektedirler.
 
