@@ -13,8 +13,6 @@ image:
 feature: 501/Mitochondria2.jpg
 ---
 
-
-
 Darwinist yayınlar, yine büyük bir elbirliği içinde son günlerde oldukça ilginç görünümlü bir canlının resmini manşetten yayınladılar. Evrimcilerin ürettikleri hayali resmi aşağıda görülen bu garip canlı, tüm dünyaya bir anda “Üçüncü tür” olarak tanıtıldı. Gazeteler Darwinist iddiaları destekleme amaçlı çarpıcı başlıklar attılar, “Bilinmeyen bir insansı!”, “Büyük Keşif, Ne Neandertal ne Homo sapiens”, “İnsanlık Tarihini Yeniden Yazacak Gelişme”... Haberin altına da şu resmi koydular:
 
 Yukarıdaki bu resmin ve yapılan bu şok edici propagandanın tek kaynağı ise YALNIZCA BİR SERÇE PARMAĞI KEMİĞİ FOSİLİ idi.
@@ -62,7 +60,7 @@ Bu sorunun tek bir cevabı vardır: Darwinistler tamamen hayali bir senaryo dahi
 
 Bu yeni buluş ile ilgili asıl gerçekler ise şunlardır: Bulunan serçe parmağı fosili, bir insana aittir. Bu insan günümüz insanının aynısıdır. Şu an dünyada nasıl farklı insan ırkları – eskimolar, zenciler anglo-saxonlar, Kafkasyalılar vs. – varsa, o dönemde de aynı şekilde farklı türler bulunmaktadır. Bu canlı da o dönemde yaşayan ırklar arasından birini temsil etmektedir. Söz konusu fosilin yanında bulunan bilezik gibi süs eşyaları da, bu canlıların günümüzden yaklaşık 40.000 yıl önce aynı günümüzdeki şekilde süs ve estetik anlayışına sahip olduklarını açıkça göstermektedir. Fosil ile ilgili araştırmayı yürüten Almanya’daki Max Planck Enstitüsü Evrimsel Antropoloji bölümünden Johannes Krause, söz konusu bulgular ile ilgili BBC News’e şu açıklamayı yapmıştır:
 
-> Elimizde çeşitli süsler var, bir bilezik bulduk, dolayısıyla fosilin bulunduğu katmanda genellikle modern insan arkeolojisi ile ilişkilendirilen çeşitli elementler bulunmakta.**5**
+Elimizde çeşitli süsler var, bir bilezik bulduk, dolayısıyla fosilin bulunduğu katmanda genellikle modern insan arkeolojisi ile ilişkilendirilen çeşitli elementler bulunmakta.**5**
 
 Nitekim Neandertaller de bu insan ırklarından biridir. Darwinistler Neandertallerin sözde ilkel insanlar olduklarını iddia ederler. . Oysa onlar, günümüz insan ırklarından farksızdırlar. Haklarında yapılan spekülasyonların tek dayanak noktası bu ırkın soyunun tükenmiş olmasıdır. Tıpkı soyu tükenmiş maymun türlerinin Darwinist aldatmacaya sürekli olarak malzeme olması gibi, bu insan ırkı da soyu tükendiği için sürekli Darwinist aldatmacadan nasibini almaktadır.
 
@@ -97,9 +95,9 @@ Artık Darwinistler için meydan boş değildir. Ürettikleri her yeni hikayede 
 Darwinist oyunlar, asla başarıya ulaşamaz. Çünkü bu Yüce Allah’ın kanunudur. Bu sahte teori, tüm dünyada, mutlaka büyük bir hüsran ve başarısızlıkla haşmetli bir yıkıma uğrayacaktır. Rabbimiz bu yıkılışın delillerini şu anda bize sayısız ve ihtişamlı şekilde göstermektedir. Yüce Allah’ın yarattığı kader, en güzel şekilde tecelli edecektir.
  
 
-> **Haberin olsun, göktekilerin ve yerdekilerin tümü gerçekten Allah"ındır. Haberin olsun; şüphesiz Allah"ın va"di haktır; ancak onların çoğu bilmezler. (Yunus Suresi, 55)**
-> 
-> \--------------------------------------
+**Haberin olsun, göktekilerin ve yerdekilerin tümü gerçekten Allah"ındır. Haberin olsun; şüphesiz Allah"ın va"di haktır; ancak onların çoğu bilmezler. (Yunus Suresi, 55)**
+
+-------------------------------------
 
 \[1\] “New Type of Human Discovered via Single Pinky Finger”, National Geographic
 \[2\] Fathers can be Influential too, 18 Mart 2003: http://www.nature.com/nsu/990318/990318-5.html
