@@ -81,7 +81,6 @@ Allah ayetlerinde şöyle buyurur:
 > 
 > **Artık Allah"a benzerler aramaya kalkışmayın; çünkü Allah bilir, siz ise bilmezsiniz. (Nahl Suresi, 73-74)**
 
-**
 
 \[1\] Paleoanthropologists Disown Homo habilis from Our Direct Family Tree,
 http://www.evolutionnews.org/2007/08/paleoanthropologists\_disown\_ho.html
@@ -95,10 +94,8 @@ http://www.nature.com/news/2010/100408/full/news.2010.171.html
 \[4\]Michael Cherry, Claim over "human ancestor" sparks furore, Published online 8 April 2010,
 http://www.nature.com/news/2010/100408/full/news.2010.171.html
 
-**
 
-
-67 / 2010-04-12
+2010-04-12
 
 [İngilizce](https://web.archive.org/web/20150708035617/http://www.darwinism-watch.com/index.php?git=makale&medya_turu=148497)
 
