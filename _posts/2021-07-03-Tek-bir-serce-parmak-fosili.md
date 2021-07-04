@@ -10,7 +10,7 @@ keywods: Darwinist evrim, Mitokondriyal DNA
 lang: tr
 feature_video: 
 image:
-feature: 501/Mitochondria.jpg
+feature: 501/Mitochondria2.jpg
 ---
 
 
