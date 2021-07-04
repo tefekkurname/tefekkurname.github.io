@@ -10,7 +10,7 @@ keywods: Darwinist evrim, Mitokondriyal DNA
 lang: tr
 feature_video: 
 image:
-feature: 501/Mitochondria2.jpg
+   feature: 501/Mitochondria2.jpg
 ---
 
 Darwinist yayınlar, yine büyük bir elbirliği içinde son günlerde oldukça ilginç görünümlü bir canlının resmini manşetten yayınladılar. Evrimcilerin ürettikleri hayali resmi aşağıda görülen bu garip canlı, tüm dünyaya bir anda “Üçüncü tür” olarak tanıtıldı. Gazeteler Darwinist iddiaları destekleme amaçlı çarpıcı başlıklar attılar, “Bilinmeyen bir insansı!”, “Büyük Keşif, Ne Neandertal ne Homo sapiens”, “İnsanlık Tarihini Yeniden Yazacak Gelişme”... Haberin altına da şu resmi koydular:
