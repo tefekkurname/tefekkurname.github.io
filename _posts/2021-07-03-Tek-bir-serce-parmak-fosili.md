@@ -15,6 +15,8 @@ feature: 501/Mitochondria2.jpg
 
 Darwinist yayınlar, yine büyük bir elbirliği içinde son günlerde oldukça ilginç görünümlü bir canlının resmini manşetten yayınladılar. Evrimcilerin ürettikleri hayali resmi aşağıda görülen bu garip canlı, tüm dünyaya bir anda “Üçüncü tür” olarak tanıtıldı. Gazeteler Darwinist iddiaları destekleme amaçlı çarpıcı başlıklar attılar, “Bilinmeyen bir insansı!”, “Büyük Keşif, Ne Neandertal ne Homo sapiens”, “İnsanlık Tarihini Yeniden Yazacak Gelişme”... Haberin altına da şu resmi koydular:
 
+![mitochondrial dna](/images/501/SAHTE.jpg)
+
 Yukarıdaki bu resmin ve yapılan bu şok edici propagandanın tek kaynağı ise YALNIZCA BİR SERÇE PARMAĞI KEMİĞİ FOSİLİ idi.
 
 Geçmişte de Darwinistler tek bir domuz dişinden yola çıkarak, hayali Nebraska adamının, üstelik ailesiyle sosyal ortamda resmini çizmekte sakınca görmemiş ve bununla insanın hayali evrimine çok büyük bir ışık tuttuklarını iddia etmişlerdi. Darwinizm’in çöküşünün artık açıkça ilan edildiği 2010 yılında Darwinistler, bu defa küçük bir çocuğa ait bir serçe parmağı fosilinden bir hayat hikayesi kurgulayacak hatta üçüncü bir tür ilan edecek kadar ileri gitmişlerdi.
@@ -100,9 +102,13 @@ Darwinist oyunlar, asla başarıya ulaşamaz. Çünkü bu Yüce Allah’ın kanu
 -------------------------------------
 
 \[1\] “New Type of Human Discovered via Single Pinky Finger”, National Geographic
+
 \[2\] Fathers can be Influential too, 18 Mart 2003: http://www.nature.com/nsu/990318/990318-5.html
+
 \[3\] Mitochondria can be inherited from both parents , 23 Ağustos 2002: http://www.newscientist.com/news/news.jsp?id=ns99992716
+
 \[4\] Forster, P. M., Annals of Human Genetics, 67, 2-4, 2003 - Error reports threaten to unravel databases of mitochondrial DNA, Carina Dennis: http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v421/n6925/full/421773a\_fs.html
+
 \[5\] DNA identifies new ancient human dubbed "X-woman", http://news.bbc.co.uk/2/hi/science/nature/8583254.stm
 
 
