@@ -101,11 +101,11 @@ Darwinist oyunlar, asla başarıya ulaşamaz. Çünkü bu Yüce Allah’ın kanu
 > 
 > \--------------------------------------
 
-1 “New Type of Human Discovered via Single Pinky Finger”, National Geographic
-2 Fathers can be Influential too, 18 Mart 2003: http://www.nature.com/nsu/990318/990318-5.html
-3Mitochondria can be inherited from both parents , 23 Ağustos 2002: http://www.newscientist.com/news/news.jsp?id=ns99992716
-4 Forster, P. M., Annals of Human Genetics, 67, 2-4, 2003 - Error reports threaten to unravel databases of mitochondrial DNA, Carina Dennis: http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v421/n6925/full/421773a\_fs.html
-5 DNA identifies new ancient human dubbed "X-woman", http://news.bbc.co.uk/2/hi/science/nature/8583254.stm
+\[1\] “New Type of Human Discovered via Single Pinky Finger”, National Geographic
+\[2\] Fathers can be Influential too, 18 Mart 2003: http://www.nature.com/nsu/990318/990318-5.html
+\[3\] Mitochondria can be inherited from both parents , 23 Ağustos 2002: http://www.newscientist.com/news/news.jsp?id=ns99992716
+\[4\] Forster, P. M., Annals of Human Genetics, 67, 2-4, 2003 - Error reports threaten to unravel databases of mitochondrial DNA, Carina Dennis: http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v421/n6925/full/421773a\_fs.html
+\[5\] DNA identifies new ancient human dubbed "X-woman", http://news.bbc.co.uk/2/hi/science/nature/8583254.stm
 
 
 

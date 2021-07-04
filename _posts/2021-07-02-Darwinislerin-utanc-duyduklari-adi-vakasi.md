@@ -14,9 +14,6 @@ image:
 ---
 
 
-
-
-
 Geçtiğimiz günlerde Darwinist yayınlarda birdenbire manşet konusu haline gelen hayali bir ara geçiş fosilinden bahsetmiştik. Hatırlanacağı gibi dünya çapında Darwinist yayınların tümü, henüz canlının ne olduğu açıklanmamış, bulunan parçaları kamuoyuna gösterilmemiş, detayları hakkında hiçbir bilgi verilmemiş bir fosili oldukça detaylı şekilde resmedip yayınlamışlardı. Muhtemelen fosili ortaya çıkarmadan önce yapılacak bir propagandanın heyecan yaratacağını, merak uyandıracağını veya daha inandırıcı olacağını düşünüyorlardı. O zaman bu sahte iddialara verdiğimiz [cevapta](https://web.archive.org/web/20150708035617/http://us1.harunyahya.com/Detail/T/R76KOGNY306/productId/22571), söz konusu iddianın açık bir spekülasyon olduğunu, bulgular hakkındaki detaylar açıklandığında, bu açıklamalara karşı da detaylı bir cevabımız olacağını belirtmiştik. Yapılan kapsamlı spekülasyon sonrasında _Science_ dergisinde yayınlanan fosil hakkındaki açıklamaları ve bu konudaki Darwinist iddiaların geçersizliğini aşağıda bulabilirsiniz.
 
 Bu açıklamaları yapmadan önce Darwinizm hakkındaki asıl önemli gerçeği, yani Darwinistlerin tek bir proteinin nasıl oluştuğunu bile açıklayamadıkları gerçeğini tekrar hatırlatmak gerekir. Darwinistlerin TV programlarına çıkıp, gazetelere demeçler verip bir kemik parçası üzerinde spekülasyon yaptıkları her an, öncelikle tek bir protein karşısında açıklamasız kaldıkları hatırlanmalıdır. Daha hayatın başlangıcına bir açıklama yapamadıkları kesin olarak unutulmamalıdır. Daha önce de belirttiğimiz gibi bir proteinin oluşması için başka bir proteinin varlığının şart olması, evrim adına yapılan her spekülasyonun sahte olduğunun en büyük delilidir. Evrim henüz hayatın başlangıcında, yaşamın temeli olan en küçük yapı karşısında yerle bir olup yok olmuştur.
