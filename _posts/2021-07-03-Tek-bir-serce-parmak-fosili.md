@@ -10,7 +10,7 @@ keywods: Darwinist evrim, Mitokondriyal DNA
 lang: tr
 feature_video: 
 image:
-feature: 501/bd6cc_image_6657_2-Mitochondria.jpg
+feature: 501/Mitochondria.jpg
 ---
 
 
@@ -53,7 +53,7 @@ Görüldüğü gibi mtDNA hakkındaki genel Darwinist inanış özellikle son on
 
 Dolayısıya bulunan kemik parçası üzerinde mtDNA yöntemine dayanarak ortaya atılan “üçüncü tür” tanımlaması, tümüyle aldatıcıdır.
 
-![mitochondrial dna](/images/501/mitochondrial_dna.jpg){:height="50%" width="50%" class="left"}
+![mitochondrial dna](/images/501/mitochondrial-dna2.jpg){:height="50%" width="50%" class="left"}
 
 
 **Farklı Bir Soy Neden Darwinistleri Bu Kadar Endişelendiriyor?**
@@ -76,7 +76,7 @@ Darwinist aldatmacaları ortadan kaldıran tüm bu bilimsel açıklamaların ard
 
 Tek bir protein karşısında bu kadar acizken, henüz hayatın başlangıcı ile ilgili senaryolarını açıklayamazken nasıl hala insan türleri hakkında spekülasyon yapabilmekte, tek bir serçe parmağı fosilinden bir insan resmi ortaya çıkarabilmekte, onun hakkında çocukları güldürecek mantıksızlıkta bir hikaye üretebilmektedirler? Tek bir serçe parmağı fosili üzerinden yapılan bu yorum o kadar şaşırtıcı bir yorumdur ki, normal şartlarda böyle bir iddiayı savunmak olağanüstü derecede küçük düşürücü olmalıdır. Fakat 150 yıldır tüm dünyayı aldatmış olan Darwinist telkin, böylesine mantıksızlıkları kendilerince makul hale getirmiş durumdadır. Yıllarca,
 
-![mitokondriyal dna analizleri neden guvenilmezdir](/images/501/mitokondriyal-dna-analizleri-neden-guvenilmezdir_591x270.jpg)
+![mitokondriyal dna analizleri neden guvenilmezdir](/images/501/mitokondriyal-dna-analizleri-neden-guvenilmezdir.jpg)
 
 > \-tek bir proteini laboratuvarda üretemediği halde çamurlu suda ilk hücrenin kendi kendine meydana geldiğini savunan,
 > 
