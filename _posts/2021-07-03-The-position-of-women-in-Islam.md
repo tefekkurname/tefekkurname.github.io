@@ -9,7 +9,7 @@ lang: en
 date:   2021-07-12 15:00:00
 feature_video: 
 image:
-  feature: 380-kitap-ehli.jpg
+  feature: Musluman-Zulum-4.png
 ---
 
   
