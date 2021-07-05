@@ -19,6 +19,8 @@ The position of women in Islam has recently been an issue of debate. Some miscon
 
 Women in the Qur'an
 
+![kitap ehli](/images/503/380-kitap-ehli.jpg){:height="50%" width="50%" class="left"}
+
 God's commandments about the status of women and the relations between men and women, which have been revealed to us through the Qur'an, consist of full justice. In this regard, Islam suggests equality of rights, responsibilities and duties between the two genders. Islam is based on sympathy, tolerance and respect for human beings, and does not discriminate against women in this matter.
 
 The examples of good morals communicated to us in the Qur'an are universally compatible with human nature, and are valid for all stages of history.
