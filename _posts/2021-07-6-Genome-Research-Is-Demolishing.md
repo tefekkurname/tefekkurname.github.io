@@ -65,8 +65,11 @@ The following is revealed in the Qur’an about our Lord’s matchless Creation:
  
 
 \[1\]Jack Maniloff, “The Minimal Cell Genome:’On Being the Right Size’,” Proceedings of the National Academy of Sciences, USA 93 81996), pp. 10004-10006; Mitsuhiro Itaya, “An Estimation of Minimal Genome Size Required for Life,” FEBS Letters 362 (1995), pp 257-260; Rana and Ross, Origins of Life, p. 163
+
 \[2\]Rana and Ross, Origins of Life, p. 163
+
 \[3\]Robert  Shapiro, Origins: A Skeptic’s Guide to Creation of Life on Earth (New York:Bantam Books, 1986), p. 128; Rana and Ross, Origins of Life, p. 164
+
 \[4\]Lucy Shapiro and Richard Losick, “Protein Localization and Cell Fate in Bacteria,” Science 276 (1997), pp.712-718; Rana and Ross, Origins of Life, p. 166
 
 
