@@ -32,7 +32,7 @@ It is totally impossible for between 250 and 1500 different proteins required fo
 
 
 
-| **Minimum Protein Number**\[2\]**** | **Probability of Emerging Simultaneously** |
+| **Minimum Protein Number**\[2\] | **Probability of Emerging Simultaneously** |
 |---------------------------|----------------------------------------|
 | 250                       | 10^18,750                              |
 | 350                       | 10^26,250                              |
