@@ -29,17 +29,13 @@ It also needs to be made clear that this minimum number of 250-450 protein is th
 
 It is totally impossible for between 250 and 1500 different proteins required for an organism to be considered as living to form spontaneously and at the same time. Probability calculations on the subject are given in the following table:  
 
-
-
-
-| **Minimum Protein Number**\[2\] | **Probability of Emerging Simultaneously** |
+| Minimum Protein Number[2] | Probability of Emerging Simultaneously |
 |---------------------------|----------------------------------------|
 | 250                       | 10^18,750                              |
 | 350                       | 10^26,250                              |
 | 500                       | 10^37,500                              |
 | 1,500                     | 10^112,500                             |
 | 1,900                     | 10^142,500                             |
-
   
 As the above table shows, the probability of a living organism with the least protein forming by chance is 1 in 1018,750. (In order to grasp the vast size of this number, it will be useful to remember that the total number of atoms in the universe is 1078.) In other words, there is no chance at all. Despite all these calculations and scientific data, evolutionists still insist on believing in the impossible. The sole reason for that insistence is their determination to deny the existence of Almighty Allah, Who created all things out of nothing. 
 
