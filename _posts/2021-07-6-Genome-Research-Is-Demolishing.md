@@ -8,7 +8,7 @@ tags: [article]
 lang: en
 feature_video: 
 image:
-  feature: 223.jpg
+  feature: 504/Crispr-Image-1.jpg
 ---
 
 
@@ -27,7 +27,7 @@ Genome research revealed that the lowest number of proteins required for life wa
 
 It also needs to be made clear that this minimum number of 250-450 protein is the number of proteins obtained from microbes living parasitically. The minimum number of proteins needed in order for an organism to live independently of another is around 1500. In other words, Darwinists have to account for the separate existence of 1500 different proteins needed to give rise to a single functioning cell. But, to reiterate, Darwinists are unable to account for the emergence of even a single protein.
 
-It is totally impossible for between 250 and 1500 different proteins required for an organism to be considered as living to form spontaneously and at the same time. Probability calculations on the subject are given in the following table:  
+It is totally impossible for between 250 and 1500 different proteins required for an organism to be considered as living to form spontaneously and at the same time. Probability calculations on the subject are given in the following table:
 
 | Minimum Protein Number[2] | Probability of Emerging Simultaneously |
 |---------------------------|----------------------------------------|
