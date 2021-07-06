@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Genome Research Is Demolishing the 'First Cell That Formed by Chance' Deception"
-description: 'A New York Times article published on May 13th 2016, claimed that it is possible to create “a Synthetic Human Genome.” In the article penned by Andrew Pollack, there was another claim that “all the DNA contained in human chromosomes could be manufactured.”'
-excerpt: We will explain the irrationality and invalidity of such a claim using scientific evidence and prove that DNA cannot be created out of thin air.
+description: The theory of evolution maintains, on the basis of no scientific foundation whatsoever, that at a time when there was still no life on Earth, inanimate substances came together to give rise to the first living organism.
+excerpt: According to this evolutionist claim, the first living organism must have had a sufficiently simple structure to have been able to form by chance.
 categories: [article]
 tags: [article]
 lang: en
