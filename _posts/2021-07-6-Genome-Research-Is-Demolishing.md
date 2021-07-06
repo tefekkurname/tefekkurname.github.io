@@ -73,6 +73,6 @@ The following is revealed in the Qur’an about our Lord’s matchless Creation:
 
 2010-05-28
 
-[T�rk�e](https://web.archive.org/web/20150905091542/http://www.netcevap.org/index.php?git=makale&makale_id=148505)
+[Türkçe](https://web.archive.org/web/20150905091542/http://www.netcevap.org/index.php?git=makale&makale_id=148505)
 
 ![](/web/20150905091542im_/http://www.darwinism-watch.com/image/13.JPG)
