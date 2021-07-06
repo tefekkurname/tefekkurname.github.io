@@ -88,3 +88,5 @@ The fundamental rule in Qur'anic exegesis is ensuring that the derived meaning i
 (1) Bernard Lewis, _The Middle East,_ Weidenfeld & Nicolson, London, 1995, p. 210[![](imageshas/uparrow.gif)](#1)  
 (2) Karen Armstrong, _Muhammad_ A Biography of The Prophet, Harper Collins Publisher, USA, 1992, p.191 [![](imageshas/uparrow.gif)](#2)  
 (3) Karen Armstrong, _Muhammad_ A Biography of The Prophet, Harper Collins Publisher, USA, 1992, p.199 [![](imageshas/uparrow.gif)](#3)
+
+Source: https://www.hyahya.org/m_articles.html
