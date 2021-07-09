@@ -11,7 +11,7 @@ image:
   feature: 504/News-CRISPR.jpg
 ---
 
-![Genom Çalışmaları](/images/504/DNA1.jpg  "Genom Çalışmaları"){:height="50%" width="50%" class="right"}
+![Genom Çalışmaları](/images/504/DNA1.jpg  "Genom Çalışmaları"){:height="50%" width="50%" class="left"}
 Evrim teorisinin hiçbir bilimsel dayanağı olmayan iddiasına göre, yeryüzünde henüz hayat yokken, cansız maddeler tesadüfler sonucunda bir araya gelerek ilk canlı organizmayı meydana getirmiştir. Bu evrimci iddiaya göre, ilk canlı organizmanın tesadüfen gelişebilecek kadar basit bir yapıya sahip olması gerekmektedir.
 
 Oysa Darwinistler, **TEK BİR PROTEİNİN BİLE NASIL ORTAYA ÇIKTIĞINI AÇIKLAYAMAMAKTADIRLAR.**
