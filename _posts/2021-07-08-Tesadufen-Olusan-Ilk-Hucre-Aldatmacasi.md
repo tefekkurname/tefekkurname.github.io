@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Genom Çalışmaları ”Tesadüfen Oluşan İlk Hücre"" Aldatmacasını Yerlebir Ediyor"
-description: The theory of evolution maintains, on the basis of no scientific foundation whatsoever, that at a time when there was still no life on Earth, inanimate substances came together to give rise to the first living organism.
-excerpt: According to this evolutionist claim, the first living organism must have had a sufficiently simple structure to have been able to form by chance.
-categories: [article]
-tags: [article]
+description: Evrim teorisinin hiçbir bilimsel dayanağı olmayan iddiasına göre, yeryüzünde henüz hayat yokken, cansız maddeler tesadüfler sonucunda bir araya gelerek ilk canlı organizmayı meydana getirmiştir.
+excerpt: Bu evrimci iddiaya göre, ilk canlı organizmanın tesadüfen gelişebilecek kadar basit bir yapıya sahip olması gerekmektedir.
+categories: [makale]
+tags: [makale]
 lang: en
 feature_video: 
 image:
