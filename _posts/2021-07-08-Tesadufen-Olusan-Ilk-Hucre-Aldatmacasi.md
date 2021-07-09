@@ -5,7 +5,7 @@ description: Evrim teorisinin hiçbir bilimsel dayanağı olmayan iddiasına gö
 excerpt: Bu evrimci iddiaya göre, ilk canlı organizmanın tesadüfen gelişebilecek kadar basit bir yapıya sahip olması gerekmektedir.
 categories: [makale]
 tags: [makale]
-lang: en
+lang: tr
 feature_video: 
 image:
   feature: 504/News-CRISPR.jpg
