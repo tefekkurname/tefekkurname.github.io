@@ -8,7 +8,7 @@ tags: [makale]
 lang: en
 feature_video: 
 image:
-  feature: 504/Crispr-Image-1.jpg
+  feature: 504/News-CRISPR.jpg
 ---
 
 
