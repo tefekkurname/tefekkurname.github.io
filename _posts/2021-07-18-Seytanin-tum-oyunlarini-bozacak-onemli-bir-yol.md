@@ -15,7 +15,7 @@ image:
   feature: OYUN/OYUN2.jpg
 ---
 
-![manzara](/images/OYUN/oyun.jpg.jpg "manzara"){:height="50%" width="50%" class="left"}  İnsan aklı, hiçbir ek yapmaksızın saf olarak Kuran ile düşünmediği takdirde, karmakarışık bir hale gelmeye çok müsaittir. Bu durumda da kişi, “akıllı insan” olma vasfını kaybeder. Aklı, duru, temiz, isabetli ve faydalı hale getiren tek yol, katıksız olarak iman etmek; Allah'ın sonsuz ve kusursuz aklına, Kuran'a tam uymaktır.
+![manzara](/images/OYUN/oyun.jpg "manzara"){:height="50%" width="50%" class="left"}  İnsan aklı, hiçbir ek yapmaksızın saf olarak Kuran ile düşünmediği takdirde, karmakarışık bir hale gelmeye çok müsaittir. Bu durumda da kişi, “akıllı insan” olma vasfını kaybeder. Aklı, duru, temiz, isabetli ve faydalı hale getiren tek yol, katıksız olarak iman etmek; Allah'ın sonsuz ve kusursuz aklına, Kuran'a tam uymaktır.
 
 İman eden bir kimsenin mükemmel bir akla sahip olmasını en istemeyecek varlık ise, elbetteki şeytandır. Şeytan, Allah'ı seven, Kuran'a bağlanan, Allah'ın rızası için yaşayan her insanın karşısındaki negatif güçtür. Müminlerin Allah'a ihlasla iman etmelerini engelleyebilmek, akıllarını karıştırabilmek, halis tavırlarına bir parça dahi olsa bozukluk katabilmek için elinden gelen her yola başvurur. İnsanların kalplerine hayali kuruntular, asılsız şüpheler, hiçbir delili olmayan vesveseler verir. Ve bunlara, adeta gerçeğin ta kendisiymiş gibi inanmalarını sağlar. Hatta o kadar inandırıcı mantıklar sunar ki, kişi, peşisıra gittiği bu hayali kuruntuları delice bir kararlılıkla savunur hale gelir. Bu doğrultuda kesin kararlar alıp hayatını bu yönde yönlendirmeye başlar.
 
