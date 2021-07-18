@@ -10,7 +10,7 @@ lang: tr
 date: 2021-07-18 12:00:00
 last_updated: 2021-07-18 18:57:00
 published: true
-feature_video: Muminlerin-Allah’a-Olan-Ornek-Sadakat-ve-Bagliliklari.mp4
+feature_video: 
 image:
   feature: hadis-i-serif.jpg
 ---
