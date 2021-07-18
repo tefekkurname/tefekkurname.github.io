@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allah Sevgisi; Müminlerin Allah’a Olan Örnek Sadakat ve Bağlılıkları"
+title: "Allah Sevgisi- Müminlerin Allah’a Olan Örnek Sadakat ve Bağlılıkları"
 description: "Sadakat, Allah’a gönülden iman eden müminlerin en belirgin özelliklerinden biridir."
 excerpt: 'Allah yolunda gösterdikleri samimi sadakat, onların ihlas sahibi kimseler olduklarını ortaya koymaktadır.'
 keywords: sadakat
