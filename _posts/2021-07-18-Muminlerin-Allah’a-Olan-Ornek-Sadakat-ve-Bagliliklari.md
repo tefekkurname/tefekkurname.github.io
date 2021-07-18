@@ -7,9 +7,9 @@ keywords: sadakat
 categories: [blog]
 tags: [blog]
 lang: tr
-feature_video: 
+feature_video: video/Muminlerin-Allah’a-Olan-Ornek-Sadakat-ve-Bagliliklari.mp4
 image:
-  feature: DHOUTprWsAA0fmF.jpg
+  feature: 
 ---
 
 Sadakat, Allah’a gönülden iman eden müminlerin en belirgin özelliklerinden biridir. Allah yolunda gösterdikleri samimi sadakat, onların ihlas sahibi kimseler olduklarını ortaya koymaktadır. Çünkü bir insanın Allah’a iman etmesi, hiçbir dünyevi çıkar beklemeden yaşaması, hayatı boyunca Allah’ın rızasını kazanmak için çaba göstermesi, sahip olduğu ve sevdiği herşeyi O’nun rızasına ulaşabilmek için kullanması ve kendisine isabet eden zorluklara sabredebilmesi için kesinlikle güçlü bir sadakat ve bağlılık duygusuna ihtiyacı vardır. İnsana bu yolda ilerleyebilme gücünü ve isteğini, ancak Allah’a karşı duyduğu sevgi ve bunun getirdiği güçlü bağlılık ve sadakat kazandırabilir. Allah’a karşı duyulan bağlılık ve teslimiyet ne kadar içten ve kuvvetli olursa, insan Allah’a o denli yakınlaşma fırsatı elde edecek ve O’nun rızasını kazanmakta göstereceği çaba ve şevk de o kadar artacaktır. Müminlerin sahip olduğu bu manevi gücün kaynağı, Allah’a karşı duydukları içten sadakat ve güvendir. Bu nedenle sadakat, mümini diğer insanlardan ayıran en temel özelliklerden biridir. Bir mümin, hayatının sonuna kadar Allah’ın emir ve yasaklarına uyduğu takdirde, -Allah’ın izniyle- Allah’ın rahmeti ve cennetiyle karşılık görecektir. 
