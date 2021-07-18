@@ -41,7 +41,7 @@ Bu imani olgunlukla hareket eden bir insanın üzerindeki olumsuz tüm baskılar
 
 *   Allah'a teslim olan bir mümin ise, Allah'ın eşsiz koruması, rahmeti ve desteğini kazanır. Böyle bir insan, dünyada maddi manevi başka hiçbir şey ile elde edilemeyecek bir güç elde etmiş olur. Allah'ın rızasına uygun olan ahlaka uymanın müthiş bir pozitif etkisi vardır. İşte mümin bu pozitif gücün etkisi altına girer. Üzerindeki imani coşku, neşe, mutluluk ve mutmainlik, fiziksel olarak da manevi olarak da, her an her konuda olabilecek en güzel, en aktif ve en fazla çabayı gösterebilmesini sağlar.
 
-*   Böyle bir kişi çevresindeki her insanın sevdiği, saygı duyduğu; yanında olmayı, sohbetine katılmayı, dostluk etmeyi isteyeceği; güvenilir, dengeli, olgun, sevgi dolu, canlı, neşeli, akıllı, uyumlu, munis bir insan haline gelir. Böylece dünya şartlarında olabilecek en üst seviyede sevgiyi yaşayabilecek; derin sevmeyi, derin sevilmeyi tadabilecek bir ahlaka ulaşır.  
+*   Böyle bir kişi çevresindeki her insanın sevdiği, saygı duyduğu; yanında olmayı, sohbetine katılmayı, dostluk etmeyi isteyeceği; güvenilir, dengeli, olgun, sevgi dolu, canlı, neşeli, akıllı, uyumlu, munis bir insan haline gelir. Böylece dünya şartlarında olabilecek en üst seviyede sevgiyi yaşayabilecek; derin sevmeyi, derin sevilmeyi tadabilecek bir ahlaka ulaşır. 
      
 
   
