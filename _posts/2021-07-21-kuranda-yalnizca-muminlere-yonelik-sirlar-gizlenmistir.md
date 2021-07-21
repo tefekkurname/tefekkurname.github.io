@@ -34,7 +34,7 @@ Bilimsel buluşlar ve gelişmeler, Allah’ın yaratma sanatının üstünlüğ�
 
 > **Biz göğü 'büyük bir kudretle' bina ettik ve şüphesiz Biz (onu) genişleticiyiz. (Zariyat Suresi, 47)**
 
-![](http://g.fmanager.net/Image/gif_resimler/1052343v011aqjeiz.gif)Cenab-ı Allah, Kendi benzersiz sanatının, yarattığı varlıklardaki ihtişamın anlaşılabilmesi ve görülebilmesi için bilimi Müslümanlar için gerekli kılmıştır. Kuran ilmi ile birlikte bilimde derinleşenler de Yüce Allah’ın üstün ilmine şahit olduklarından, imanda da derinleşmektedirler. Allah ayetinde şöyle buyurur:
+![manzara](/images/202/sir2.gif "manzara"){:height="15%" width="15%" class="left"}Cenab-ı Allah, Kendi benzersiz sanatının, yarattığı varlıklardaki ihtişamın anlaşılabilmesi ve görülebilmesi için bilimi Müslümanlar için gerekli kılmıştır. Kuran ilmi ile birlikte bilimde derinleşenler de Yüce Allah’ın üstün ilmine şahit olduklarından, imanda da derinleşmektedirler. Allah ayetinde şöyle buyurur:
 
 > **Ancak onlardan ilimde derinleşenler ile mü'minler, sana indirilene ve senden önce indirilene inanırlar. Namazı dosdoğru kılanlar, zekatı verenler, Allah'a ve ahiret gününe inananlar; işte bunlar, Biz bunlara büyük bir ecir vereceğiz. (Nisa Suresi, 162)**
 
