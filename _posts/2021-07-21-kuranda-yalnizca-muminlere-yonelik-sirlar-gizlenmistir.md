@@ -68,6 +68,6 @@ Müminlerin ilim ve bilimle Allah’ın yaratma delillerini ortaya çıkarmalar�
 Kuşkusuz yalnızca tek bir ağaç, tek bir yaprak, tek bir tohum tanesi bile Yüce Rabbimiz’in ihtişamını ve Yüce Varlığını görüp anlayabilmek için yeterlidir. Fakat iman eden salih müminler için, Allah’ın detaydaki olağanüstü sanatını bilim vesilesiyle görmek, Allah’ın yüceliğini ve büyüklüğünü gereği gibi takdir edebilmeye büyük bir vesiledir. İşte bu sebeple Yüce Allah, iman edenlere bilimi farz kılmıştır.
 
 ### [\>İNKARCILARA EN BÜYÜK CEZALARDAN BİRİ, DÜNYADA DA AHİRETTE DE HOR VE AŞAĞILIK KILINMALARIDIR](http://us1.harunyahya.com/Detail/T/R76KOGNY306/productId/21083)  
-[\>MÜSLÜMANLAR, BAŞARIYA ULAŞMAK İÇİN ALLAH’IN TAKDİR ETTİĞİ VAKTE KADAR BEKLEMEKLE YÜKÜMLÜDÜRLER](http://us1.harunyahya.com/Detail/T/R76KOGNY306/productId/21141/)
+### [\>MÜSLÜMANLAR, BAŞARIYA ULAŞMAK İÇİN ALLAH’IN TAKDİR ETTİĞİ VAKTE KADAR BEKLEMEKLE YÜKÜMLÜDÜRLER](http://us1.harunyahya.com/Detail/T/R76KOGNY306/productId/21141/)
 
 **2010-02-08 22:07:52**
