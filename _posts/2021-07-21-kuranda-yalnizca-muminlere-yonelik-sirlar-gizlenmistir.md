@@ -17,7 +17,7 @@ image:
 
 
 <audio controls="controls">
-  <source type="/audio/mp3" src="audio/Kuran-yalnizca-muminlere-yonelik-sirlargizlenmistir.mp3">
+  <source type="audio/mp3" src="/audio/Kuran-yalnizca-muminlere-yonelik-sirlargizlenmistir.mp3">
   <p>Your browser does not support the audio element.</p>
 </audio>
 
