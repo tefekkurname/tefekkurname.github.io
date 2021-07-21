@@ -22,7 +22,7 @@ image:
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-![manzara](/images/202/sir.gif "manzara"){:height="15%" width="15%" class="left"} Kuran’ı okuduğumuzda, Müslümanların anlaması ve bilmesi gereken en temel hususların açıkça izah edildiğini görürüz. Kuran’da Allah yaratılışın nasıl olduğunu anlatmıştır. Şeytan’ı tanıtmış, helal haramları bildirmiş, Peygamberlerin hayatlarını haber vermiştir. Dünya hayatının bir imtihan yeri olduğu ve asıl yurdun ahiret hayatı olduğu bildirilmiştir. Kuran’da, cennet ve cehennem tarif edilmiş, insanlar cehennem azabına karşı uyarılmışlardır.
+![manzara](/images/202/sir.gif "manzara"){:height="5%" width="5%" class="left"} Kuran’ı okuduğumuzda, Müslümanların anlaması ve bilmesi gereken en temel hususların açıkça izah edildiğini görürüz. Kuran’da Allah yaratılışın nasıl olduğunu anlatmıştır. Şeytan’ı tanıtmış, helal haramları bildirmiş, Peygamberlerin hayatlarını haber vermiştir. Dünya hayatının bir imtihan yeri olduğu ve asıl yurdun ahiret hayatı olduğu bildirilmiştir. Kuran’da, cennet ve cehennem tarif edilmiş, insanlar cehennem azabına karşı uyarılmışlardır.
 
 Tüm bu temel konuların dışında, Kuran’da Yüce Allah’ın, müminler için özel olarak gizlediği özel işaretler bulunur. Bu işaretlerle Rabbimiz müminlere, inkarcılara karşı nasıl bir tutum takınmaları gerektiğini, nasıl bir tebliğ metodu izleyeceklerini, Kuran ahlakının tüm dünyaya hakim olması için neler yapmaları gerektiğini haber vermiştir. Elbette bu işaretleri ancak, Kuran’a vicdan ve kalp gözü ile bakabilen, Kuran’ın nurunu ve verdiği mesajı anlayabilen, Allah’ın kendisinden razı olduğu kullar anlayabilirler. İşte bu, Kuran’ın yüzlerce mucizesinden bir tanesidir.
 
