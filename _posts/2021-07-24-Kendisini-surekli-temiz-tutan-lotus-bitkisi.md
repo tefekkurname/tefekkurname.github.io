@@ -30,7 +30,7 @@ Bonn Üniversitesi'nden Dr. Wilhelm Barthlott, mikroskop altında yaptığı inc
 ![lotusan](/images/lotusan/lotus2.jpg "lotus2"){:height="20%" width="20%" class="left"}
 Nilüfer çiçeğinin bu özelliği araştırmacılara ilham kaynağı olmuş ve LOTUSAN adı verilen, 5 yıl kendisini temiz tutacağı garantisi verilen dış cephe malzemesi üretilmiştir.
 
-![lotusan](/images/lotusan/lotus3.jpg "lotus3"){:height="60%" width="60%" class="left"}
+![lotusan](/images/lotusan/lotus3.jpg "lotus3"){:height="70%" width="70%" class="left"}
 Yağmur damlasının lotusan yaprağı üzerindeki temizleyici etkisi
 
 Su damlasının normal bir yüzeydeki etkisi
