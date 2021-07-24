@@ -7,8 +7,8 @@ keywords: lotus bitkisi
 categories: [blog]
 tags: [blog]
 lang: tr
-date: 2021-07-21 12:00:00
-last_updated: 2021-07-21 18:57:00
+date: 2021-07-24 12:00:00
+last_updated: 2021-07-24 18:57:00
 published: true
 feature_video: 
 image:
