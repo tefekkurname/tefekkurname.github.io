@@ -27,7 +27,7 @@ Doğadaki pek çok canlı, kendi yüzeylerini koruyan çeşitli özelliklere sah
 ![lotusan](/images/lotusan/lotus1.jpg "lotus1"){:height="50%" width="50%" class="left"}
 Bonn Üniversitesi'nden Dr. Wilhelm Barthlott, mikroskop altında yaptığı incelemelerde, en az temizlik gerektiren yaprakların en pürüzlü yüzeylere sahip olduğunu fark etmiştir. Dr. Barthlott, bunların en temizi olan Lotus bitkisi üzerinde, bir çivi yatağı gibi minik noktalar olduğunu buldu. Bir toz ya da kir zerresi yaprak üzerine düştüğünde, belli belirsiz biçimde bu noktalar üzerinde iki yana sallanır. Bir damla su, bu minik noktalar üzerinde yuvarlanınca zayıf şekilde tutunmuş olan kiri alıp götürür. Diğer bir deyişle, nilüfer çiçeği, kendi kendini temizleyen bir yaprağa sahiptir.47
 
-![lotusan](/images/lotusan/lotus2.jpg "lotus2"){:height="50%" width="50%" class="left"}
+![lotusan](/images/lotusan/lotus2.jpg "lotus2"){:height="20%" width="20%" class="left"}
 Nilüfer çiçeğinin bu özelliği araştırmacılara ilham kaynağı olmuş ve LOTUSAN adı verilen, 5 yıl kendisini temiz tutacağı garantisi verilen dış cephe malzemesi üretilmiştir.
 
 ![lotusan](/images/lotusan/lotus3.jpg "lotus3"){:height="50%" width="50%" class="left"}
