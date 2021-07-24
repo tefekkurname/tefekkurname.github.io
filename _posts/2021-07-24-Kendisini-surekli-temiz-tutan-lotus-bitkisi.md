@@ -24,13 +24,13 @@ Doğadaki pek çok canlı, kendi yüzeylerini koruyan çeşitli özelliklere sah
 **O Allah ki, yaratandır, (en güzel bir biçimde) kusursuzca var edendir, 'şekil ve suret' verendir. En güzel isimler O'nundur. Göklerde ve yerde olanların tümü O'nu tesbih etmektedir. O, Aziz, Hakimdir.** (Haşr Suresi, 24)
 
 
-![lotusan](/images/lotusan/lotus1.jpg "lotus"){:height="10%" width="10%" class="left"}
+![lotusan](/images/lotusan/lotus1.jpg "lotus1"){:height="10%" width="10%" class="left"}
 Bonn Üniversitesi'nden Dr. Wilhelm Barthlott, mikroskop altında yaptığı incelemelerde, en az temizlik gerektiren yaprakların en pürüzlü yüzeylere sahip olduğunu fark etmiştir. Dr. Barthlott, bunların en temizi olan Lotus bitkisi üzerinde, bir çivi yatağı gibi minik noktalar olduğunu buldu. Bir toz ya da kir zerresi yaprak üzerine düştüğünde, belli belirsiz biçimde bu noktalar üzerinde iki yana sallanır. Bir damla su, bu minik noktalar üzerinde yuvarlanınca zayıf şekilde tutunmuş olan kiri alıp götürür. Diğer bir deyişle, nilüfer çiçeği, kendi kendini temizleyen bir yaprağa sahiptir.47
 
-![lotusan](/images/lotusan/lotus2.jpg "lotus"){:height="10%" width="10%" class="left"}
+![lotusan](/images/lotusan/lotus2.jpg "lotus2"){:height="10%" width="10%" class="left"}
 Nilüfer çiçeğinin bu özelliği araştırmacılara ilham kaynağı olmuş ve LOTUSAN adı verilen, 5 yıl kendisini temiz tutacağı garantisi verilen dış cephe malzemesi üretilmiştir.
 
-![lotusan](/images/lotusan/lotus3.jpg "lotus"){:height="10%" width="10%" class="left"}
+![lotusan](/images/lotusan/lotus3.jpg "lotus3"){:height="10%" width="10%" class="left"}
 Yağmur damlasının lotusan yaprağı üzerindeki temizleyici etkisi
 
 Su damlasının normal bir yüzeydeki etkisi
