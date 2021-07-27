@@ -12,7 +12,9 @@ image:
   feature: audio/Kuran-Mucizeleri.jpg
 ---
 
-
+<div class="responsive-wrap">
+<iframe width="640" height="480" src="https://e.pcloud.link/publink/show?code=XZ8yb0ZalyAUpt3vDRYKr53mSxxgR47rHWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <audio controls autoplay muted>
