@@ -15,8 +15,6 @@ image:
   feature: stenocara-bocegi.jpg
 ---
 
-
-### Kuraklık Sorununa Çözüm Stenocara Böceğinde Saklı
  
 *   Stenocaranın su depolama sistemi nasıl çalışır?
 *   Bu canlının su depolama sistemindeki yapısal özellikler nelerdir?
