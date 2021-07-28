@@ -19,19 +19,19 @@ image:
 
 - (Hz. Mehdi (a.s.) döneminde) TOPRAK HAZİNELERİNİ ÇIKARACAKTIR.<sub>1</sub>
 
-- (Hz. Mehdi (a.s.) döneminde) Toprağın SAKLI HAZİNELERİ VE MADENLERİ ortaya çıkacaktır. İnsanlar bu hazineleri gerçekten de yerin üzerinde göreceklerdir.2
+- (Hz. Mehdi (a.s.) döneminde) Toprağın SAKLI HAZİNELERİ VE MADENLERİ ortaya çıkacaktır. İnsanlar bu hazineleri gerçekten de yerin üzerinde göreceklerdir.<sub>2</sub>
 
-- (Hz. Mehdi (a.s.) döneminde) GÖKTEN RAHMET YAĞACAKTIR. AĞAÇLAR ÇİÇEKLERLE YÜKLENECEK VE TOPRAK YEŞİLLİĞİNİ sergileyecektir.3
+- (Hz. Mehdi (a.s.) döneminde) GÖKTEN RAHMET YAĞACAKTIR. AĞAÇLAR ÇİÇEKLERLE YÜKLENECEK VE TOPRAK YEŞİLLİĞİNİ sergileyecektir.<sub>3</sub>
  
-- İmam Mehdi (a.s)’ın hükümeti (manevi hakimiyeti) sırasında CADDELER ÇOĞALACAKTIR (yani sokaklar çok büyük ve geniş olacaktır).4
+- İmam Mehdi (a.s)’ın hükümeti (manevi hakimiyeti) sırasında CADDELER ÇOĞALACAKTIR (yani sokaklar çok büyük ve geniş olacaktır).<sub>4</sub>
 
-- (Hz. Mehdi (a.s.) döneminde) SELE BOĞULAN IRMAKLAR HER YERE AKACAK VE  SU HERKES İÇİN KULLANILABİLİR ve çeşitli olacaktır.5
+- (Hz. Mehdi (a.s.) döneminde) SELE BOĞULAN IRMAKLAR HER YERE AKACAK VE  SU HERKES İÇİN KULLANILABİLİR ve çeşitli olacaktır.<sub>5</sub>
 
-- O çağda (Hz. Mehdi (a.s.) döneminde), BÜYÜK BAŞ HAYVANLARIN SAYISI ARTIŞTA OLACAK ve insanlar onlardan en fazla faydayı çıkaracaklar.6 
+- O çağda (Hz. Mehdi (a.s.) döneminde), BÜYÜK BAŞ HAYVANLARIN SAYISI ARTIŞTA OLACAK ve insanlar onlardan en fazla faydayı çıkaracaklar.<sub>6</sub> 
 
-- İmam-ı Zaman (Hz. Mehdi (a.s.))’ın mübarek varlığı nedeniyle, İYİLİK VE NİMETLER KATLANARAK ARTACAKTIR.7
+- İmam-ı Zaman (Hz. Mehdi (a.s.))’ın mübarek varlığı nedeniyle, İYİLİK VE NİMETLER KATLANARAK ARTACAKTIR.<sub>7</sub>
 
-- O çağda (Hz. Mehdi (a.s.)’nin döneminde, ÇİFTÇİLİK VE TARIM OLABİLECEK EN FAZLA EKİNİ VERECEKTİR. BİR TOHUMDAN 700 TANE SAĞLANACAKTIR.8
+- O çağda (Hz. Mehdi (a.s.)’nin döneminde, ÇİFTÇİLİK VE TARIM OLABİLECEK EN FAZLA EKİNİ VERECEKTİR. BİR TOHUMDAN 700 TANE SAĞLANACAKTIR.<sub>8</sub>
 
 
 1. Mikyaal al-Makaarim Cilt 1, S.46
