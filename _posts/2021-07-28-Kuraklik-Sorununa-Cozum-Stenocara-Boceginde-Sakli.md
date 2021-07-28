@@ -12,7 +12,7 @@ last_updated: 2021-07-18 18:57:00
 published: true
 feature_video: 
 image:
-  feature: stenocara-bocegi-olabilir.jpg
+  feature: stenocara-bocegi.jpg
 ---
 
 
