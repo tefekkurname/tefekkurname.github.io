@@ -17,7 +17,7 @@ image:
 </div>
 
 
-- (Hz. Mehdi (a.s.) döneminde) TOPRAK HAZİNELERİNİ ÇIKARACAKTIR.1
+- (Hz. Mehdi (a.s.) döneminde) TOPRAK HAZİNELERİNİ ÇIKARACAKTIR.<sub>1</sub>
 
 - (Hz. Mehdi (a.s.) döneminde) Toprağın SAKLI HAZİNELERİ VE MADENLERİ ortaya çıkacaktır. İnsanlar bu hazineleri gerçekten de yerin üzerinde göreceklerdir.2
 
