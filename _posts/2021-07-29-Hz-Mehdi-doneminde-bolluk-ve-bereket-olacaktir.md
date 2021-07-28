@@ -2,7 +2,7 @@
 layout: post
 title: "Hz. Mehdi döneminde bolluk ve bereket olacaktır"
 description: "Hz. Mehdi döneminde bolluk ve bereket olacaktır"
-excerpt: ""Hz. Mehdi döneminde İslam Birliği" belgeselinden"
+excerpt: "Hz. Mehdi döneminde İslam Birliği" belgeselinden"
 categories: [belgesel]
 tags: [belgesel]
 lang: tr
