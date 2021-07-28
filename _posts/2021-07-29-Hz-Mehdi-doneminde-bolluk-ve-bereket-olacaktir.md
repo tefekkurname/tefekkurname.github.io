@@ -2,11 +2,11 @@
 layout: post
 title: "Hz. Mehdi döneminde bolluk ve bereket olacaktır"
 description: "Hz. Mehdi döneminde bolluk ve bereket olacaktır"
-excerpt: "Hz. Mehdi döneminde İslam Birliği" belgeselinden"
+excerpt: "'Hz. Mehdi döneminde İslam Birliği' belgeselinden"
 categories: [belgesel]
 tags: [belgesel]
 lang: tr
-date:   2021-06-17 15:00:00
+date:   2021-07-29 15:00:00
 feature_video: 
 image:
   feature: Musluman-Zulum-4.png
