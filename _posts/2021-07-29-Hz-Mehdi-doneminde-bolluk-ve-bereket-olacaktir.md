@@ -12,10 +12,8 @@ image:
   feature: Musluman-Zulum-4.png
 ---
 
-
-
 <div class="responsive-wrap">
-<iframe width="640" height="480" src="https://e.pcloud.link/publink/show?code=XZz5h0ZOFaTbBxFjM0SGBDJDh25DSqq95ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://e.pcloud.link/publink/show?code=XZz5h0ZOFaTbBxFjM0SGBDJDh25DSqq95ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -34,8 +32,6 @@ image:
 - İmam-ı Zaman (Hz. Mehdi (a.s.))’ın mübarek varlığı nedeniyle, İYİLİK VE NİMETLER KATLANARAK ARTACAKTIR.7
 
 - O çağda (Hz. Mehdi (a.s.)’nin döneminde, ÇİFTÇİLİK VE TARIM OLABİLECEK EN FAZLA EKİNİ VERECEKTİR. BİR TOHUMDAN 700 TANE SAĞLANACAKTIR.8
-
- 
 
 
 1. Mikyaal al-Makaarim Cilt 1, S.46
