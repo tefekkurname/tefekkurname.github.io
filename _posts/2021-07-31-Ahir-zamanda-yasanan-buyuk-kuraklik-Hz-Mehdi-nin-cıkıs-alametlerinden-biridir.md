@@ -12,7 +12,7 @@ last_updated: 2021-07-31 18:57:00
 published: true
 feature_video: 
 image:
-  feature: stenocara-bocegi.jpg
+  feature: collesme-gunu.png
 ---
 
 
@@ -83,8 +83,7 @@ Yazımızın başında da belirttiğimiz gibi Deccal’in çıkışının haberc
 
 **“Allah, içinizden iman edenlere ve salih amellerde bulunanlara va'detmiştir: Hiç şüphesiz onlardan öncekileri nasıl 'güç ve iktidar sahibi' kıldıysa, onları da yeryüzünde 'güç ve iktidar sahibi' kılacak, kendileri için seçip beğendiği dinlerini kendilerine yerleşik kılıp sağlamlaştıracak ve onları korkularından sonra güvenliğe çevirecektir. Onlar, yalnızca Bana ibadet ederler ve Bana hiçbir şeyi ortak koşmazlar. Kim bundan sonra inkar ederse işte onlar fasıktır.” (Nur Suresi, 55)**
 
-**KAYNAKLAR: 
-** 
+**KAYNAKLAR:** 
 1 Ölüm, Kıyamet, Ahiret ve Ahir Zaman Alametleri, İmam Şarani, Bedir Yayınevi, s. 438 
 2 Ebu Davud, İbni Mace, Taberani; Geleceğin Tarihi 3, s. 241 
 3 A.g.e. 
