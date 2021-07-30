@@ -12,7 +12,7 @@ last_updated: 2021-07-31 18:57:00
 published: true
 feature_video: 
 image:
-  feature: collesme-gunu.png
+  feature: collesme-gunu.jpg
 ---
 
 
