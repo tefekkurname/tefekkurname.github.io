@@ -7,15 +7,14 @@ keywords: stenocara
 categories: [blog]
 tags: [blog]
 lang: tr
-date: 2021-07-18 12:00:00
-last_updated: 2021-07-18 18:57:00
+date: 2021-07-28 12:00:00
+last_updated: 2021-07-28 18:57:00
 published: true
 feature_video: 
 image:
   feature: stenocara-bocegi.jpg
 ---
 
- 
 *   Stenocaranın su depolama sistemi nasıl çalışır?
 *   Bu canlının su depolama sistemindeki yapısal özellikler nelerdir?
 *   Stenocara bilim dünyasına nasıl ilham kaynağı olur?
