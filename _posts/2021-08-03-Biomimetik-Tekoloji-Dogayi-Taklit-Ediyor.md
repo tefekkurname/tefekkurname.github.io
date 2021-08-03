@@ -12,23 +12,7 @@ published: true
 lang: tr
 feature_video: 
 image:
-  feature: collesme-gunu.jpg
----
--
-layout: post
-title: "Ahir zamanda yaşanan büyük kuraklık Hz. Mehdi’nin çıkış alametlerinden biridir"
-description: "Ahir zaman, kıyametten önceki son dönem anlamına gelen bir kavramdır."
-excerpt: "Ahir zamanın özellikleri ve alametleri, Peygamber Efendimiz (sav)'in hadislerinde detaylı olarak tarif edilmiştir."
-keywords: Ahir zaman, kıyamet
-categories: [blog]
-tags: [blog]
-lang: tr
-date: 2021-07-31 12:00:00
-last_updated: 2021-07-31 18:57:00
-published: true
-feature_video: 
-image:
-  feature: collesme-gunu.jpg
+  feature: /assets/image/biomimetics/Bio-fil-hortumu.jpg
 ---
 
 
