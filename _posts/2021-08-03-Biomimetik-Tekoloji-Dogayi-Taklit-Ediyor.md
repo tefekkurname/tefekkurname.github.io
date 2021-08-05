@@ -12,7 +12,7 @@ published: true
 lang: tr
 feature_video: 
 image:
-  feature: image/biomimetics/Bio-fil-hortumu.jpg
+  feature: Bio-fil-hortumu.jpg
 ---
 
 
