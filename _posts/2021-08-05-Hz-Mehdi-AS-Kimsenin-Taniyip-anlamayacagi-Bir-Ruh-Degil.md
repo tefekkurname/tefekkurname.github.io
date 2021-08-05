@@ -12,7 +12,7 @@ last_updated: 2021-08-05 18:57:00
 published: true
 feature_video: 
 image:
-  feature: Image/makaleler/hzmehdiruhdegildir3
+  feature: hzmehdiruhdegildir5.jpg
 ---
 
 <p>
