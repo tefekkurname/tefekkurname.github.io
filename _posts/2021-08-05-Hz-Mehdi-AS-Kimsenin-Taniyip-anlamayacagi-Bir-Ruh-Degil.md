@@ -252,5 +252,5 @@ image:
 	<span><span>“... AHİR ZAMAN’IN EN BÜYÜK FESADI ZAMANINDA, ELBETTE  EN BÜYÜK BİR MÜÇTEHİD (GEREKTİĞİNDE AYET VE HADİSLERDEN HÜKÜM ÇIKARAN BİR ALİM), HEM EN BÜYÜK BİR MÜCEDDİD (DİNİ YENİLEYİCİ), HEM  HAKİM, HEM  HZ. MEHDİ (A.S.), HEM MÜRŞİD (İNSANLARA DOĞRU YOLU GÖSTEREN), HEM  KUTB-U AZAM (ZAMANININ EN BÜYÜK DİNİ LİDERİ) OLARAK BİR NURANİ BİR KİŞİYİ GÖNDERECEK  ve  O ZAT DA,  PEYGAMBERİMİZ (S.A.V.)’İN SOYUNDAN OLACAKTIR.”(Mektubat,  Yirmi Dokuzuncu Mektup, Yedinci Risale Olan Yedinci Kısım, s. 411-412)</span></span></p>
 <p>
 	<span><span>Görüldüğü gibi Bediüzzaman Hazretleri’nin ahir zamanın en büyük fesadı zamanında gelecek bu mübarek zat için kullandığı vasıfların hiçbiri bir ruha değil şahsa ait sıfatlardır. Hiçbir ruhun, şahsı manevinin, bir topluluğun, bir grubun sıfatı; “seyyid, müçtehid, müceddid, hakim, mürşid, kutb-u azam” olamaz. Bunların hepsi sadece bir zata, bir kişiye verilen sıfatlardır. Bediüzzaman Said Nursi’nin bu sıfatlarla nitelendirdiği Hz. Mehdi (a.s.) da diğer yüzyıl başlarında gelmiş olan müceddidler gibi bir şahıstır ve ahir zamanda zuhur edecektir.</span></span></p>
-                        <strong>2011-06-08 13:26:28</strong>
+<strong>2011-06-08 13:26:28</strong>
 
