@@ -15,6 +15,11 @@ image:
   feature: hzmehdiruhdegildir5.jpg
 ---
 
+
+<div class="responsive-wrap">
+<iframe width="950" height="520" src="https://e.pcloud.link/publink/show?code=XZ8KD0ZDRtCDNbxb3VmNqWDYPR6Gh2mKRsX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p>
 	<strong><span><span>Mehdiyet konusu her dönemde İslam tarihinde önemli bir yer tutmuştur. Peygamber Efendimiz (s.a.v.)’in çok sayıdaki hadisinde, ismiyle, vasıflarıyla, yardımcılarıyla, devrinin özellikleriyle ve yapacağı icraatlarla ayrıntılı olarak tarif edilen Hazreti Mehdi (a.s.)’ın geleceğine çeşitli Kuran ayetlerinde de işari manada müjde vardır. Pek çok İslam alimi, tarihçi ve araştırmacı  Hz. Mehdi (a.s) hakkında eserler kaleme almış ya da eserlerinde Mehdiyet konusuna önemli bir yer ayırmıştır. Bu eserler incelendiğinde, Hz. Mehdi (a.s)’ın bir şahıs olduğu  her akıl ve vicdan sahibiMüslüman tarafından rahatlıkla anlaşılacaktır. Bu konu tartışmaya yer bırakmayacak derecede kesinlik göstermektedir.</span></span></strong></p>
 <p>
