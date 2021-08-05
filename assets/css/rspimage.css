@@ -1,5 +1,9 @@
 .left {
  float: left;
  padding: 0 10px 0 0;}
+ 
+.right {
+ float: right;
+ padding: 0 10px 0 0;}
 
 .responsive-wrap iframe{ max-width: 100%;}
