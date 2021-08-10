@@ -24,7 +24,7 @@ image:
 <h2>Addax Antilopları </h2>
 
 ![Addax Antilopları](/images/blog/adax-en-peligro-de-extincion.jpg "Addax Antilopları"){:height="30%" width="30%" class="left"} 
-<span>Bir antilop türü olan Addaxlar, Sahara Çölü’nde yaşamaktadırlar. Soluk kum rengindeki bu hayvanlar, hızlı koşamamalarına rağmen, sağlam ve güclü tırnakları sayesinde kumda kolaylıkla hareket edebilirler. Addaxların çöl koşullarına uyumunu sağlayan önemli özelliklerinden biri su içmemeleridir. Suya olan ihtiyaclarını, yedikleri çöl otlarından karşılarlar. Bu canlılar, çöl ortamında uzak mesafelerdeki besinleri bulma konusunda mucizevi bir yeteneğe sahiptirler. Ayrıca yalnızca geceleri yemek yemeleri de oldukça dikkat çekicidir. Cünkü Addaxlar, çöl bitkilerinin geceleri havadaki nemi topladıklarını adeta bilirmişcesine, bu bitkileri geceleri yemeyi tercih etmektedirler. Elbette Addaxlara bu akılcı davranışı ilham eden alemlerin Allah’tır.</span>
+<span>Bir antilop türü olan Addaxlar, Sahara Çölü’nde yaşamaktadırlar. Soluk kum rengindeki bu hayvanlar, hızlı koşamamalarına rağmen, sağlam ve güclü tırnakları sayesinde kumda kolaylıkla hareket edebilirler. Addaxların çöl koşullarına uyumunu sağlayan önemli özelliklerinden biri su içmemeleridir. Suya olan ihtiyaclarını, yedikleri çöl otlarından karşılarlar. Bu canlılar, çöl ortamında uzak mesafelerdeki besinleri bulma konusunda mucizevi bir yeteneğe sahiptirler. Ayrıca yalnızca geceleri yemek yemeleri de oldukça dikkat çekicidir. Çünkü Addaxlar, çöl bitkilerinin geceleri havadaki nemi topladıklarını adeta bilirmişcesine, bu bitkileri geceleri yemeyi tercih etmektedirler. Elbette Addaxlara bu akılcı davranışı ilham eden alemlerin Allah’tır.</span>
 
 
 <br>
@@ -41,7 +41,7 @@ image:
 <h2>Altın Renkli Köstebek (Golden Mole) </h2>
 ![Addax Antilopları](/images/blog/golden-mole.jpg "Addax Antilopları"){:height="40%" width="40%" class="left"} 
 
-<span>Altın renkli köstebekler, çöldeki kum tepelerinde yaşamalarına rağmen çok nadir olarak görülürler. Yalnızca bazı gecelerde termit avlamak için dışarı çıkarlar.</span><span>Güney Afrika’da yaşayan bu kemirgenler, çöllerdeki kumluk ovalardan dağlık bölgelere kadar, çukur kazarak yuva yapabildikleri her yerde yaşamlarını sürdürürler.</span><span>Bu köstebek türünün kumlarla uyumlu olan ve kamuşaj konusunda onlara kolaylık sağlayan altın sarısı ve gri tonlarında parlak tüyleri vardır. Yaşamını yer altında sürdüren bu köstebeklerin gözleri de tüylerle kaplıdır. Aynı zamanda görünürde kulakları da olmayan bu canlılar, buna rağmen çok hassas bir duyma yeteneğine sahiptirler.</span><span>Altın renkli köstebeklerin çölde karşılaştıkları en büyük zorluklardan biri ise kayan kumlardır. Fakat güçlü ve sert bir burna sahip olan bu canlı kayan kumları yararak, Yüce Allah’ın ilminin bir tecellisi olarak kumun içinde adeta yüzercesine ilerler.</span>
+<span>Altın renkli köstebekler, çöldeki kum tepelerinde yaşamalarına rağmen çok nadir olarak görülürler. Yalnızca bazı gecelerde termit avlamak için dışarı çıkarlar.</span><span>Güney Afrika’da yaşayan bu kemirgenler, çöllerdeki kumluk ovalardan dağlık bölgelere kadar, çukur kazarak yuva yapabildikleri her yerde yaşamlarını sürdürürler.</span><span>Bu köstebek türünün kumlarla uyumlu olan ve kamuflaj konusunda onlara kolaylık sağlayan altın sarısı ve gri tonlarında parlak tüyleri vardır. Yaşamını yer altında sürdüren bu köstebeklerin gözleri de tüylerle kaplıdır. Aynı zamanda görünürde kulakları da olmayan bu canlılar, buna rağmen çok hassas bir duyma yeteneğine sahiptirler.</span><span>Altın renkli köstebeklerin çölde karşılaştıkları en büyük zorluklardan biri ise kayan kumlardır. Fakat güçlü ve sert bir burna sahip olan bu canlı kayan kumları yararak, Yüce Allah’ın ilminin bir tecellisi olarak kumun içinde adeta yüzercesine ilerler.</span>
 
 <h2>Oryx Antilopları</h2>
 
@@ -49,7 +49,7 @@ image:
 
 <h2>Çöl Kekliği (Sandgrouse) </h2>
 
-<span>Sahara ve Kalahari Çöllerinde bulunan çöl keklikleri, yiyeceklerini kumlardaki tohumları ve filizleri tarayarak elde ederler. Kahverengi, siyah, sarı, gri ve beyaz renklerdeki tüyleri, çöl kekliklerinin çölde kolaylıkla kamuşe olmalarını sağlar. Çöl kekliklerinin bacaklarının üzerinde bulunan tüyler ise onları gündüzleri çölün yakıcı sıcağından, geceleri de dondurucu soğuklardan korur. Oldukça güçlü kuşlar olan çöl keklikleri, çöl koşullarında günlük su ihtiyaçlarını karşılayacak suya ulaşmak için günde 121 km uçabilirler. Bunun yanı sıra su içmekten geri dönerken, göğüs tüylerini ıslatarak, yavrularına da su taşırlar.</span>
+<span>Sahara ve Kalahari Çöllerinde bulunan çöl keklikleri, yiyeceklerini kumlardaki tohumları ve filizleri tarayarak elde ederler. Kahverengi, siyah, sarı, gri ve beyaz renklerdeki tüyleri, çöl kekliklerinin çölde kolaylıkla kamufle olmalarını sağlar. Çöl kekliklerinin bacaklarının üzerinde bulunan tüyler ise onları gündüzleri çölün yakıcı sıcağından, geceleri de dondurucu soğuklardan korur. Oldukça güçlü kuşlar olan çöl keklikleri, çöl koşullarında günlük su ihtiyaçlarını karşılayacak suya ulaşmak için günde 121 km uçabilirler. Bunun yanı sıra su içmekten geri dönerken, göğüs tüylerini ıslatarak, yavrularına da su taşırlar.</span>
 
 <h2>Darkling Böcekleri </h2>
 
