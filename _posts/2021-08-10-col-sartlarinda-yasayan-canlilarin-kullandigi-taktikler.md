@@ -23,7 +23,7 @@ image:
 
 <h2>Addax Antilopları </h2>
 
-![Addax Antilopları](/images/blog/adax-en-peligro-de-extincion.jpg "Addax Antilopları"){:height="40%" width="40%" class="left"} 
+![Addax Antilopları](/images/blog/adax-en-peligro-de-extincion.jpg "Addax Antilopları"){:height="30%" width="30%" class="left"} 
 <span>Bir antilop türü olan Addaxlar, Sahara Çölü’nde yaşamaktadırlar. Soluk kum rengindeki bu hayvanlar, hızlı koşamamalarına rağmen, sağlam ve güclü tırnakları sayesinde kumda kolaylıkla hareket edebilirler. Addaxların çöl koşullarına uyumunu sağlayan önemli özelliklerinden biri su içmemeleridir. Suya olan ihtiyaclarını, yedikleri çöl otlarından karşılarlar. Bu canlılar, çöl ortamında uzak mesafelerdeki besinleri bulma konusunda mucizevi bir yeteneğe sahiptirler. Ayrıca yalnızca geceleri yemek yemeleri de oldukça dikkat çekicidir. Cünkü Addaxlar, çöl bitkilerinin geceleri havadaki nemi topladıklarını adeta bilirmişcesine, bu bitkileri geceleri yemeyi tercih etmektedirler. Elbette Addaxlara bu akılcı davranışı ilham eden alemlerin Allah’tır.</span>
 
 
