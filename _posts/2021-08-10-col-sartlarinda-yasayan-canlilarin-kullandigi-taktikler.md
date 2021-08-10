@@ -54,7 +54,7 @@ image:
 
 <h2>Çöl Kekliği (Sandgrouse) </h2>
 
-![Sandgrouse](/images/blog/Sandgrouse.jpg "Sandgrouse"){:height="40%" width="40%" class="left"} 
+![Sandgrouse](/images/blog/Sandgrouse.jpg "Sandgrouse"){:height="30%" width="30%" class="left"} 
 
  Sahara ve Kalahari Çöllerinde bulunan çöl keklikleri, yiyeceklerini kumlardaki tohumları ve filizleri tarayarak elde ederler. Kahverengi, siyah, sarı, gri ve beyaz renklerdeki tüyleri, çöl kekliklerinin çölde kolaylıkla kamufle olmalarını sağlar. Çöl kekliklerinin bacaklarının üzerinde bulunan tüyler ise onları gündüzleri çölün yakıcı sıcağından, geceleri de dondurucu soğuklardan korur. Oldukça güçlü kuşlar olan çöl keklikleri, çöl koşullarında günlük su ihtiyaçlarını karşılayacak suya ulaşmak için günde 121 km uçabilirler. Bunun yanı sıra su içmekten geri dönerken, göğüs tüylerini ıslatarak, yavrularına da su taşırlar. 
 
