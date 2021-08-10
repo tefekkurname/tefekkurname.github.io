@@ -12,7 +12,7 @@ last_updated: 2021-07-28 18:57:00
 published: true
 feature_video: 
 image:
-  feature: blog/çöl.jpg
+  feature: blog/col.jpg
 ---
 
 *   Stenocaranın su depolama sistemi nasıl çalışır?
