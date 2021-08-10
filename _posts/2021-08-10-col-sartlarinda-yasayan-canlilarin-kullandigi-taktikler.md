@@ -46,19 +46,24 @@ image:
 <h2>Oryx Antilopları</h2>
 
 ![Addax Antilopları](/images/blog/golden-mole.jpg "Addax Antilopları"){:height="40%" width="40%" class="left"} 
+
 <span>Addaxlar gibi bir antilop türü olan Oryxler, Afrika’da yaşamaktadırlar. Bu canlılar, bir metreden daha fazla bir uzunluğa sahip olabilen etkileyici boynuzları sayesinde kendilerini korurlar.</span><span>Oryx sürüleri, çöl fırtınalarından sonra çıkan taze yeşil otlardan bulabilmek için oldukça uzun mesafeler katedebilirler. Ayrıca sahip oldukları beyaz renk, güneş ışınlarını yansıtarak onların güneşin yakıcı sıcaklığından korunmalarını sağlar. Yüce Rabbimiz’in verdiği üstün bir özelliğe daha sahip olan Oryxler, 56oC’ye çıkabilen vücut sıcaklıkları sayesinde aşırı sıcakla ve kuraklıkla mücadele edebilirler.</span>
 
 <h2>Çöl Kekliği (Sandgrouse) </h2>
 
 ![Sandgrouse](/images/blog/Sandgrouse.jpg "Sandgrouse"){:height="40%" width="40%" class="left"} 
+
 <span>Sahara ve Kalahari Çöllerinde bulunan çöl keklikleri, yiyeceklerini kumlardaki tohumları ve filizleri tarayarak elde ederler. Kahverengi, siyah, sarı, gri ve beyaz renklerdeki tüyleri, çöl kekliklerinin çölde kolaylıkla kamufle olmalarını sağlar. Çöl kekliklerinin bacaklarının üzerinde bulunan tüyler ise onları gündüzleri çölün yakıcı sıcağından, geceleri de dondurucu soğuklardan korur. Oldukça güçlü kuşlar olan çöl keklikleri, çöl koşullarında günlük su ihtiyaçlarını karşılayacak suya ulaşmak için günde 121 km uçabilirler. Bunun yanı sıra su içmekten geri dönerken, göğüs tüylerini ıslatarak, yavrularına da su taşırlar.</span>
 
 <h2>Darkling Böcekleri </h2>
+
 ![Darkling](/images/blog/Darkling-Beetle.jpg "Darkling"){:height="40%" width="40%" class="left"} 
 
 <span>Darkling böcekleri, deniz kenarında yer alan Namib Çölü’nde yaşamaktadır. Namib Çölü’nde yaşayan tüm canlıların su kaynağı, okyanus üzerinden gelen sis bulutlarıdır. Darkling böcekleri de su elde etmek için öncelikle kum tepelerinin en yüksek noktasına çıkar, orada vücutlarının arka kısmını havaya kaldırarak kabuklarının üzerinde çiğ tanelerinin birikmesini sağlarlar. Daha sonra ağızlarına doğru süzülen bu suyu içerek, su ihtiyaçlarını gidermiş olurlar.</span><span>Kabuklarının üzerinde su kaybetmelerini engelleyen özel bir su geçirmez katman bulunan bu böcekler, aynı zamanda uzun bacaklara sahiptirler. Bu uzun bacakları sayesinde gövdeleri kızgın kumlarla temas etmez. Ayrıca çölün en sıcak kısımlarında soluk bir renge bürünerek, yakıcı güneş ışınlarının etkisini azaltırlar.</span>
 
 <h2>En Küçük Tilki Türü: Fennec Tilkisi </h2>
+
+![Fennec](/images/blog/Fennec.jpg "Fennec"){:height="40%" width="40%" class="left"} 
 
 <span>Çölde yaşayan canlılardan biri olan Fennec tilkileri, Afrika ve Arabistan’ın kumlu çöllerinde yaşarlar. Tilki ailesinin en küçük bireyleri olan bu sevimli canlılar, bedenlerine göre oldukça büyük kulaklara sahiptirler. Bu büyük kulaklar, sadece avlarının yerini tespit etmeye yaramakla kalmaz, aynı zamanda vücut sıcaklığının dışarı atılmasını sağlayan birer soğutucu işlevi de görür.</span><span>Böcek, kertenkele ve küçük kemirgenlerle beslenen Fennec tilkileri gece avlanırlar. Çöl sıcaklarının hakim olduğu gündüz saatleri boyunca da kumda kazdıkları çukurlarda gizlenirler.</span><span>Kızıl kahve tonlarında kürkleri ve gür siyah tüylü kuyrukları olan Fennec tilkileri pençelerinde bulunan tüylü taban sayesinde kumda koşarken çok daha kolay tutunabilirler.</span>
 
