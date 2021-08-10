@@ -42,7 +42,7 @@ image:
 
 <h2>Altın Renkli Köstebek (Golden Mole) </h2>
 
-![Oryx Antilopları](/images/blog/Oryx.jpg "Oryx Antilopları"){:height="40%" width="40%" class="left"} 
+![Oryx Antilopları](/images/blog/Oryx.jpg "Oryx Antilopları"){:height="30%" width="30%" class="left"} 
 
  Altın renkli köstebekler, çöldeki kum tepelerinde yaşamalarına rağmen çok nadir olarak görülürler. Yalnızca bazı gecelerde termit avlamak için dışarı çıkarlar. Güney Afrika’da yaşayan bu kemirgenler, çöllerdeki kumluk ovalardan dağlık bölgelere kadar, çukur kazarak yuva yapabildikleri her yerde yaşamlarını sürdürürler. Bu köstebek türünün kumlarla uyumlu olan ve kamuflaj konusunda onlara kolaylık sağlayan altın sarısı ve gri tonlarında parlak tüyleri vardır. Yaşamını yer altında sürdüren bu köstebeklerin gözleri de tüylerle kaplıdır. Aynı zamanda görünürde kulakları da olmayan bu canlılar, buna rağmen çok hassas bir duyma yeteneğine sahiptirler. Altın renkli köstebeklerin çölde karşılaştıkları en büyük zorluklardan biri ise kayan kumlardır. Fakat güçlü ve sert bir burna sahip olan bu canlı kayan kumları yararak, Yüce Allah’ın ilminin bir tecellisi olarak kumun içinde adeta yüzercesine ilerler. 
 
