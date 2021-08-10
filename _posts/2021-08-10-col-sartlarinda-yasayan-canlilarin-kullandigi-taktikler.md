@@ -36,7 +36,7 @@ image:
 
 <h4>Devekuşunun Fedakarlığı</h4>
 
-![devekusu](/images/blog/devekusu-fedarkarligi.jpg "devekusu"){:height="20%" width="20%" class="left"} 
+![devekusu](/images/blog/devekusu-fedarkarligi.jpg "devekusu"){:height="20%" width="20%" class="right"} 
 
  Öldürücü olabilen güneş ışınlarından korunmak için Afrika'daki canlılar kendilerine gölgelik mekanlar arar. Güney Afrika devekuşu ise kendinden çok yumurtalarını ve yavrularını düşünerek onları güneş ışığından korur. Bunun için onların üzerinde durur ve sık sık geniş kanatlarını açarak güneş ışığının yumurtalarına ve yavrularına gelmesini önler. Ancak dikkat edilirse, bu hayvan yakıcı güneşin ışınlarına, "kendi vücudunu" maruz bırakmakta ve yavrularını kendinden önce düşünmektedir. Bu da onun fedakarlığının çarpıcı bir delilidir. Kuşkusuz ona bu fedakarlığı ilham eden, onu yaratan Rahman ve Rahim olan Yüce Allah’tır. 
 
