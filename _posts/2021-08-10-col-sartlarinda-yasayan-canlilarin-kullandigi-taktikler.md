@@ -23,14 +23,14 @@ image:
 
 <h2>Addax Antilopları </h2>
 
-![Addax Antilopları](/images/blog/adax-en-peligro-de-extincion.jpg "Addax Antilopları"){:height="30%" width="30%" class="left"} 
+![Addax Antilopları](/images/blog/adax-en-peligro-de-extincion.jpg "Addax Antilopları"){:height="25%" width="25%" class="left"} 
  Bir antilop türü olan Addaxlar, Sahara Çölü’nde yaşamaktadırlar. Soluk kum rengindeki bu hayvanlar, hızlı koşamamalarına rağmen, sağlam ve güclü tırnakları sayesinde kumda kolaylıkla hareket edebilirler. Addaxların çöl koşullarına uyumunu sağlayan önemli özelliklerinden biri su içmemeleridir. Suya olan ihtiyaclarını, yedikleri çöl otlarından karşılarlar. Bu canlılar, çöl ortamında uzak mesafelerdeki besinleri bulma konusunda mucizevi bir yeteneğe sahiptirler. Ayrıca yalnızca geceleri yemek yemeleri de oldukça dikkat çekicidir. Çünkü Addaxlar, çöl bitkilerinin geceleri havadaki nemi topladıklarını adeta bilirmişcesine, bu bitkileri geceleri yemeyi tercih etmektedirler. Elbette Addaxlara bu akılcı davranışı ilham eden alemlerin Rabbi yüce Allah’tır. 
 
 
 <br>
 <h2>Devekuşu </h2>
 
-![Addax Antilopları](/images/blog/deve-kusu-2.jpg "Addax Antilopları"){:height="40%" width="40%" class="left"} 
+![Devekuşu](/images/blog/deve-kusu-2.jpg "Devekuşu"){:height="40%" width="40%" class="left"} 
 
  Sonsuz ilim sahibi Rabbimiz’in çöl koşullarına uyumlu olarak yarattığı bir diğer canlı türü olan devekuşu, dünyadaki en iri kuş cinsidir. Boyları 2,75 m.’ye kadar ulaşan bu canlılar, uçamamalarına rağmen çok güçlü olan bacakları sayesinde devekuşlarının hızları saatte 65 km/s.’yi bulur. Tehlike anında ise hızları 90 km/s.’ye kadar çıkabilmektedir. Devekuşları, çölün oldukça zorlu olan koşullarına -özellikle kuraklığa- kolayca uyum sağlayabilirler. Su gereksinimlerini yedikleri yiyeceklerden karşılayan devekuşları, bu nedenle ayrıca su içmeye ihtiyaç duymazlar. Bu da çölün kurak ikliminde onlara oldukça büyük bir kolaylık sağlamaktadır. 56°C sıcaklığa kadar dayanabilen devekuşlarının gagalarının uzunluğu 13 cm’yi bulabilmektedir. Hem ot hem et yiyebilen devekuşları, dişleri olmadığı için sindirimlerini günde yaklaşık olarak 1,5 kg taş yiyerek kolaylaştırmaya çalışırlar. Çok iyi bir görme açısına ve uzun bir boya sahip olmalarının avantajını kullanan devekuşları bu özellikleri ile, en küçük bir tehlikeyi bile fark ederler. Gözlerinin sahip olduğu keskin görüş, 1500-1600 metre uzaklıktaki bir kesme şeker tanesini bile rahatlıkla görmelerini sağlar. Bununla birlikte, devekuşlarının gözleri, çöl ortamında meydana gelen kum fırtınalarından iki adet göz kapağı ile korunmaktadır. Bu korumanın yanı sıra gözlerini hem kumdan koruyan, hem de her yeri görmelerini sağlayan ve içerden dışarıya hareket eden, kompleks bir göz kırpma zarları vardır. Devekuşunun bulunduğu ortama en uygun özelliklere sahip olması, Allah’ın eşsiz yaratılış delillerinden yalnızca biridir. 
 
