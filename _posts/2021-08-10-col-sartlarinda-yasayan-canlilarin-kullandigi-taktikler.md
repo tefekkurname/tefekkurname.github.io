@@ -42,13 +42,13 @@ image:
 
 <h2>Oryx Antilopları</h2>
 
-![Oryx Antilopları](/images/blog/Oryx.jpg "Oryx Antilopları"){:height="25%" width="25%" class="right"} 
+![Oryx Antilopları](/images/blog/Oryx.jpg "Oryx Antilopları"){:height="30%" width="30%" class="right"} 
 
  Altın renkli köstebekler, çöldeki kum tepelerinde yaşamalarına rağmen çok nadir olarak görülürler. Yalnızca bazı gecelerde termit avlamak için dışarı çıkarlar. Güney Afrika’da yaşayan bu kemirgenler, çöllerdeki kumluk ovalardan dağlık bölgelere kadar, çukur kazarak yuva yapabildikleri her yerde yaşamlarını sürdürürler. Bu köstebek türünün kumlarla uyumlu olan ve kamuflaj konusunda onlara kolaylık sağlayan altın sarısı ve gri tonlarında parlak tüyleri vardır. Yaşamını yer altında sürdüren bu köstebeklerin gözleri de tüylerle kaplıdır. Aynı zamanda görünürde kulakları da olmayan bu canlılar, buna rağmen çok hassas bir duyma yeteneğine sahiptirler. Altın renkli köstebeklerin çölde karşılaştıkları en büyük zorluklardan biri ise kayan kumlardır. Fakat güçlü ve sert bir burna sahip olan bu canlı kayan kumları yararak, Yüce Allah’ın ilminin bir tecellisi olarak kumun içinde adeta yüzercesine ilerler. 
 
 <h2>Altın Renkli Köstebek (Golden Mole) </h2>
 
-![Addax Antilopları](/images/blog/golden-mole.jpg "Addax Antilopları"){:height="40%" width="40%" class="left"} 
+![Addax Antilopları](/images/blog/golden-mole.jpg "Addax Antilopları"){:height="30%" width="30%" class="left"} 
 
  Addaxlar gibi bir antilop türü olan Oryxler, Afrika’da yaşamaktadırlar. Bu canlılar, bir metreden daha fazla bir uzunluğa sahip olabilen etkileyici boynuzları sayesinde kendilerini korurlar. Oryx sürüleri, çöl fırtınalarından sonra çıkan taze yeşil otlardan bulabilmek için oldukça uzun mesafeler katedebilirler. Ayrıca sahip oldukları beyaz renk, güneş ışınlarını yansıtarak onların güneşin yakıcı sıcaklığından korunmalarını sağlar. Yüce Rabbimiz’in verdiği üstün bir özelliğe daha sahip olan Oryxler, 56°C’ye çıkabilen vücut sıcaklıkları sayesinde aşırı sıcakla ve kuraklıkla mücadele edebilirler. 
 
