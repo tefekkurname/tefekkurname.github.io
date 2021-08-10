@@ -63,7 +63,7 @@ image:
 
 <h2>En Küçük Tilki Türü: Fennec Tilkisi </h2>
 
-![Fennec](/images/blog/Fennec.jpg "Fennec"){:height="40%" width="40%" class="left"} 
+![Fennec](/images/blog/Fennec.png "Fennec"){:height="40%" width="40%" class="left"} 
 
 <span>Çölde yaşayan canlılardan biri olan Fennec tilkileri, Afrika ve Arabistan’ın kumlu çöllerinde yaşarlar. Tilki ailesinin en küçük bireyleri olan bu sevimli canlılar, bedenlerine göre oldukça büyük kulaklara sahiptirler. Bu büyük kulaklar, sadece avlarının yerini tespit etmeye yaramakla kalmaz, aynı zamanda vücut sıcaklığının dışarı atılmasını sağlayan birer soğutucu işlevi de görür.</span><span>Böcek, kertenkele ve küçük kemirgenlerle beslenen Fennec tilkileri gece avlanırlar. Çöl sıcaklarının hakim olduğu gündüz saatleri boyunca da kumda kazdıkları çukurlarda gizlenirler.</span><span>Kızıl kahve tonlarında kürkleri ve gür siyah tüylü kuyrukları olan Fennec tilkileri pençelerinde bulunan tüylü taban sayesinde kumda koşarken çok daha kolay tutunabilirler.</span>
 
